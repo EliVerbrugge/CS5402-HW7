@@ -205,7 +205,7 @@ Orleans,Louisiana,5,12.0,critical/other existing credit,none,1495.0,"(-0.001, 7.
 Middlesex,Massachusetts,4,30.0,critical/other existing credit,unknown,10623.0,"(7.154, 34.309]",>=7,3,male single,none,4,no known property,38,none,for free,3,unknown,2,yes,NO,GOOD,1994-11-29,NO
 Suffolk,Massachusetts,5,12.0,critical/other existing credit,none,1935.0,"(-0.001, 7.154]",>=7,4,male single,none,4,real estate,43,none,unknown,3,unknown,1,yes,NO,BAD,1994-11-30,NO
 Anne Arundel,Maryland,5,12.0,critical/other existing credit,none,1424.0,"(65.862, 98.282]",4<=X<7,-1,male single,none,3,life insurance,26,none,own,1,unknown,1,none,NO,BAD,1994-12-01,NO
-Prince George's,Maryland,4,24.0,existing paid,none,6568.0,"(7.154, 34.309]",1<=X<4,2,unknown,none,2,car,21,stores,own,1,unskilled resident,1,none,YES,GOOD,1994-12-02,YES
+Prince George,Maryland,4,24.0,existing paid,none,6568.0,"(7.154, 34.309]",1<=X<4,2,unknown,none,2,car,21,stores,own,1,unskilled resident,1,none,YES,GOOD,1994-12-02,YES
 Baltimore city,Maryland,5,12.0,existing paid,unknown,1413.0,"(-0.001, 7.154]",4<=X<7,3,male single,unknown,2,life insurance,55,none,own,-1,skilled,1,unknown,NO,GOOD,1994-12-03,NO
 Kalamazoo,Michigan,5,9.0,critical/other existing credit,none,3074.0,"(-0.001, 7.154]",unknown,1,unknown,none,2,real estate,33,none,unknown,2,skilled,2,none,NO,BAD,1994-12-04,NO
 Saginaw,Michigan,5,36.0,existing paid,none,3835.0,"(-0.001, 7.154]",>=7,2,female div/dep/mar,none,4,real estate,45,none,own,1,unskilled resident,1,yes,YES,BAD,1994-12-05,YES
@@ -606,7 +606,7 @@ Harris,Texas,6,20.80799112097669,existing paid,none,1240.0,"(98.282, 9298.08]",u
 Los Angeles,California,4,21.0,existing paid,none,3357.0,"(98.282, 9298.08]",<1,4,female div/dep/mar,none,2,car,29,bank,unknown,1,skilled,1,none,YES,GOOD,1996-01-12,YES
 Cook,Illinois,3,24.0,all paid,guarantor,3632.0,"(34.309, 65.862]",1<=X<4,1,female div/dep/mar,guarantor,4,car,22,bank,rent,1,unknown,1,none,NO,GOOD,1996-01-13,NO
 St. Joseph,Indiana,5,18.0,delayed previously,none,1808.0,"(-0.001, 7.154]",4<=X<7,4,female div/dep/mar,none,1,real estate,33,none,own,1,skilled,1,none,YES,BAD,1996-01-14,YES
-Prince George's,Maryland,5,48.0,no credits/all paid,none,12204.0,"(-0.001, 7.154]",1<=X<4,2,male single,none,2,car,48,unknown,own,1,high qualif/self emp/mgmt,1,unknown,NO,GOOD,1996-01-15,NO
+Prince George,Maryland,5,48.0,no credits/all paid,none,12204.0,"(-0.001, 7.154]",1<=X<4,2,male single,none,2,car,48,unknown,own,1,high qualif/self emp/mgmt,1,unknown,NO,GOOD,1996-01-15,NO
 Wayne,Michigan,5,60.0,delayed previously,none,3240.8794084186575,"(-0.001, 7.154]",1<=X<4,2,unknown,none,2,no known property,27,none,for free,1,high qualif/self emp/mgmt,1,none,YES,BAD,1996-01-16,YES
 Springfield,Missouri,3,6.0,critical/other existing credit,none,3676.0,"(7.154, 34.309]",1<=X<4,1,unknown,none,3,real estate,37,none,rent,3,skilled,2,none,NO,GOOD,1996-01-17,NO
 New York,New York,5,30.0,existing paid,co applicant,3441.0,"(-0.001, 7.154]",1<=X<4,-1,female div/dep/mar,co applicant,4,car,21,none,rent,1,skilled,1,none,NO,GOOD,1996-01-18,NO
@@ -961,7 +961,7 @@ Baltimore,Maryland,5,42.0,existing paid,none,7166.0,"(-0.001, 7.154]",4<=X<7,2,m
 Carroll,Maryland,0,11.0,critical/other existing credit,none,3939.0,"(65.862, 98.282]",1<=X<4,1,male single,none,2,real estate,40,none,own,2,unskilled resident,2,none,YES,BAD,1997-01-03,YES
 Charles,Maryland,5,15.0,existing paid,guarantor,1514.0,"(-0.001, 7.154]",1<=X<4,-1,male single,guarantor,2,real estate,22,unknown,own,1,skilled,1,none,YES,GOOD,1997-01-04,YES
 Montgomery,Maryland,5,24.0,existing paid,none,7393.0,"(-0.001, 7.154]",1<=X<4,1,male single,none,4,life insurance,43,none,unknown,1,unskilled resident,2,unknown,YES,GOOD,1997-01-06,YES
-Prince George's,Maryland,3,24.0,all paid,co applicant,1193.0,"(7.154, 34.309]",unemployed,1,female div/dep/mar,co applicant,4,no known property,29,none,rent,2,unemp/unskilled non res,1,none,YES,GOOD,1997-01-07,YES
+Prince George,Maryland,3,24.0,all paid,co applicant,1193.0,"(7.154, 34.309]",unemployed,1,female div/dep/mar,co applicant,4,no known property,29,none,rent,2,unemp/unskilled non res,1,none,YES,GOOD,1997-01-07,YES
 Talbot,Maryland,2,60.0,existing paid,co applicant,3240.8794084186575,"(-0.001, 7.154]",>=7,-1,male single,co applicant,4,no known property,33,none,rent,1,skilled,1,none,YES,BAD,1997-01-08,YES
 Baltimore city,Maryland,5,30.0,critical/other existing credit,unknown,3240.8794084186575,"(-0.001, 7.154]",1<=X<4,-1,female div/dep/mar,none,2,car,33,none,own,1,skilled,1,yes,YES,BAD,1997-01-09,YES
 Somerset,Maine,9,24.0,existing paid,none,3240.8794084186575,"(98.282, 9298.08]",1<=X<4,3,female div/dep/mar,none,3,other,57,none,own,1,unskilled resident,1,none,NO,GOOD,1997-01-10,NO
