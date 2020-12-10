@@ -53,10 +53,10 @@ def gen_splits(df, split_attr, category_groups):
     
 
 def determine_best_grouping(df, split_attr, verbose=False):
-	"""
-	Returns a list groups of attributes that produces the greatest 
-	information gain in a dataframe
-	"""
+    """
+    Returns a list groups of attributes that produces the greatest 
+    information gain in a dataframe
+    """
     # Create a list of every possible grouping of attribute values
     category_groupings = [*partition(list(df[split_attr].unique()))]
 
