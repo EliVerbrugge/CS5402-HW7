@@ -1,0 +1,991 @@
+state,checking_amt,duration,credit_history,purpose,credit_amount,savings,employment,installment_commitment,personal_status,other_parties,residence_since,property_magnitude,age,other_payment_plans,housing,existing_credits,job,num_dependents,own_telephone,foreign_worker,total,proportion,gender,class
+Pennsylvania,-2589.19,6.0,Bad,radio/tv,2315.0,0.0,4,-1,male single,none,4,real estate,67,none,own,2,skilled,1,yes,NO,-274.19000000000005,-1.1179576856649396,male,BAD
+Pennsylvania,53.51,48.0,Good,radio/tv,5951.0,2.52,2,2,female div/dep/mar,none,2,no known property,22,none,own,1,skilled,1,none,NO,6007.03,0.00941364247311828,female,BAD
+Pennsylvania,0.0,12.0,Bad,education,2096.0,0.0,3,2,male single,unknown,-1,real estate,49,none,unknown,1,unskilled resident,2,none,NO,2096.0,0.0,male,BAD
+Pennsylvania,-4695.81,42.0,Good,furniture/equipment,7882.0,92.15,3,2,male single,guarantor,4,life insurance,45,none,for free,1,skilled,2,unknown,NO,3278.3399999999992,-0.5839984777369023,male,BAD
+Pennsylvania,-9540.2,24.0,Moderate,other,4870.0,39.81,2,3,male single,none,4,no known property,53,none,for free,2,skilled,2,none,NO,-4630.390000000001,-1.9503982755081095,male,GOOD
+Pennsylvania,0.0,36.0,Good,education,9055.0,0.0,2,-1,male single,none,4,no known property,35,none,for free,1,unskilled resident,2,yes,YES,9055.0,0.0,male,BAD
+Pennsylvania,38.12,36.0,Moderate,used car,6948.0,20.69,2,2,male single,none,2,car,35,none,unknown,1,high qualif/self emp/mgmt,1,yes,YES,7006.81,0.00846308821413153,male,BAD
+Pennsylvania,0.0,12.0,Good,radio/tv,3059.0,0.0,0,2,male div/sep,none,4,real estate,61,none,own,-1,unskilled resident,1,none,YES,3059.0,0.0,male,GOOD
+Rhode Island,101.81,30.0,Bad,new car,5234.0,85.64,0,4,male mar/wid,none,2,car,28,none,own,2,high qualif/self emp/mgmt,1,none,NO,5421.45,0.03580706781279847,male,BAD
+South Carolina,130.75,12.0,Good,new car,1295.0,99.76,1,3,female div/dep/mar,none,-1,car,33,unknown,rent,1,skilled,1,none,YES,1525.51,0.17786265432098763,female,BAD
+South Carolina,-1950.83,48.0,Good,business,4308.0,69.51,1,3,female div/dep/mar,none,4,life insurance,24,none,rent,-1,skilled,1,none,YES,2426.6800000000003,-0.43660245996750985,female,GOOD
+South Carolina,15.12,12.0,Good,radio/tv,1567.0,89.2,0,1,female div/dep/mar,none,1,car,22,none,own,1,skilled,1,yes,YES,1671.32,0.06653061224489797,female,BAD
+South Carolina,0.0,24.0,Bad,new car,1199.0,0.0,4,4,male single,none,-1,car,60,none,own,2,unskilled resident,1,none,NO,1199.0,0.0,male,GOOD
+South Carolina,-6002.72,15.0,Good,new car,1403.0,42.11,2,2,unknown,none,4,car,33,none,rent,-1,skilled,1,none,YES,-4557.610000000001,-4.245448717948718,unknown,GOOD
+South Carolina,-787.62,24.0,Good,radio/tv,1282.0,247.0,0,4,female div/dep/mar,none,-1,car,32,none,own,1,unskilled resident,1,none,YES,741.38,-0.4213717848791894,female,GOOD
+South Carolina,0.0,18.0,Bad,radio/tv,2424.0,0.0,0,4,male single,none,4,life insurance,33,none,own,2,skilled,1,none,YES,2424.0,0.0,male,GOOD
+South Carolina,-9440.86,30.0,Moderate,business,8072.0,0.0,1,-1,male single,none,3,car,25,bank,own,3,skilled,1,none,YES,-1368.8600000000006,-1.1694363929146538,male,BAD
+South Carolina,64.89,24.0,Good,used car,2315.0,2.66,4,4,female div/dep/mar,none,2,no known property,33,none,for free,-1,high qualif/self emp/mgmt,1,yes,YES,2382.55,0.029166666666666667,female,BAD
+South Carolina,0.0,24.0,Moderate,radio/tv,3430.0,0.0,4,3,male single,unknown,2,car,31,none,own,1,skilled,1,yes,YES,3430.0,0.0,male,BAD
+South Carolina,0.0,18.0,Bad,new car,2134.0,0.0,2,4,male single,none,4,car,48,none,own,3,skilled,1,yes,YES,2134.0,0.0,male,GOOD
+South Carolina,-864.51,6.0,Good,radio/tv,2647.0,742.31,2,2,male single,none,3,real estate,44,none,rent,1,skilled,2,none,YES,2524.8,-0.046148036253776455,male,GOOD
+South Carolina,-5730.5,10.0,Bad,new car,2241.0,41.19,0,1,male single,unknown,3,real estate,48,none,rent,2,unknown,2,none,YES,-3448.3100000000004,-2.5376048171275647,male,BAD
+South Carolina,104.66,12.0,Bad,used car,1804.0,438.95,1,3,male single,none,4,no known property,44,none,own,1,skilled,1,unknown,YES,2347.61,0.3011689750692521,male,GOOD
+South Carolina,0.0,10.0,Bad,other,2069.0,0.0,2,2,male mar/wid,none,1,car,26,none,own,2,skilled,1,none,YES,2069.0,0.0,male,BAD
+South Carolina,0.0,6.0,Good,furniture/equipment,2315.0,0.0,2,1,male single,none,-1,real estate,36,bank,own,1,unskilled resident,1,yes,NO,2315.0,0.0,male,GOOD
+South Carolina,0.0,6.0,Moderate,radio/tv,426.0,0.0,0,-1,male mar/wid,none,4,car,39,none,own,1,unskilled resident,1,none,NO,426.0,0.0,male,GOOD
+South Carolina,2577.11,12.0,Good,radio/tv,409.0,2599.63,2,3,female div/dep/mar,none,-1,real estate,42,none,rent,2,unknown,1,none,NO,5585.74,12.62619512195122,female,GOOD
+South Carolina,184.53,7.0,Good,radio/tv,2415.0,67.24,2,-1,male single,guarantor,2,real estate,34,none,own,-1,unknown,1,none,NO,2666.77,0.1042094370860927,male,GOOD
+South Carolina,-3479.0,60.0,Moderate,business,6836.0,26.85,4,-1,male single,none,4,no known property,63,unknown,own,2,skilled,1,yes,YES,3383.85,-0.5049217493052508,male,GOOD
+South Carolina,0.0,18.0,Good,business,1913.0,0.0,0,3,male mar/wid,unknown,3,real estate,36,bank,own,1,skilled,1,yes,NO,1913.0,0.0,male,GOOD
+South Carolina,-5072.05,24.0,Good,furniture/equipment,4020.0,12.54,0,2,male single,none,2,car,27,stores,own,1,skilled,1,none,YES,-1039.5100000000002,-1.2582715742352648,male,GOOD
+South Carolina,65.97,18.0,Good,new car,5866.0,265.12,2,2,male single,none,2,car,33,none,own,2,skilled,1,yes,NO,6197.09,0.056432589057439926,male,BAD
+South Dakota,0.0,12.0,Bad,business,1264.0,0.0,0,4,male single,none,4,no known property,57,none,rent,1,unskilled resident,1,unknown,YES,1264.0,0.0,male,BAD
+South Dakota,978.69,12.0,Good,furniture/equipment,2315.0,41.34,1,4,female div/dep/mar,none,1,life insurance,33,bank,unknown,1,high qualif/self emp/mgmt,1,unknown,YES,3335.03,0.4404274611398964,female,GOOD
+Tennessee,163.0,45.0,Bad,radio/tv,4746.0,0.0,1,4,male single,none,2,life insurance,25,none,own,2,unknown,1,none,NO,4909.0,0.034337476300821575,male,GOOD
+Tennessee,0.0,48.0,Bad,education,6110.0,0.0,2,1,male single,none,3,no known property,31,bank,for free,1,skilled,1,unknown,YES,6110.0,0.0,male,GOOD
+Tennessee,6976.08,18.0,Good,radio/tv,2100.0,4.69,0,4,male single,co applicant,2,real estate,37,stores,own,1,skilled,1,none,YES,9080.77,3.3225940028557828,male,BAD
+Tennessee,5588.7,10.0,Good,domestic appliance,1225.0,0.0,2,2,male single,none,-1,car,37,none,own,1,skilled,1,yes,YES,6813.7,4.558482871125611,male,GOOD
+Tennessee,47.76,9.0,Good,radio/tv,458.0,0.0,2,4,male single,none,3,real estate,24,none,own,-1,skilled,1,none,NO,505.76,0.10405228758169935,male,GOOD
+Tennessee,0.0,30.0,Good,radio/tv,2333.0,0.0,0,4,male single,none,2,car,30,bank,own,-1,high qualif/self emp/mgmt,1,none,NO,2333.0,0.0,male,GOOD
+Tennessee,150.32,18.0,Good,radio/tv,1158.0,0.0,2,3,male div/sep,none,1,car,26,none,own,-1,skilled,1,yes,NO,1308.32,0.12969801553062985,male,BAD
+Tennessee,158.94,18.0,Moderate,repairs,6204.0,24.41,2,2,male single,none,4,real estate,44,none,own,1,unskilled resident,2,unknown,YES,6387.35,0.029548751007252214,male,GOOD
+Tennessee,-913.07,30.0,Moderate,used car,6187.0,224.1,3,1,male mar/wid,none,-1,car,24,none,rent,2,skilled,1,none,YES,5498.03,-0.11133968972204267,male,BAD
+Tennessee,-8599.14,48.0,Bad,used car,6143.0,14.18,4,4,female div/dep/mar,none,4,no known property,58,stores,for free,2,unskilled resident,1,none,YES,-2441.959999999999,-1.3972916666666666,female,BAD
+Tennessee,0.0,11.0,Moderate,new car,1393.0,0.0,1,4,female div/dep/mar,none,4,car,35,none,own,2,high qualif/self emp/mgmt,1,none,NO,1393.0,0.0,female,GOOD
+Tennessee,0.0,36.0,Moderate,radio/tv,2315.0,0.0,4,4,male single,none,4,car,39,none,own,1,skilled,1,none,YES,2315.0,0.0,male,GOOD
+Tennessee,-1631.58,6.0,Good,used car,2315.0,0.0,0,1,female div/dep/mar,none,2,no known property,23,none,rent,1,unemp/unskilled non res,1,yes,YES,683.4200000000001,-0.704481865284974,female,BAD
+Texas,0.0,11.0,Bad,new car,7228.0,0.0,2,1,male single,none,4,life insurance,39,none,unknown,2,unskilled resident,1,none,NO,7228.0,0.0,male,GOOD
+Texas,0.0,12.0,Moderate,radio/tv,2073.0,0.0,0,4,female div/dep/mar,co applicant,2,real estate,28,none,own,1,skilled,1,none,NO,2073.0,0.0,female,GOOD
+Texas,166.03,24.0,Moderate,furniture/equipment,2333.0,0.0,1,4,male single,none,2,no known property,29,bank,own,1,unskilled resident,1,none,YES,2499.03,0.07113538988860325,male,GOOD
+Texas,180.59,27.0,Moderate,used car,5965.0,42.7,4,1,male single,none,2,car,30,none,own,-1,high qualif/self emp/mgmt,1,yes,NO,6188.29,0.03742708682534362,male,BAD
+Texas,0.0,12.0,Good,radio/tv,1262.0,0.0,2,3,male single,none,2,car,25,none,own,1,skilled,1,none,NO,1262.0,0.0,male,GOOD
+Texas,0.0,18.0,Good,used car,3378.0,0.0,2,2,male single,none,1,no known property,31,none,own,1,skilled,1,yes,NO,3378.0,0.0,male,GOOD
+Texas,127.36,36.0,Moderate,new car,2225.0,41.6,4,4,male single,none,4,no known property,57,bank,for free,2,skilled,1,unknown,YES,2393.96,0.07590296495956873,male,GOOD
+Texas,0.0,6.0,Good,new car,783.0,0.0,0,1,male single,guarantor,2,real estate,26,unknown,own,1,unskilled resident,2,none,YES,783.0,0.0,male,GOOD
+Texas,114.16,12.0,Good,radio/tv,6468.0,0.0,0,2,unknown,none,1,no known property,52,none,own,1,high qualif/self emp/mgmt,1,yes,NO,6582.16,0.017647240686350287,unknown,GOOD
+Texas,0.0,36.0,Bad,radio/tv,9566.0,0.0,2,2,female div/dep/mar,unknown,2,car,31,unknown,own,2,unknown,1,none,NO,9566.0,0.0,female,BAD
+Texas,3235.45,18.0,Moderate,new car,1961.0,65.36,0,3,female div/dep/mar,none,2,car,23,none,own,1,high qualif/self emp/mgmt,1,none,YES,5261.8099999999995,1.6823700305810396,female,GOOD
+Texas,-9972.01,36.0,Bad,furniture/equipment,6229.0,35.8,1,-1,female div/dep/mar,co applicant,4,no known property,23,none,rent,2,unskilled resident,1,unknown,YES,-3707.210000000001,-1.594897271268058,female,GOOD
+Texas,75.44,9.0,Good,business,1391.0,65.13,2,2,male mar/wid,unknown,1,real estate,33,bank,own,1,skilled,1,yes,YES,1531.57,0.10098419540229885,male,GOOD
+Texas,158.6,15.0,Bad,radio/tv,1537.0,0.0,4,4,male single,guarantor,4,real estate,50,none,own,2,skilled,1,yes,YES,1695.6,0.10312093628088426,male,BAD
+Texas,163.79,36.0,Moderate,business,1953.0,78.33,4,4,male single,none,4,no known property,61,none,for free,1,high qualif/self emp/mgmt,1,yes,NO,2195.12,0.12390992835209826,male,GOOD
+Texas,139.83,48.0,Moderate,business,14421.0,25.59,2,2,male single,none,2,car,25,none,own,1,skilled,1,yes,NO,14586.42,0.011469976424906395,male,GOOD
+Texas,0.0,18.0,Good,radio/tv,3181.0,0.0,1,-1,female div/dep/mar,none,-1,life insurance,26,none,own,1,skilled,1,yes,NO,3181.0,0.0,female,GOOD
+Texas,0.0,27.0,Good,repairs,5190.0,0.0,4,4,male single,none,4,life insurance,48,none,own,4,skilled,2,yes,YES,5190.0,0.0,male,BAD
+Texas,0.0,12.0,Good,radio/tv,2171.0,0.0,0,2,female div/dep/mar,unknown,2,car,29,bank,own,1,skilled,1,none,NO,2171.0,0.0,female,BAD
+Texas,59.47,12.0,Good,new car,1007.0,0.0,2,4,male mar/wid,unknown,1,real estate,33,none,own,1,skilled,1,none,YES,1066.47,0.05899801587301587,male,BAD
+Texas,0.0,36.0,Good,other,1819.0,0.0,2,4,male single,none,4,no known property,33,stores,for free,-1,unknown,1,yes,YES,1819.0,0.0,male,GOOD
+Texas,0.0,36.0,Good,radio/tv,2394.0,0.0,2,4,female div/dep/mar,none,4,car,25,none,own,1,skilled,1,none,YES,2394.0,0.0,female,BAD
+Texas,0.0,18.0,Good,used car,8133.0,0.0,0,-1,female div/dep/mar,none,2,life insurance,30,unknown,own,1,skilled,1,unknown,NO,8133.0,0.0,female,BAD
+Texas,0.0,7.0,Bad,radio/tv,730.0,0.0,4,4,male single,none,2,life insurance,33,none,rent,2,unskilled resident,1,yes,NO,730.0,0.0,male,GOOD
+Texas,0.0,8.0,Bad,other,1164.0,0.0,4,3,male single,none,-1,no known property,51,bank,for free,2,high qualif/self emp/mgmt,2,yes,YES,1164.0,0.0,male,GOOD
+Texas,0.0,42.0,Moderate,business,5954.0,0.0,3,2,female div/dep/mar,none,1,real estate,41,bank,own,2,unskilled resident,1,none,YES,5954.0,0.0,female,BAD
+Texas,-220.84,36.0,Good,education,1977.0,0.0,4,4,male single,none,4,no known property,40,none,unknown,-1,high qualif/self emp/mgmt,1,yes,YES,1756.16,-0.11164812942366026,male,BAD
+Texas,-6131.59,12.0,Bad,used car,1526.0,53.54,4,4,male single,none,4,no known property,66,none,for free,2,high qualif/self emp/mgmt,1,none,NO,-4552.05,-3.980386378519974,male,GOOD
+Texas,0.0,42.0,Good,other,2315.0,0.0,1,-1,male single,none,-1,car,34,none,unknown,1,skilled,1,none,YES,2315.0,0.0,male,BAD
+Texas,160.21,11.0,Moderate,radio/tv,4771.0,0.0,3,2,male single,none,4,life insurance,51,none,own,1,skilled,1,none,YES,4931.21,0.033572925398155914,male,BAD
+Texas,0.0,54.0,Moderate,other,9436.0,0.0,2,2,male single,none,2,life insurance,39,none,own,1,unskilled resident,1,none,YES,9436.0,0.0,male,GOOD
+Texas,161.2,30.0,Good,furniture/equipment,3832.0,8.69,1,-1,male mar/wid,unknown,1,life insurance,22,none,own,1,unknown,1,unknown,YES,4001.89,0.04432298460735716,male,GOOD
+Texas,0.0,24.0,Good,radio/tv,2315.0,0.0,1,1,female div/dep/mar,none,-1,car,44,unknown,own,2,skilled,1,yes,NO,2315.0,0.0,female,GOOD
+Texas,0.0,15.0,Good,radio/tv,1213.0,0.0,0,4,male single,none,3,life insurance,47,stores,unknown,1,skilled,1,yes,YES,1213.0,0.0,male,GOOD
+Texas,0.0,18.0,Good,business,2315.0,0.0,2,3,female div/dep/mar,none,4,life insurance,24,none,rent,1,unskilled resident,1,none,NO,2315.0,0.0,female,BAD
+Texas,-5878.49,24.0,Good,other,1755.0,98.16,4,-1,female div/dep/mar,guarantor,4,real estate,58,none,own,1,unknown,1,unknown,YES,-4025.33,-3.291759681093394,female,GOOD
+Texas,-1789.61,10.0,Good,radio/tv,2315.0,32.77,4,3,male single,unknown,4,real estate,52,none,own,1,unskilled resident,1,none,NO,558.1600000000001,-0.758566493955095,male,GOOD
+Texas,0.0,12.0,Bad,business,1412.0,0.0,2,-1,female div/dep/mar,guarantor,2,real estate,29,none,own,2,high qualif/self emp/mgmt,1,unknown,YES,1412.0,0.0,female,GOOD
+Texas,85.74,18.0,Bad,other,1295.0,0.0,0,4,female div/dep/mar,none,1,no known property,27,none,own,2,skilled,1,none,YES,1380.74,0.0661574074074074,female,GOOD
+Texas,138.23,36.0,Good,education,12612.0,438.24,0,-1,male single,none,4,no known property,47,none,for free,1,skilled,2,yes,NO,13188.47,0.045704431935304844,male,GOOD
+Texas,0.0,18.0,Good,new car,2249.0,0.0,3,4,male single,none,3,no known property,30,none,own,1,high qualif/self emp/mgmt,2,yes,NO,2249.0,0.0,male,GOOD
+Texas,-9244.18,12.0,Moderate,repairs,1108.0,5.74,3,4,male single,none,3,real estate,28,none,own,2,skilled,1,none,NO,-8130.4400000000005,-8.330423805229938,male,GOOD
+Texas,0.0,12.0,Bad,radio/tv,618.0,0.0,4,4,male single,none,4,no known property,56,none,own,1,skilled,1,none,NO,618.0,0.0,male,BAD
+Texas,-677.41,12.0,Moderate,used car,1409.0,1.66,4,4,male single,none,3,real estate,33,none,own,1,skilled,1,none,NO,733.25,-0.47925531914893615,male,GOOD
+Utah,0.0,12.0,Bad,radio/tv,797.0,0.0,4,4,female div/dep/mar,none,3,life insurance,33,bank,own,1,unskilled resident,2,none,YES,797.0,0.0,female,GOOD
+Utah,0.0,24.0,Bad,furniture/equipment,3617.0,0.0,4,4,male single,unknown,4,no known property,20,none,rent,2,skilled,1,none,YES,3617.0,0.0,male,BAD
+Virginia,45.54,12.0,Good,new car,1318.0,5987.51,4,4,male single,none,4,real estate,54,none,own,1,skilled,1,yes,NO,7351.05,4.5739575435936315,male,BAD
+Virginia,163.33,54.0,Moderate,business,2315.0,89.6,1,3,male single,none,4,no known property,58,none,unknown,1,skilled,1,yes,YES,2567.93,0.10920984455958549,male,GOOD
+Virginia,0.0,12.0,Bad,education,2012.0,0.0,3,4,female div/dep/mar,none,2,car,61,none,own,1,skilled,1,none,NO,2012.0,0.0,female,GOOD
+Virginia,4.36,18.0,Good,business,2622.0,167.17,2,4,male single,none,4,car,34,none,own,1,skilled,1,none,YES,2793.53,0.06539458635150591,male,GOOD
+Virginia,0.83,36.0,Bad,radio/tv,2315.0,36.75,4,4,male single,none,4,real estate,36,none,own,1,skilled,1,none,NO,2352.58,0.016226252158894644,male,GOOD
+Virginia,62.41,20.0,Moderate,used car,7057.0,0.0,3,-1,male single,none,4,life insurance,33,bank,rent,2,high qualif/self emp/mgmt,2,yes,YES,7119.41,0.008842448285633324,male,GOOD
+Virginia,0.0,24.0,Good,new car,1469.0,0.0,4,4,male mar/wid,none,-1,real estate,41,none,rent,1,unskilled resident,1,none,YES,1469.0,0.0,male,BAD
+Virginia,194.24,36.0,Good,radio/tv,2323.0,0.0,3,4,male single,none,4,car,24,none,rent,1,skilled,1,none,YES,2517.24,0.08358003442340792,male,BAD
+Virginia,0.0,6.0,Moderate,radio/tv,932.0,0.0,2,3,female div/dep/mar,none,-1,no known property,24,none,unknown,1,skilled,1,none,YES,932.0,0.0,female,GOOD
+Virginia,72.61,9.0,Bad,furniture/equipment,1919.0,0.0,3,4,male single,unknown,3,car,35,none,unknown,1,unknown,1,yes,YES,1991.61,0.03781770833333333,male,GOOD
+Virginia,0.0,12.0,Good,used car,2445.0,0.0,1,2,male mar/wid,none,4,car,26,none,rent,1,skilled,1,yes,NO,2445.0,0.0,male,GOOD
+Virginia,150.24,18.0,Bad,other,11938.0,20.15,2,2,male single,co applicant,3,car,39,unknown,own,2,high qualif/self emp/mgmt,2,yes,YES,12108.39,0.0142717145489572,male,BAD
+Virginia,0.0,18.0,Good,new car,6458.0,0.0,4,2,male single,none,4,no known property,39,bank,own,2,high qualif/self emp/mgmt,1,yes,NO,6458.0,0.0,male,GOOD
+Virginia,-757.72,18.0,Good,furniture/equipment,7721.0,0.0,1,1,female div/dep/mar,none,2,life insurance,30,none,own,1,skilled,1,yes,NO,6963.28,-0.09812483812483813,female,GOOD
+Virginia,55.89,18.0,Good,business,1410.0,549.75,4,1,male mar/wid,unknown,2,real estate,35,none,own,1,skilled,1,yes,YES,2015.6399999999999,0.42922749822820694,male,GOOD
+Virginia,80.35,6.0,Moderate,other,1449.0,265.76,4,1,unknown,none,2,car,31,bank,own,2,skilled,1,none,NO,1795.1100000000001,0.23869655172413795,unknown,GOOD
+Virginia,0.0,18.0,Good,education,392.0,0.0,1,-1,female div/dep/mar,none,-1,life insurance,23,none,unknown,1,skilled,1,yes,YES,392.0,0.0,female,GOOD
+Virginia,80.71,18.0,Good,new car,6260.0,68.22,3,-1,male single,none,3,no known property,28,none,rent,1,unskilled resident,1,none,NO,6408.93,0.02378693499440984,male,BAD
+Virginia,0.0,36.0,Bad,new car,7855.0,0.0,2,4,female div/dep/mar,none,2,real estate,25,stores,own,-1,skilled,1,yes,YES,7855.0,0.0,female,GOOD
+Virginia,0.0,12.0,Good,radio/tv,2315.0,0.0,4,3,male mar/wid,none,1,real estate,35,none,own,1,skilled,1,none,NO,2315.0,0.0,male,BAD
+Virginia,0.0,48.0,Moderate,radio/tv,2315.0,0.0,4,4,male single,none,1,real estate,47,none,own,1,skilled,1,yes,NO,2315.0,0.0,male,GOOD
+Vermont,-7890.14,18.0,Good,radio/tv,7174.0,0.0,3,4,female div/dep/mar,none,3,car,30,none,own,1,high qualif/self emp/mgmt,1,yes,NO,-716.1400000000003,-1.0996710801393728,female,GOOD
+Vermont,-308.12,10.0,Bad,furniture/equipment,2132.0,0.0,0,2,female div/dep/mar,co applicant,3,real estate,33,none,rent,2,skilled,1,unknown,NO,1823.88,-0.1444538209095171,female,GOOD
+Washington,-6207.62,33.0,Bad,furniture/equipment,4281.0,777.08,0,1,female div/dep/mar,none,4,car,23,none,own,2,skilled,1,unknown,NO,-1149.54,-1.268225128444652,female,GOOD
+Washington,180.83,12.0,Moderate,new car,2366.0,804.96,3,3,male div/sep,none,3,car,36,none,own,1,high qualif/self emp/mgmt,1,yes,YES,3351.79,0.4164723278411492,male,GOOD
+Washington,-4317.01,21.0,Good,radio/tv,1835.0,6.23,2,3,female div/dep/mar,none,2,real estate,25,none,own,2,skilled,1,yes,YES,-2475.7800000000007,-2.347919389978214,female,GOOD
+Washington,0.0,24.0,Bad,used car,2315.0,0.0,0,4,unknown,none,-1,car,41,none,rent,2,high qualif/self emp/mgmt,1,yes,NO,2315.0,0.0,unknown,GOOD
+Washington,0.0,18.0,Moderate,furniture/equipment,1768.0,0.0,2,-1,male single,none,2,real estate,24,none,rent,-1,unskilled resident,1,none,YES,1768.0,0.0,male,BAD
+Washington,4115.41,10.0,Bad,new car,781.0,68.49,0,-1,male single,unknown,4,no known property,63,none,for free,2,skilled,1,yes,YES,4964.9,5.350255754475703,male,GOOD
+Washington,69.75,18.0,Good,furniture/equipment,1924.0,0.0,0,4,female div/dep/mar,none,3,real estate,33,unknown,rent,1,unknown,1,none,NO,1993.75,0.036233766233766236,female,GOOD
+Washington,-8633.29,12.0,Bad,new car,2121.0,28.28,2,4,male single,unknown,2,life insurance,30,none,own,2,skilled,1,none,YES,-6484.01,-4.0551413760603205,male,BAD
+Washington,-7111.18,12.0,Moderate,radio/tv,2315.0,1.11,2,4,male mar/wid,none,2,real estate,40,none,own,1,unskilled resident,1,none,YES,-4795.070000000001,-3.069978411053541,male,GOOD
+Washington,150.56,12.0,Good,repairs,2315.0,33.47,2,-1,male single,none,2,car,30,none,own,1,skilled,1,none,NO,2499.03,0.07946027633851468,male,BAD
+Washington,163.65,12.0,Bad,used car,1860.0,21.86,0,4,male single,unknown,2,car,34,none,own,2,high qualif/self emp/mgmt,1,yes,YES,2045.51,0.09968296614723267,male,BAD
+Washington,-9688.11,12.0,Bad,new car,2315.0,0.0,2,3,female div/dep/mar,co applicant,2,real estate,29,none,own,2,unknown,1,none,YES,-7373.110000000001,-4.183121761658032,female,GOOD
+Washington,161.19,48.0,Good,new car,8487.0,0.0,3,1,female div/dep/mar,none,2,car,24,none,own,1,skilled,1,none,NO,8648.19,0.01899033930254477,female,BAD
+Washington,-4083.0,36.0,Moderate,education,6887.0,11.36,2,4,male single,none,3,life insurance,29,stores,own,1,skilled,1,yes,YES,2815.36,-0.5911207897793264,male,BAD
+Washington,0.0,15.0,Good,furniture/equipment,2315.0,0.0,1,2,male single,none,3,life insurance,27,bank,own,2,unskilled resident,1,none,NO,2315.0,0.0,male,GOOD
+Washington,0.0,18.0,Good,furniture/equipment,1984.0,0.0,2,4,male single,none,4,no known property,47,bank,for free,2,skilled,1,none,YES,1984.0,0.0,male,BAD
+Washington,0.0,18.0,Good,radio/tv,2315.0,0.0,3,2,female div/dep/mar,none,-1,real estate,21,none,own,1,skilled,1,unknown,YES,2315.0,0.0,female,BAD
+Wisconsin,0.0,12.0,Bad,other,1240.0,0.0,4,4,female div/dep/mar,none,2,no known property,38,none,own,2,skilled,1,yes,YES,1240.0,0.0,female,BAD
+Wisconsin,0.0,27.0,Moderate,used car,8613.0,0.0,2,2,male single,none,2,car,27,none,own,2,skilled,1,none,NO,8613.0,0.0,male,BAD
+Wisconsin,0.0,18.0,Moderate,radio/tv,766.0,0.0,2,4,male single,unknown,3,real estate,33,none,own,1,unskilled resident,1,none,NO,766.0,0.0,male,GOOD
+Wisconsin,51.64,15.0,Bad,radio/tv,2728.0,0.0,3,4,male single,guarantor,2,real estate,35,bank,own,3,skilled,1,yes,YES,2779.64,0.018922682301209234,male,GOOD
+Wisconsin,0.0,12.0,Good,radio/tv,1881.0,0.0,0,2,female div/dep/mar,none,2,car,44,none,rent,1,unskilled resident,1,yes,NO,1881.0,0.0,female,BAD
+Wisconsin,8525.7,6.0,Good,new car,709.0,7265.64,1,2,male mar/wid,none,2,real estate,27,none,own,1,unemp/unskilled non res,1,none,YES,16500.34,22.24132394366197,male,GOOD
+West Virginia,3.49,36.0,Good,radio/tv,2315.0,57.17,1,4,female div/dep/mar,none,1,no known property,33,none,own,1,high qualif/self emp/mgmt,1,yes,NO,2375.66,0.026191709844559586,female,BAD
+West Virginia,-4570.85,18.0,Good,other,3416.0,15.64,2,-1,male single,unknown,2,car,27,none,own,1,high qualif/self emp/mgmt,1,unknown,YES,-1139.21,-1.3331021363769389,male,BAD
+West Virginia,-6400.81,18.0,Good,furniture/equipment,2462.0,74.69,2,2,male single,none,2,no known property,33,none,own,1,unknown,1,none,NO,-3864.120000000001,-2.5684612261469755,male,GOOD
+West Virginia,0.0,21.0,Bad,furniture/equipment,2288.0,0.0,1,4,female div/dep/mar,none,4,life insurance,23,none,own,1,skilled,1,yes,NO,2288.0,0.0,female,GOOD
+West Virginia,46.06,48.0,Good,other,3566.0,240.61,3,-1,male single,none,2,car,30,none,unknown,1,skilled,1,none,YES,3852.67,0.0803672553966919,male,BAD
+Wyoming,-9858.79,6.0,Bad,new car,860.0,6.1,4,1,female div/dep/mar,unknown,4,no known property,39,none,own,2,unknown,1,yes,YES,-8992.69,-11.443310104529617,female,GOOD
+Alaska,0.0,12.0,Bad,new car,682.0,0.0,3,4,female div/dep/mar,none,3,car,51,none,own,2,skilled,1,yes,NO,682.0,0.0,female,GOOD
+Arkansas,0.0,36.0,Bad,furniture/equipment,5371.0,0.0,2,3,male single,unknown,2,life insurance,28,none,own,2,skilled,1,unknown,NO,5371.0,0.0,male,GOOD
+Arizona,0.0,18.0,Moderate,radio/tv,1582.0,0.0,4,4,unknown,none,4,car,46,none,own,-1,skilled,1,unknown,YES,1582.0,0.0,unknown,BAD
+Arizona,0.0,6.0,Good,other,1346.0,0.0,4,2,male single,unknown,4,no known property,42,bank,unknown,1,skilled,2,yes,NO,1346.0,0.0,male,GOOD
+Arizona,0.0,18.0,Good,radio/tv,1924.0,0.0,2,1,male single,none,4,life insurance,38,none,own,1,skilled,1,yes,NO,1924.0,0.0,male,BAD
+California,0.0,36.0,Good,radio/tv,5848.0,0.0,2,4,male single,none,1,car,24,none,own,1,skilled,1,unknown,NO,5848.0,0.0,male,BAD
+California,139.47,24.0,Bad,used car,7758.0,7369.04,4,2,female div/dep/mar,unknown,4,no known property,29,none,rent,1,skilled,1,none,YES,15266.51,0.9677162005413069,female,BAD
+California,190.98,24.0,Moderate,business,6967.0,438.53,3,4,male single,none,4,car,36,none,rent,1,high qualif/self emp/mgmt,1,unknown,YES,7596.51,0.09034299655568312,male,BAD
+California,-5781.67,12.0,Good,furniture/equipment,1282.0,59.7,2,2,female div/dep/mar,none,4,no known property,20,none,rent,1,skilled,1,none,NO,-4439.97,-4.45983632112237,female,GOOD
+California,-2884.07,9.0,Bad,repairs,2315.0,100.46,4,3,male single,guarantor,4,real estate,48,none,own,2,skilled,2,none,YES,-468.6100000000001,-1.2019041450777204,male,BAD
+California,-7930.96,12.0,Good,retraining,339.0,22.56,0,4,male mar/wid,none,1,car,45,bank,own,1,unskilled resident,1,none,NO,-7569.4,-23.259999999999998,male,GOOD
+California,144.52,18.0,Good,new car,3512.0,345.1,3,2,unknown,none,3,car,38,bank,own,2,skilled,1,yes,NO,4001.62,0.13937375462567606,unknown,GOOD
+California,0.0,6.0,Bad,radio/tv,1898.0,0.0,2,1,male single,none,2,real estate,34,none,own,2,unskilled resident,1,none,NO,1898.0,0.0,male,GOOD
+California,0.0,24.0,Moderate,radio/tv,2872.0,0.0,4,-1,unknown,unknown,-1,real estate,33,none,own,1,skilled,2,unknown,NO,2872.0,0.0,unknown,GOOD
+California,0.0,18.0,Bad,new car,1055.0,0.0,1,4,female div/dep/mar,none,1,life insurance,30,none,own,2,skilled,1,unknown,NO,1055.0,0.0,female,GOOD
+California,0.0,18.0,Good,domestic appliance,1262.0,0.0,3,4,male single,none,3,life insurance,33,none,own,2,skilled,1,yes,NO,1262.0,0.0,male,GOOD
+California,31.09,10.0,Good,new car,7308.0,52.29,0,2,male single,none,4,no known property,70,bank,for free,1,high qualif/self emp/mgmt,1,yes,NO,7391.38,0.011407853331509097,male,BAD
+California,0.0,36.0,Good,new car,909.0,0.0,4,4,unknown,none,4,life insurance,36,none,own,1,skilled,1,unknown,NO,909.0,0.0,unknown,GOOD
+California,0.0,6.0,Good,furniture/equipment,2978.0,0.0,2,1,male single,none,2,car,32,none,own,1,skilled,1,yes,NO,2978.0,0.0,male,BAD
+California,-3326.98,18.0,Good,furniture/equipment,1131.0,33.43,0,4,female div/dep/mar,none,-1,car,33,none,own,1,skilled,1,none,NO,-2162.55,-2.9094964664310954,female,GOOD
+California,47.93,11.0,Good,furniture/equipment,1577.0,7895.35,1,4,female div/dep/mar,none,1,real estate,20,none,own,1,skilled,1,none,YES,9520.28,5.033764258555133,female,BAD
+California,0.0,24.0,Good,furniture/equipment,3972.0,0.0,3,2,unknown,none,4,life insurance,25,none,rent,-1,skilled,1,yes,NO,3972.0,0.0,unknown,GOOD
+California,58.87,24.0,Bad,business,1935.0,60.0,4,4,male div/sep,none,4,real estate,31,none,unknown,2,skilled,1,yes,YES,2053.87,0.061399793388429755,male,GOOD
+California,-5652.0,15.0,Moderate,new car,950.0,62.41,4,4,male single,none,-1,car,33,none,rent,2,skilled,2,none,YES,-4639.59,-5.877592008412198,male,BAD
+California,0.0,12.0,Good,furniture/equipment,763.0,0.0,2,4,female div/dep/mar,none,1,real estate,33,unknown,own,1,skilled,1,yes,YES,763.0,0.0,female,BAD
+California,64.0,24.0,Moderate,furniture/equipment,2064.0,54.99,0,3,female div/dep/mar,none,-1,life insurance,34,none,own,1,high qualif/self emp/mgmt,1,yes,YES,2182.99,0.057622276029055695,female,GOOD
+California,84.67,8.0,Good,radio/tv,1414.0,58.58,2,4,male single,guarantor,2,real estate,33,none,own,1,skilled,1,unknown,YES,1557.25,0.10123674911660778,male,GOOD
+California,-4199.42,21.0,Moderate,education,3414.0,56.73,1,2,male single,none,-1,life insurance,26,none,own,2,skilled,1,none,YES,-728.6900000000005,-1.2130863836017571,male,GOOD
+California,0.0,30.0,Good,used car,2315.0,0.0,0,4,female div/dep/mar,none,1,real estate,53,bank,own,1,unknown,1,yes,YES,2315.0,0.0,female,BAD
+California,-7153.11,12.0,Good,furniture/equipment,2577.0,26.63,2,2,unknown,none,1,car,33,none,own,1,skilled,1,none,YES,-4549.48,-2.764344453064391,unknown,GOOD
+California,-3587.09,6.0,Bad,radio/tv,338.0,840.74,4,4,male single,none,4,no known property,52,none,own,2,skilled,1,unknown,YES,-2408.3500000000004,-8.10132743362832,male,BAD
+California,0.0,12.0,Good,radio/tv,1963.0,0.0,3,4,male single,unknown,2,no known property,31,none,unknown,2,high qualif/self emp/mgmt,2,yes,YES,1963.0,0.0,male,BAD
+Colorado,0.0,21.0,Bad,other,571.0,0.0,4,-1,male single,none,4,real estate,65,none,own,-1,skilled,1,none,YES,571.0,0.0,male,GOOD
+Colorado,0.0,36.0,Moderate,other,9572.0,0.0,1,1,male div/sep,none,1,car,28,none,own,2,skilled,1,none,NO,9572.0,0.0,male,GOOD
+Connecticut,55.91,36.0,Moderate,other,4455.0,21.64,2,-1,male div/sep,unknown,2,real estate,30,stores,own,2,high qualif/self emp/mgmt,1,yes,YES,4532.55,0.01740350089766607,male,GOOD
+District of Columbia,-4718.69,21.0,Good,other,1647.0,0.0,2,4,male single,none,2,life insurance,40,none,unknown,2,unskilled resident,2,none,NO,-3071.6899999999996,-2.863282766990291,male,BAD
+Delaware,0.0,24.0,Bad,furniture/equipment,3777.0,0.0,2,4,male single,none,4,real estate,50,none,own,1,skilled,1,yes,YES,3777.0,0.0,male,BAD
+Georgia,190.69,18.0,Bad,new car,884.0,90.53,4,4,male single,none,4,car,36,bank,own,1,skilled,2,yes,YES,1165.22,0.3177627118644068,male,GOOD
+Georgia,0.0,15.0,Moderate,radio/tv,1360.0,0.0,2,4,unknown,none,2,life insurance,31,none,own,2,skilled,1,none,YES,1360.0,0.0,unknown,BAD
+Georgia,0.0,9.0,Good,other,5129.0,0.0,4,2,female div/dep/mar,none,-1,no known property,33,bank,for free,1,high qualif/self emp/mgmt,1,yes,NO,5129.0,0.0,female,GOOD
+Georgia,18.61,16.0,Bad,new car,1175.0,95.88,0,2,male single,unknown,3,car,68,none,for free,3,unemp/unskilled non res,1,yes,NO,1289.49,0.09735544217687074,male,BAD
+Georgia,-8569.38,12.0,Good,radio/tv,674.0,319.57,3,4,male mar/wid,none,-1,no known property,20,none,own,1,skilled,1,unknown,YES,-7575.8099999999995,-12.22194074074074,male,GOOD
+Georgia,122.36,18.0,Moderate,furniture/equipment,3244.0,86.38,2,1,female div/dep/mar,none,-1,car,33,bank,own,2,skilled,1,yes,YES,3452.74,0.06432665639445301,female,BAD
+Georgia,0.0,24.0,Good,business,4591.0,0.0,2,2,male single,none,3,no known property,54,none,own,3,unknown,1,yes,YES,4591.0,0.0,male,BAD
+Georgia,5.06,48.0,Moderate,business,3844.0,0.0,3,4,male single,none,4,no known property,34,none,unknown,1,unskilled resident,2,none,YES,3849.06,0.0013159947984395317,male,GOOD
+Georgia,2.66,27.0,Good,business,3915.0,90.63,2,4,male single,none,2,no known property,36,none,own,1,skilled,2,yes,YES,4008.29,0.023822778345250255,male,GOOD
+Georgia,0.0,6.0,Good,radio/tv,2108.0,0.0,3,2,male mar/wid,none,2,real estate,29,none,unknown,1,skilled,1,none,YES,2108.0,0.0,male,BAD
+Hawaii,0.0,45.0,Good,radio/tv,3031.0,0.0,2,-1,male single,guarantor,4,life insurance,21,none,rent,1,skilled,1,none,YES,3031.0,0.0,male,BAD
+Illinois,0.0,18.0,Bad,education,1501.0,0.0,4,2,female div/dep/mar,none,3,car,34,none,own,2,high qualif/self emp/mgmt,1,yes,YES,1501.0,0.0,female,GOOD
+Indiana,0.0,6.0,Bad,radio/tv,1382.0,0.0,2,1,female div/dep/mar,none,1,car,28,none,own,2,skilled,1,yes,YES,1382.0,0.0,female,BAD
+Indiana,41.55,18.0,Good,furniture/equipment,951.0,145.16,1,4,female div/dep/mar,none,4,car,27,bank,rent,4,skilled,1,unknown,YES,1137.71,0.19612394957983192,female,GOOD
+Kentucky,73.46,24.0,Good,used car,2760.0,0.0,4,4,male single,none,4,no known property,36,bank,for free,1,skilled,1,yes,NO,2833.46,0.026606302064469393,male,BAD
+Kentucky,5.45,18.0,Moderate,other,4297.0,38.61,4,4,male div/sep,none,3,no known property,40,none,own,1,high qualif/self emp/mgmt,1,yes,NO,4341.06,0.010251279664960448,male,GOOD
+Kentucky,0.0,9.0,Bad,other,936.0,0.0,4,-1,male single,none,2,car,33,none,own,2,skilled,1,yes,YES,936.0,0.0,male,BAD
+Louisiana,-1525.5,12.0,Good,other,1168.0,72.61,2,4,male mar/wid,none,3,no known property,27,none,own,1,unskilled resident,1,none,YES,-284.8900000000001,-1.2428485885372114,male,BAD
+Louisiana,0.0,27.0,Moderate,business,5117.0,0.0,3,3,male single,none,4,car,33,none,own,2,skilled,1,none,YES,5117.0,0.0,male,BAD
+Louisiana,-4203.08,12.0,Good,retraining,902.0,72.58,3,4,male mar/wid,unknown,4,life insurance,21,none,rent,1,skilled,1,none,NO,-3228.5,-4.574197120708749,male,BAD
+Louisiana,0.0,12.0,Bad,new car,1495.0,0.0,4,-1,male single,none,1,no known property,38,none,own,-1,unskilled resident,2,none,NO,1495.0,0.0,male,BAD
+Massachusetts,-497.79,30.0,Bad,other,10623.0,10.76,4,3,male single,none,4,no known property,38,none,for free,3,unknown,2,yes,NO,10135.97,-0.04584243222891567,male,GOOD
+Massachusetts,0.0,12.0,Bad,furniture/equipment,1935.0,0.0,4,4,male single,none,4,real estate,43,none,unknown,3,unknown,1,yes,NO,1935.0,0.0,male,BAD
+Maryland,93.51,12.0,Bad,domestic appliance,1424.0,69.55,3,-1,male single,none,3,life insurance,26,none,own,1,unknown,1,none,NO,1587.06,0.1144280701754386,male,BAD
+Maryland,-1515.21,24.0,Good,business,6568.0,9.01,2,2,unknown,none,2,car,21,stores,own,1,unskilled resident,1,none,YES,5061.8,-0.22928908509666618,unknown,GOOD
+Maryland,0.0,12.0,Good,used car,1413.0,0.0,3,3,male single,unknown,2,life insurance,55,none,own,-1,skilled,1,unknown,NO,1413.0,0.0,male,GOOD
+Michigan,0.0,9.0,Bad,radio/tv,3074.0,0.0,0,1,unknown,none,2,real estate,33,none,unknown,2,skilled,2,none,NO,3074.0,0.0,unknown,BAD
+Michigan,0.0,36.0,Good,radio/tv,3835.0,0.0,4,2,female div/dep/mar,none,4,real estate,45,none,own,1,unskilled resident,1,yes,YES,3835.0,0.0,female,BAD
+Michigan,-2297.6,27.0,Moderate,business,5293.0,25.73,0,2,male single,none,-1,no known property,33,stores,unknown,2,skilled,1,yes,NO,3021.13,-0.4291405364563657,male,GOOD
+Michigan,7044.86,30.0,Moderate,business,1908.0,57.07,4,4,male single,none,4,real estate,66,none,own,1,high qualif/self emp/mgmt,1,yes,NO,9009.93,3.7202357255107383,male,BAD
+Missouri,0.0,36.0,Moderate,radio/tv,3342.0,0.0,4,4,unknown,none,-1,car,33,none,own,-1,skilled,1,yes,YES,3342.0,0.0,unknown,GOOD
+Missouri,119.36,6.0,Bad,other,932.0,0.0,0,1,female div/dep/mar,none,3,life insurance,39,none,own,2,unskilled resident,1,none,NO,1051.36,0.12793140407288317,female,GOOD
+Missouri,0.0,18.0,Moderate,business,3104.0,0.0,3,-1,male single,none,1,life insurance,33,bank,own,1,skilled,1,yes,NO,3104.0,0.0,male,GOOD
+Missouri,8427.47,36.0,Good,radio/tv,3913.0,94.68,2,2,male single,unknown,-1,real estate,23,none,own,1,skilled,1,yes,NO,12435.15,2.1773505365355135,male,BAD
+Missouri,-5135.08,24.0,Good,furniture/equipment,3021.0,0.0,2,2,male div/sep,none,2,real estate,24,none,rent,1,unskilled resident,1,none,NO,-2114.08,-1.6992322964923892,male,GOOD
+Missouri,0.0,10.0,Good,new car,1364.0,0.0,2,2,female div/dep/mar,none,4,no known property,64,unknown,own,1,skilled,1,yes,YES,1364.0,0.0,female,BAD
+Missouri,41.29,12.0,Good,other,625.0,27.59,1,4,male mar/wid,guarantor,1,real estate,26,bank,own,1,unskilled resident,1,none,YES,693.88,0.11003194888178913,male,BAD
+Mississippi,-2287.81,12.0,Moderate,education,1200.0,0.0,2,4,female div/dep/mar,none,4,no known property,23,bank,rent,-1,skilled,1,yes,YES,-1087.81,-1.9049208992506244,female,GOOD
+Mississippi,0.0,12.0,Good,other,707.0,0.0,2,4,male single,none,2,real estate,30,bank,own,2,skilled,1,none,YES,707.0,0.0,male,GOOD
+North Carolina,0.0,24.0,Moderate,other,2978.0,0.0,2,4,male single,none,4,real estate,32,none,own,2,unknown,2,yes,YES,2978.0,0.0,male,GOOD
+North Carolina,0.0,15.0,Good,used car,4657.0,0.0,2,3,male single,none,2,car,30,unknown,own,1,skilled,1,unknown,YES,4657.0,0.0,male,GOOD
+North Carolina,0.0,36.0,Moderate,repairs,2613.0,0.0,2,4,male single,unknown,2,car,27,none,own,-1,skilled,1,none,NO,2613.0,0.0,male,BAD
+North Carolina,149.22,18.0,Good,radio/tv,10961.0,2648.91,3,1,male single,co applicant,2,no known property,27,bank,own,2,skilled,1,yes,NO,13759.13,0.2552572523262178,male,BAD
+North Carolina,-4808.4,12.0,Good,furniture/equipment,7865.0,0.0,4,-1,male single,none,-1,no known property,53,none,unknown,1,high qualif/self emp/mgmt,1,yes,NO,3056.6000000000004,-0.6112890922959573,male,GOOD
+New Hampshire,0.0,9.0,Good,radio/tv,1478.0,0.0,3,4,male single,none,2,car,22,none,own,1,skilled,1,none,NO,1478.0,0.0,male,BAD
+New Jersey,0.0,24.0,Good,furniture/equipment,3149.0,0.0,1,4,male single,none,1,no known property,22,bank,for free,1,skilled,1,none,NO,3149.0,0.0,male,BAD
+New Jersey,7308.81,36.0,Good,other,4210.0,7.28,2,4,male single,none,2,car,26,unknown,own,1,skilled,1,none,NO,11526.09,1.7373759202089765,male,GOOD
+New Jersey,0.0,9.0,Good,new car,2507.0,0.0,0,2,male single,unknown,4,no known property,51,none,for free,-1,unskilled resident,1,unknown,NO,2507.0,0.0,male,GOOD
+New Jersey,0.0,12.0,Moderate,radio/tv,2141.0,0.0,3,3,male single,none,1,no known property,35,none,own,1,skilled,1,none,NO,2141.0,0.0,male,BAD
+New Jersey,154.16,18.0,Moderate,radio/tv,866.0,86.28,2,4,male mar/wid,guarantor,2,real estate,25,none,own,1,unskilled resident,1,none,NO,1106.44,0.27732410611303343,male,GOOD
+New Jersey,0.0,4.0,Bad,radio/tv,1544.0,0.0,3,2,male single,none,1,real estate,42,none,own,3,unskilled resident,2,none,YES,1544.0,0.0,male,BAD
+New Jersey,-9256.59,24.0,Good,radio/tv,1823.0,53.53,0,4,male single,none,2,car,30,stores,unknown,1,high qualif/self emp/mgmt,2,none,YES,-7380.0599999999995,-5.045537280701754,male,GOOD
+New Jersey,69.73,6.0,Good,new car,14555.0,0.0,0,1,male single,none,2,life insurance,23,none,own,1,unemp/unskilled non res,1,yes,NO,14624.73,0.004790464413300358,male,BAD
+New Mexico,57.58,21.0,Good,business,2767.0,0.0,4,4,unknown,none,2,car,61,bank,rent,-1,unskilled resident,1,none,NO,2824.58,0.02080202312138728,unknown,BAD
+New Mexico,-4641.13,30.0,Good,other,2522.0,71.17,4,1,male single,unknown,3,life insurance,39,none,own,1,skilled,2,none,NO,-2047.96,-1.811319857312723,male,GOOD
+Nevada,-4772.2,24.0,Good,new car,915.0,0.0,4,4,unknown,none,2,car,33,bank,own,-1,skilled,1,none,NO,-3857.2,-5.2098253275109165,unknown,GOOD
+New York,0.0,6.0,Good,radio/tv,1595.0,0.0,3,3,unknown,none,2,no known property,51,none,own,1,skilled,2,none,NO,1595.0,0.0,unknown,BAD
+New York,0.0,12.0,Bad,business,1185.0,0.0,2,3,female div/dep/mar,none,2,no known property,27,none,own,2,skilled,1,none,YES,1185.0,0.0,female,GOOD
+New York,0.0,12.0,Good,retraining,3447.0,0.0,2,4,female div/dep/mar,none,3,real estate,35,none,own,1,unskilled resident,2,none,NO,3447.0,0.0,female,BAD
+New York,0.0,24.0,Good,business,1258.0,0.0,3,4,male single,none,1,real estate,25,none,own,1,skilled,1,yes,NO,1258.0,0.0,male,BAD
+Ohio,0.0,12.0,Bad,radio/tv,717.0,0.0,4,4,male single,none,4,real estate,52,none,unknown,3,unknown,1,none,YES,717.0,0.0,male,BAD
+Ohio,0.0,6.0,Moderate,new car,1204.0,0.0,2,-1,male single,none,1,no known property,35,bank,rent,1,skilled,1,none,NO,1204.0,0.0,male,GOOD
+Ohio,4844.17,24.0,Good,other,1925.0,84.16,2,2,male single,none,2,real estate,26,none,own,1,skilled,1,none,YES,6853.33,2.558842159916926,male,GOOD
+Ohio,0.0,18.0,Good,radio/tv,433.0,0.0,0,3,female div/dep/mar,co applicant,4,real estate,22,none,rent,1,skilled,1,none,YES,433.0,0.0,female,GOOD
+Ohio,-350.28,6.0,Bad,new car,666.0,2438.92,3,3,female div/dep/mar,none,-1,real estate,39,none,own,2,unskilled resident,1,yes,YES,2754.6400000000003,3.1313943028485762,female,GOOD
+Ohio,2323.65,12.0,Good,furniture/equipment,2251.0,9.33,2,1,female div/dep/mar,none,2,car,46,none,own,-1,unskilled resident,1,none,NO,4583.98,1.0359591474245116,female,GOOD
+Ohio,84.68,30.0,Good,new car,2150.0,47.59,2,4,female div/dep/mar,guarantor,2,no known property,24,bank,own,-1,unknown,1,none,YES,2282.27,0.06149232914923292,female,BAD
+Ohio,0.0,24.0,Moderate,furniture/equipment,4151.0,0.0,2,2,male single,none,3,life insurance,35,none,own,-1,skilled,1,none,YES,4151.0,0.0,male,BAD
+Ohio,39.8,9.0,Good,furniture/equipment,2030.0,0.0,3,2,male single,unknown,1,car,24,none,unknown,1,skilled,1,yes,NO,2069.8,0.019596258000984735,male,GOOD
+Ohio,49.03,18.0,Moderate,radio/tv,7418.0,0.0,2,1,male single,none,1,real estate,27,none,own,1,unskilled resident,1,none,YES,7467.03,0.006608707372961316,male,BAD
+Oregon,0.0,24.0,Bad,other,2684.0,0.0,2,-1,male single,none,2,real estate,35,none,own,2,unskilled resident,1,none,NO,2684.0,0.0,male,GOOD
+Pennsylvania,-255.77,12.0,Good,radio/tv,2149.0,14.98,2,4,unknown,none,1,no known property,29,none,for free,1,unknown,1,none,YES,1908.21,-0.11199534883720931,unknown,BAD
+Pennsylvania,0.0,15.0,Good,used car,3812.0,0.0,1,1,female div/dep/mar,unknown,4,car,23,none,own,-1,skilled,1,yes,NO,3812.0,0.0,female,GOOD
+Pennsylvania,0.0,11.0,Bad,radio/tv,1154.0,0.0,0,-1,female div/dep/mar,none,4,real estate,57,unknown,own,3,unskilled resident,1,none,NO,1154.0,0.0,female,GOOD
+Pennsylvania,-5536.22,12.0,Moderate,furniture/equipment,1657.0,45.58,2,2,male single,none,2,real estate,33,none,own,1,skilled,1,none,YES,-3833.6400000000003,-3.3116043425814237,male,GOOD
+Rhode Island,-1579.52,24.0,Good,radio/tv,1603.0,74.65,0,4,unknown,none,-1,car,55,none,own,1,skilled,1,none,YES,98.13000000000011,-0.9381982543640897,unknown,BAD
+South Carolina,-1502.18,18.0,Bad,new car,5302.0,83.75,4,2,male single,none,4,no known property,36,none,for free,3,high qualif/self emp/mgmt,1,yes,NO,3883.5699999999997,-0.2674768998679993,male,GOOD
+South Carolina,0.0,12.0,Bad,education,2315.0,0.0,0,2,female div/dep/mar,none,4,no known property,57,bank,for free,3,unskilled resident,1,none,YES,2315.0,0.0,female,GOOD
+South Carolina,0.0,10.0,Bad,new car,1231.0,0.0,4,3,male single,none,-1,real estate,32,none,own,2,unskilled resident,2,none,NO,1231.0,0.0,male,BAD
+South Carolina,135.62,15.0,Good,radio/tv,802.0,73.76,0,4,unknown,none,3,no known property,37,none,own,1,skilled,2,none,NO,1011.38,0.260747198007472,unknown,GOOD
+South Carolina,0.0,36.0,Bad,business,6304.0,0.0,4,4,unknown,none,4,real estate,36,none,own,2,skilled,1,none,NO,6304.0,0.0,unknown,GOOD
+South Carolina,0.0,24.0,Good,radio/tv,1533.0,0.0,1,4,female div/dep/mar,none,3,car,38,stores,own,1,skilled,1,unknown,YES,1533.0,0.0,female,GOOD
+South Carolina,-517.47,14.0,Good,new car,8978.0,85.21,4,1,male div/sep,none,4,life insurance,45,none,own,1,high qualif/self emp/mgmt,1,yes,NO,8545.74,-0.04814121839848536,male,BAD
+South Dakota,0.0,24.0,Good,radio/tv,999.0,0.0,4,-1,male single,none,2,car,33,none,own,2,skilled,1,none,YES,999.0,0.0,male,GOOD
+South Dakota,0.0,18.0,Good,new car,2662.0,0.0,0,4,male single,none,-1,life insurance,32,none,unknown,1,skilled,1,none,YES,2662.0,0.0,male,BAD
+South Dakota,0.0,12.0,Bad,furniture/equipment,2315.0,0.0,3,3,female div/dep/mar,none,4,car,37,none,rent,1,skilled,1,yes,NO,2315.0,0.0,female,BAD
+Tennessee,171.45,48.0,Good,new car,12169.0,0.0,0,4,male single,co applicant,4,no known property,36,none,for free,1,high qualif/self emp/mgmt,1,yes,NO,12340.45,0.014087921117502053,male,GOOD
+Tennessee,187.45,48.0,Good,radio/tv,3060.0,67.23,3,-1,unknown,none,4,real estate,28,none,unknown,-1,skilled,1,none,YES,3314.68,0.0832015681149951,unknown,GOOD
+Tennessee,-5525.31,30.0,Moderate,repairs,11998.0,38.84,1,-1,male div/sep,none,-1,no known property,34,none,own,1,unskilled resident,1,yes,NO,6511.53,-0.4572439369947496,male,GOOD
+Tennessee,0.0,9.0,Good,radio/tv,2315.0,0.0,2,-1,unknown,none,2,real estate,32,none,own,1,skilled,2,none,YES,2315.0,0.0,unknown,GOOD
+Texas,0.0,18.0,Bad,other,2315.0,0.0,0,-1,female div/dep/mar,none,2,car,26,none,own,2,skilled,1,none,NO,2315.0,0.0,female,GOOD
+Texas,-6825.17,12.0,Moderate,furniture/equipment,1262.0,0.0,4,2,male div/sep,unknown,4,life insurance,49,none,own,1,unskilled resident,1,yes,NO,-5563.17,-5.403935075217736,male,GOOD
+Texas,0.0,6.0,Good,furniture/equipment,4611.0,0.0,1,1,female div/dep/mar,unknown,-1,life insurance,32,none,own,1,skilled,1,none,NO,4611.0,0.0,female,GOOD
+Texas,0.0,24.0,Moderate,radio/tv,1901.0,0.0,2,4,unknown,unknown,4,car,29,none,rent,1,high qualif/self emp/mgmt,1,yes,NO,1901.0,0.0,unknown,BAD
+Texas,0.0,15.0,Bad,other,2315.0,0.0,4,3,unknown,none,4,no known property,23,none,rent,2,skilled,1,yes,YES,2315.0,0.0,unknown,GOOD
+Texas,0.0,12.0,Good,furniture/equipment,1574.0,0.0,2,4,male single,none,2,real estate,50,none,own,1,skilled,1,unknown,NO,1574.0,0.0,male,BAD
+Texas,0.0,18.0,Good,radio/tv,1445.0,0.0,3,4,unknown,none,4,car,33,unknown,own,1,unskilled resident,1,none,NO,1445.0,0.0,unknown,GOOD
+Texas,0.0,15.0,Bad,other,1520.0,0.0,4,4,male single,none,4,life insurance,63,none,own,1,skilled,1,none,NO,1520.0,0.0,male,GOOD
+Texas,19.48,24.0,Moderate,new car,3878.0,384.02,1,4,male div/sep,none,2,car,33,unknown,unknown,1,skilled,1,yes,YES,4281.5,0.10402165506573859,male,GOOD
+Texas,-5888.3,18.0,Good,new car,2315.0,58.62,1,1,female div/dep/mar,unknown,1,real estate,35,none,own,1,unskilled resident,1,unknown,NO,-3514.6800000000003,-2.5171329879101902,female,GOOD
+Texas,-7579.53,48.0,Good,used car,2315.0,24.62,3,4,male single,none,3,life insurance,26,none,own,1,skilled,2,unknown,YES,-5239.91,-3.262050949913644,male,BAD
+Texas,130.14,48.0,Moderate,other,2315.0,376.5,0,2,male single,none,-1,no known property,31,none,for free,1,high qualif/self emp/mgmt,1,yes,NO,2821.64,0.21875647668393783,male,GOOD
+Texas,169.03,12.0,Good,radio/tv,1092.0,26.55,2,4,female div/dep/mar,unknown,4,real estate,33,none,own,2,skilled,1,unknown,NO,1287.58,0.17893870082342178,female,GOOD
+Texas,-7872.78,24.0,Moderate,radio/tv,1024.0,0.0,1,4,male mar/wid,none,4,real estate,48,stores,own,1,skilled,1,none,YES,-6848.78,-7.680760975609756,male,BAD
+Texas,0.0,12.0,Good,business,1076.0,0.0,2,2,unknown,none,2,real estate,26,unknown,own,1,skilled,1,yes,NO,1076.0,0.0,unknown,BAD
+Texas,155.74,36.0,Good,used car,9398.0,93.87,1,1,male mar/wid,none,4,car,28,none,rent,1,high qualif/self emp/mgmt,1,yes,YES,9647.61,0.02655708054048303,male,GOOD
+Utah,-9594.86,24.0,Bad,used car,6419.0,16.26,4,2,female div/dep/mar,none,4,no known property,44,none,for free,2,high qualif/self emp/mgmt,2,yes,NO,-3159.6000000000004,-1.491993769470405,female,BAD
+Virginia,7720.46,18.0,Bad,used car,2315.0,40.81,4,4,male single,none,4,no known property,56,none,for free,1,skilled,1,none,NO,10076.27,3.3511528497409326,male,GOOD
+Virginia,0.0,48.0,Bad,business,7629.0,0.0,4,4,male div/sep,none,2,car,46,bank,own,2,high qualif/self emp/mgmt,2,none,NO,7629.0,0.0,male,BAD
+Virginia,61.96,48.0,Good,furniture/equipment,9960.0,64.33,1,1,unknown,none,2,car,26,none,own,1,skilled,1,unknown,YES,10086.29,0.012678445939162734,unknown,GOOD
+Virginia,0.0,12.0,Good,used car,4675.0,0.0,0,1,female div/dep/mar,none,4,car,20,none,rent,1,skilled,1,none,NO,4675.0,0.0,female,BAD
+Virginia,0.0,10.0,Good,other,1287.0,0.0,0,4,male single,co applicant,2,life insurance,45,none,unknown,1,unskilled resident,1,unknown,YES,1287.0,0.0,male,GOOD
+Virginia,0.0,18.0,Moderate,furniture/equipment,2515.0,0.0,2,3,male single,none,4,real estate,43,none,own,-1,skilled,1,yes,YES,2515.0,0.0,male,BAD
+Virginia,0.31,21.0,Bad,furniture/equipment,2745.0,1787.08,3,3,male single,none,2,car,32,none,own,2,skilled,1,yes,YES,4532.389999999999,0.6509067734887108,male,GOOD
+Washington,0.0,6.0,Good,new car,672.0,0.0,0,1,female div/dep/mar,none,4,real estate,54,none,own,1,unemp/unskilled non res,1,yes,NO,672.0,0.0,female,GOOD
+Washington,192.02,36.0,Moderate,radio/tv,3804.0,0.0,2,4,female div/dep/mar,none,1,car,42,none,own,1,skilled,1,yes,YES,3996.02,0.05046517739816032,female,GOOD
+Washington,5659.69,18.0,Bad,new car,1344.0,0.0,3,4,male single,none,-1,real estate,37,bank,own,2,unskilled resident,2,none,NO,7003.69,4.207947955390334,male,GOOD
+Wisconsin,-8464.44,10.0,Bad,other,1038.0,38.82,3,4,male single,co applicant,-1,no known property,49,none,unknown,2,skilled,1,yes,YES,-7387.620000000001,-8.109355149181907,male,BAD
+Alaska,0.0,48.0,Bad,new car,2315.0,0.0,2,2,male single,none,2,no known property,44,bank,unknown,1,skilled,1,none,YES,2315.0,0.0,male,BAD
+Arizona,0.0,6.0,Moderate,furniture/equipment,1543.0,0.0,2,4,male div/sep,none,2,real estate,33,none,own,1,skilled,1,none,YES,1543.0,0.0,male,GOOD
+Arizona,0.0,18.0,Good,used car,4811.0,0.0,3,2,female div/dep/mar,none,-1,life insurance,24,stores,rent,1,unskilled resident,1,none,NO,4811.0,0.0,female,GOOD
+Arizona,-8135.03,12.0,Good,radio/tv,727.0,473.67,1,4,male mar/wid,none,3,no known property,33,none,own,1,unskilled resident,1,yes,YES,-6934.36,-10.523846153846153,male,BAD
+California,0.0,8.0,Moderate,furniture/equipment,1237.0,0.0,2,3,female div/dep/mar,none,4,real estate,24,none,own,1,skilled,1,none,NO,1237.0,0.0,female,BAD
+California,0.0,9.0,Good,new car,276.0,0.0,2,4,male mar/wid,none,4,real estate,33,none,rent,-1,unskilled resident,1,none,NO,276.0,0.0,male,BAD
+California,192.16,48.0,Moderate,other,5381.0,0.0,0,3,unknown,none,4,no known property,40,bank,for free,1,unemp/unskilled non res,1,yes,NO,5573.16,0.03570419918246005,unknown,GOOD
+California,0.0,24.0,Good,furniture/equipment,5511.0,0.0,2,4,male single,none,1,car,25,stores,unknown,1,skilled,1,none,NO,5511.0,0.0,male,GOOD
+California,797.21,24.0,Moderate,furniture/equipment,2315.0,98.87,0,2,unknown,none,4,car,26,none,own,1,skilled,1,none,YES,3211.08,0.3869084628670121,unknown,BAD
+California,137.41,12.0,Good,other,685.0,38.95,3,2,male mar/wid,none,3,car,25,bank,own,1,unskilled resident,1,none,YES,861.36,0.2570845481049563,male,GOOD
+California,4365.37,4.0,Good,new car,1494.0,0.0,1,1,male single,none,-1,no known property,29,none,own,1,unskilled resident,2,unknown,YES,5859.37,2.9199799331103677,male,GOOD
+California,-5992.61,36.0,Good,furniture/equipment,2746.0,27.23,4,4,male single,unknown,4,car,31,bank,own,1,unknown,1,none,NO,-3219.38,-2.1715981070258463,male,GOOD
+California,-3145.9,12.0,Good,furniture/equipment,708.0,0.0,0,2,male single,guarantor,3,life insurance,38,unknown,own,1,unskilled resident,2,unknown,NO,-2437.9,-4.437094499294782,male,GOOD
+California,77.88,24.0,Good,furniture/equipment,2315.0,0.0,2,1,female div/dep/mar,none,4,life insurance,48,none,own,1,unknown,1,yes,YES,2392.88,0.03362694300518135,female,GOOD
+California,0.0,12.0,Moderate,education,701.0,0.0,2,4,male single,none,2,car,32,none,own,2,skilled,1,none,YES,701.0,0.0,male,BAD
+Colorado,-3417.74,15.0,Moderate,furniture/equipment,3643.0,16.7,4,1,female div/dep/mar,none,-1,life insurance,27,none,own,2,unskilled resident,1,none,YES,241.96000000000004,-0.9333260153677277,female,BAD
+Colorado,122.0,30.0,Bad,other,4249.0,90.83,0,4,male mar/wid,none,2,car,28,none,unknown,2,high qualif/self emp/mgmt,1,none,YES,4461.83,0.050077647058823525,male,GOOD
+Connecticut,-4562.14,24.0,Good,radio/tv,1938.0,17.04,1,4,male div/sep,none,3,life insurance,32,none,unknown,1,skilled,1,none,YES,-2607.1000000000004,-2.344043321299639,male,BAD
+District of Columbia,-3923.01,24.0,Good,used car,2910.0,74.32,3,2,unknown,unknown,1,no known property,34,none,for free,1,high qualif/self emp/mgmt,1,yes,NO,-938.69,-1.3221195465475781,unknown,GOOD
+Georgia,-7400.92,18.0,Moderate,furniture/equipment,2659.0,5806.39,2,4,male single,none,2,car,28,none,unknown,1,skilled,1,none,YES,1064.4700000000003,-0.5994473684210525,male,GOOD
+Georgia,0.0,18.0,Bad,new car,1028.0,0.0,2,4,female div/dep/mar,unknown,3,real estate,36,none,own,2,skilled,1,none,NO,1028.0,0.0,female,BAD
+Georgia,-3324.64,8.0,Bad,new car,3398.0,61.33,3,1,unknown,none,4,real estate,39,none,own,2,unskilled resident,1,none,NO,134.69000000000005,-0.9600794351279788,unknown,BAD
+Georgia,0.0,12.0,Bad,furniture/equipment,2315.0,0.0,4,2,male single,none,4,life insurance,49,none,rent,1,skilled,1,yes,NO,2315.0,0.0,male,BAD
+Georgia,0.0,24.0,Good,new car,1525.0,0.0,3,4,female div/dep/mar,unknown,3,car,34,none,own,1,skilled,2,yes,YES,1525.0,0.0,female,GOOD
+Illinois,6300.38,36.0,Good,radio/tv,4473.0,46.6,4,4,male single,none,2,car,31,none,own,1,skilled,1,none,YES,10819.98,1.4186365668305767,male,GOOD
+Kentucky,94.48,6.0,Good,radio/tv,1068.0,73.19,4,4,male single,none,4,car,28,none,own,1,skilled,2,none,YES,1235.67,0.15684752104770816,male,GOOD
+Louisiana,-8908.55,24.0,Bad,used car,6615.0,58.88,0,2,male single,none,4,no known property,75,none,unknown,2,high qualif/self emp/mgmt,1,yes,NO,-2234.67,-1.33761638452237,male,BAD
+Louisiana,0.0,18.0,Bad,education,1864.0,0.0,2,4,unknown,none,2,real estate,30,none,own,2,skilled,1,unknown,YES,1864.0,0.0,unknown,GOOD
+Louisiana,106.45,60.0,Good,new car,7408.0,479.08,1,4,unknown,none,2,no known property,24,none,own,1,high qualif/self emp/mgmt,1,none,NO,7993.53,0.07902955864489135,unknown,GOOD
+Louisiana,0.0,48.0,Bad,used car,11590.0,0.0,2,2,female div/dep/mar,none,4,car,24,bank,rent,-1,unskilled resident,1,none,YES,11590.0,0.0,female,GOOD
+Maryland,-1018.74,6.0,Bad,furniture/equipment,3384.0,98.78,2,1,male div/sep,none,4,real estate,44,none,rent,1,high qualif/self emp/mgmt,1,unknown,YES,2464.04,-0.2717754800590842,male,BAD
+Maryland,145.59,13.0,Good,radio/tv,2101.0,66.57,1,2,female div/dep/mar,guarantor,4,life insurance,23,none,own,1,unskilled resident,1,none,YES,2313.16,0.1009324452901998,female,GOOD
+Michigan,-6090.13,15.0,Good,domestic appliance,2315.0,0.0,2,4,female div/dep/mar,none,2,car,24,unknown,rent,1,skilled,1,none,NO,-3775.13,-2.629589810017271,female,BAD
+Michigan,-5498.76,24.0,Good,furniture/equipment,4169.0,68.48,2,4,male single,unknown,-1,life insurance,28,unknown,own,1,skilled,1,none,NO,-1261.2800000000007,-1.3022254196642686,male,GOOD
+Missouri,103.39,10.0,Good,furniture/equipment,2315.0,93.87,2,4,male div/sep,none,2,car,31,unknown,own,1,unskilled resident,1,none,YES,2512.26,0.0851727115716753,male,GOOD
+Missouri,163.9,24.0,Bad,education,5743.0,45.64,1,2,female div/dep/mar,none,4,no known property,33,none,for free,2,skilled,1,yes,YES,5952.54,0.03647980501392758,female,BAD
+Missouri,-6405.45,21.0,Good,furniture/equipment,2315.0,59.79,3,1,female div/dep/mar,none,4,car,33,none,rent,1,unskilled resident,1,none,NO,-4030.66,-2.739922279792746,female,GOOD
+Mississippi,193.31,18.0,Good,radio/tv,3213.0,0.0,1,1,male mar/wid,none,3,real estate,25,none,rent,1,skilled,1,none,NO,3406.31,0.06014623522090853,male,GOOD
+Mississippi,116.75,18.0,Good,other,4439.0,65.84,4,1,male single,co applicant,1,real estate,33,bank,own,1,high qualif/self emp/mgmt,1,yes,YES,4621.59,0.041123873873873874,male,GOOD
+North Carolina,2557.93,10.0,Good,new car,3949.0,0.75,1,1,male single,unknown,-1,life insurance,37,none,own,1,unknown,2,none,NO,6507.68,0.6477670886075949,male,GOOD
+North Carolina,0.0,15.0,Bad,radio/tv,1459.0,0.0,2,4,female div/dep/mar,none,2,car,43,none,own,1,unskilled resident,1,none,YES,1459.0,0.0,female,GOOD
+North Carolina,134.6,18.0,Bad,radio/tv,882.0,0.0,1,4,male single,unknown,4,real estate,23,none,own,2,skilled,1,none,YES,1016.6,0.1524348810872027,male,BAD
+New Hampshire,155.32,24.0,Good,radio/tv,3758.0,623.93,0,1,female div/dep/mar,none,-1,no known property,23,none,rent,1,unemp/unskilled non res,1,none,NO,4537.25,0.2073024740622506,female,BAD
+New Jersey,0.0,6.0,Moderate,business,1743.0,0.0,2,-1,male single,none,2,real estate,34,none,unknown,2,unskilled resident,1,none,YES,1743.0,0.0,male,GOOD
+New Jersey,68.16,9.0,Bad,education,1136.0,0.0,4,4,male single,none,3,no known property,32,none,for free,-1,unknown,2,unknown,NO,1204.16,0.05994722955145118,male,GOOD
+New Jersey,0.0,9.0,Good,domestic appliance,1236.0,0.0,1,1,female div/dep/mar,none,4,real estate,23,none,rent,1,skilled,1,yes,YES,1236.0,0.0,female,BAD
+New Jersey,9.39,9.0,Good,furniture/equipment,2315.0,83.12,2,1,female div/dep/mar,none,-1,no known property,29,none,own,1,skilled,1,none,YES,2407.51,0.03994386873920553,female,BAD
+New Jersey,0.0,18.0,Bad,used car,3229.0,0.0,0,2,male single,none,-1,no known property,38,none,unknown,1,high qualif/self emp/mgmt,1,yes,YES,3229.0,0.0,male,GOOD
+New Mexico,-5039.28,12.0,Moderate,radio/tv,2315.0,84.14,2,4,male single,none,2,no known property,28,none,rent,-1,skilled,1,yes,NO,-2640.1399999999994,-2.1395250431778927,male,GOOD
+Nevada,0.0,10.0,Good,education,727.0,0.0,4,4,male single,none,4,no known property,33,none,for free,1,skilled,1,yes,YES,727.0,0.0,male,GOOD
+Nevada,0.0,24.0,Good,new car,1246.0,0.0,1,4,male single,none,2,real estate,23,stores,own,1,unskilled resident,1,none,YES,1246.0,0.0,male,GOOD
+New York,0.0,12.0,Bad,radio/tv,2331.0,0.0,4,1,male single,unknown,4,real estate,49,none,own,1,skilled,1,yes,NO,2331.0,0.0,male,GOOD
+New York,0.0,36.0,Moderate,radio/tv,2315.0,0.0,2,4,male single,none,2,no known property,33,none,own,2,high qualif/self emp/mgmt,1,yes,NO,2315.0,0.0,male,GOOD
+New York,0.0,12.0,Good,radio/tv,776.0,0.0,2,4,male mar/wid,none,2,real estate,28,none,unknown,1,skilled,1,none,NO,776.0,0.0,male,BAD
+New York,-4887.82,30.0,Good,furniture/equipment,2406.0,32.57,0,4,female div/dep/mar,none,4,real estate,23,none,unknown,1,skilled,1,none,NO,-2449.25,-2.0171375155795594,female,GOOD
+New York,85.71,18.0,Good,education,1239.0,0.0,2,4,male single,none,4,no known property,61,unknown,unknown,1,skilled,1,unknown,NO,1324.71,0.06912096774193548,male,BAD
+New York,0.0,12.0,Good,radio/tv,3399.0,0.0,0,2,male single,none,3,no known property,37,none,own,1,high qualif/self emp/mgmt,1,none,YES,3399.0,0.0,male,GOOD
+Ohio,9712.82,12.0,Moderate,new car,2247.0,5.02,2,2,female div/dep/mar,none,2,car,36,stores,own,2,skilled,1,unknown,NO,11964.84,4.32288256227758,female,BAD
+Ohio,0.0,6.0,Good,furniture/equipment,1766.0,0.0,2,-1,male mar/wid,unknown,2,life insurance,21,none,rent,-1,skilled,1,none,YES,1766.0,0.0,male,GOOD
+Ohio,-3712.31,18.0,Good,furniture/equipment,2473.0,0.0,0,4,male single,none,-1,car,25,none,unknown,1,unemp/unskilled non res,1,none,YES,-1239.31,-1.5005295068714632,male,GOOD
+Ohio,0.0,12.0,Moderate,business,1542.0,0.0,3,2,male single,none,4,car,36,unknown,own,1,skilled,1,yes,NO,1542.0,0.0,male,GOOD
+Ohio,0.0,18.0,Bad,used car,3850.0,0.0,3,3,male single,none,1,no known property,27,none,own,2,skilled,1,none,YES,3850.0,0.0,male,GOOD
+Ohio,0.0,18.0,Good,furniture/equipment,3650.0,0.0,1,1,female div/dep/mar,none,4,car,33,none,rent,1,skilled,1,none,NO,3650.0,0.0,female,GOOD
+Pennsylvania,-1319.16,36.0,Good,furniture/equipment,3446.0,35.38,4,4,male single,unknown,2,car,33,none,own,-1,skilled,2,none,YES,2162.2200000000003,-0.3724340005802147,male,GOOD
+Pennsylvania,94.62,18.0,Good,furniture/equipment,3001.0,0.0,3,-1,female div/dep/mar,unknown,4,real estate,40,none,rent,1,skilled,1,unknown,NO,3095.62,0.03151898734177215,female,BAD
+South Carolina,0.0,36.0,Good,new car,3079.0,0.0,2,4,male single,none,4,real estate,36,none,own,1,skilled,1,none,YES,3079.0,0.0,male,GOOD
+South Carolina,0.0,18.0,Bad,radio/tv,6070.0,0.0,4,3,male single,none,4,car,33,none,own,2,skilled,1,yes,NO,6070.0,0.0,male,BAD
+South Carolina,0.0,10.0,Bad,furniture/equipment,2146.0,0.0,1,-1,female div/dep/mar,none,3,real estate,23,unknown,rent,2,skilled,1,none,NO,2146.0,0.0,female,GOOD
+South Carolina,0.0,60.0,Bad,new car,13756.0,0.0,4,2,male single,none,4,no known property,63,bank,for free,1,high qualif/self emp/mgmt,1,yes,YES,13756.0,0.0,male,GOOD
+South Carolina,17.17,60.0,Good,other,14782.0,179.18,4,3,female div/dep/mar,none,-1,no known property,60,bank,for free,-1,high qualif/self emp/mgmt,1,yes,YES,14978.35,0.013282148413718461,female,GOOD
+Tennessee,-1282.34,48.0,Good,business,7685.0,17.26,3,2,female div/dep/mar,guarantor,4,car,37,none,rent,1,skilled,1,none,NO,6419.92,-0.16459536820192558,female,BAD
+Tennessee,0.0,18.0,Moderate,radio/tv,2315.0,0.0,0,2,male mar/wid,unknown,3,real estate,34,none,own,-1,skilled,1,unknown,YES,2315.0,0.0,male,BAD
+Texas,0.0,7.0,Moderate,other,2315.0,0.0,0,3,male single,none,4,no known property,36,none,for free,1,skilled,1,none,YES,2315.0,0.0,male,BAD
+Texas,40.41,36.0,Good,new car,14318.0,19.21,4,-1,male single,none,-1,no known property,57,unknown,for free,1,high qualif/self emp/mgmt,1,unknown,YES,14377.62,0.004163698582303233,male,BAD
+Texas,0.0,6.0,Bad,new car,362.0,0.0,2,4,female div/dep/mar,none,4,car,33,none,own,2,unskilled resident,1,none,YES,362.0,0.0,female,GOOD
+Texas,-4951.09,20.0,Good,furniture/equipment,2212.0,0.0,3,4,male single,none,-1,car,39,none,own,1,skilled,1,yes,NO,-2739.09,-2.237275192046995,male,GOOD
+Texas,16.25,18.0,Good,used car,12976.0,15.8,0,-1,unknown,unknown,4,no known property,38,none,for free,1,high qualif/self emp/mgmt,1,yes,NO,13008.05,0.0024697541804731445,unknown,BAD
+Texas,0.0,22.0,Good,other,1283.0,0.0,3,4,female div/dep/mar,none,4,life insurance,25,none,rent,1,skilled,1,none,YES,1283.0,0.0,female,BAD
+Texas,6548.27,12.0,Good,new car,1330.0,41.97,1,4,male single,none,1,real estate,26,none,own,1,skilled,1,none,NO,7920.240000000001,4.951344853493614,male,GOOD
+Texas,0.0,30.0,Moderate,business,4272.0,0.0,0,2,male single,unknown,2,life insurance,26,none,own,2,unskilled resident,1,none,NO,4272.0,0.0,male,GOOD
+Virginia,0.0,18.0,Bad,radio/tv,2238.0,0.0,2,2,female div/dep/mar,none,1,car,25,unknown,own,2,unknown,1,none,YES,2238.0,0.0,female,GOOD
+Virginia,0.0,18.0,Good,other,1126.0,0.0,0,4,unknown,none,2,real estate,21,none,rent,1,skilled,1,yes,NO,1126.0,0.0,unknown,BAD
+Virginia,5.42,18.0,Bad,furniture/equipment,2315.0,35.21,0,4,male single,none,4,no known property,40,stores,own,-1,unknown,1,yes,YES,2355.63,0.017543177892918826,male,BAD
+Wisconsin,7.52,15.0,Bad,business,2326.0,0.0,2,2,male single,none,4,car,27,bank,own,1,skilled,1,none,YES,2333.52,0.0032316287064890416,male,BAD
+Arizona,0.0,9.0,Good,business,1449.0,0.0,3,3,female div/dep/mar,none,2,car,27,none,own,2,skilled,1,none,NO,1449.0,0.0,female,GOOD
+California,0.0,18.0,Good,new car,1820.0,0.0,2,2,male mar/wid,none,-1,no known property,30,none,own,1,high qualif/self emp/mgmt,1,yes,NO,1820.0,0.0,male,GOOD
+California,94.64,12.0,Good,furniture/equipment,983.0,7709.45,1,1,unknown,none,4,real estate,19,none,rent,1,unskilled resident,1,unknown,YES,8787.09,7.930985772357723,unknown,BAD
+California,-4316.81,36.0,Good,new car,3249.0,58.43,3,2,male single,none,4,no known property,39,bank,for free,1,high qualif/self emp/mgmt,2,yes,YES,-1009.3800000000001,-1.3102707692307693,male,GOOD
+California,-9454.08,6.0,Bad,radio/tv,1957.0,33.62,3,1,female div/dep/mar,none,4,car,31,unknown,own,1,skilled,1,none,YES,-7463.459999999999,-4.8112665985699685,female,BAD
+California,0.0,9.0,Bad,furniture/equipment,2406.0,0.0,0,2,male single,none,3,car,31,none,own,-1,high qualif/self emp/mgmt,1,none,YES,2406.0,0.0,male,GOOD
+California,83.64,39.0,Moderate,education,11760.0,450.89,3,2,unknown,none,3,no known property,32,none,rent,1,skilled,1,unknown,YES,12294.53,0.045449366550463395,unknown,GOOD
+California,-6338.95,12.0,Good,furniture/equipment,2578.0,83.42,0,3,female div/dep/mar,none,4,no known property,55,none,for free,1,high qualif/self emp/mgmt,1,unknown,YES,-3677.5299999999997,-2.425564172159752,female,GOOD
+California,-6143.29,36.0,Bad,furniture/equipment,2348.0,28.22,2,3,male mar/wid,unknown,-1,life insurance,46,none,own,2,skilled,1,yes,NO,-3767.0699999999997,-2.6032652192422305,male,GOOD
+California,115.65,12.0,Good,new car,1223.0,29.79,4,1,male div/sep,none,1,real estate,46,unknown,rent,2,skilled,1,none,YES,1368.44,0.1188235294117647,male,BAD
+District of Columbia,0.0,18.0,Bad,radio/tv,1516.0,0.0,2,-1,female div/dep/mar,none,1,real estate,43,none,own,2,unskilled resident,1,none,NO,1516.0,0.0,female,GOOD
+Georgia,0.0,18.0,Good,radio/tv,1473.0,0.0,1,3,male mar/wid,unknown,4,real estate,39,none,own,1,unknown,1,unknown,YES,1473.0,0.0,male,GOOD
+Georgia,22.83,18.0,Bad,business,2315.0,0.0,2,-1,male mar/wid,none,4,real estate,28,unknown,own,2,skilled,1,none,NO,2337.83,0.009857512953367875,male,GOOD
+Georgia,0.0,18.0,Moderate,business,8648.0,0.0,1,2,male single,none,-1,car,33,unknown,unknown,2,unknown,1,yes,NO,8648.0,0.0,male,GOOD
+Georgia,0.0,14.0,Moderate,new car,802.0,0.0,0,4,male single,none,2,car,27,none,own,2,unskilled resident,1,unknown,YES,802.0,0.0,male,GOOD
+Georgia,195.71,18.0,Moderate,new car,2899.0,0.0,0,4,male single,none,4,car,43,none,own,1,skilled,2,none,YES,3094.71,0.06748620689655173,male,GOOD
+Illinois,195.91,24.0,Moderate,radio/tv,2039.0,0.0,0,1,male mar/wid,none,1,life insurance,22,none,own,1,skilled,1,yes,NO,2234.91,0.09603431372549019,male,GOOD
+Indiana,0.0,18.0,Bad,used car,2197.0,0.0,3,4,unknown,none,4,car,43,unknown,own,2,skilled,2,yes,NO,2197.0,0.0,unknown,BAD
+Kentucky,-2070.55,15.0,Good,radio/tv,2315.0,76.64,1,4,male mar/wid,none,-1,real estate,27,unknown,own,1,unknown,1,none,NO,321.0899999999999,-0.8609283246977548,male,GOOD
+Louisiana,0.0,24.0,Good,radio/tv,3235.0,0.0,4,3,male div/sep,none,2,car,26,none,own,1,high qualif/self emp/mgmt,1,yes,NO,3235.0,0.0,male,BAD
+Louisiana,5427.63,12.0,Bad,new car,939.0,671.95,3,4,male mar/wid,none,2,no known property,28,none,own,3,skilled,1,yes,YES,7038.58,6.488914893617022,male,BAD
+Massachusetts,192.07,24.0,Good,radio/tv,1967.0,37.69,4,4,female div/dep/mar,none,4,no known property,20,unknown,own,1,skilled,1,unknown,YES,2196.76,0.1167479674796748,female,GOOD
+Maryland,0.0,33.0,Bad,used car,7253.0,0.0,3,3,male single,none,2,car,33,unknown,own,2,high qualif/self emp/mgmt,1,yes,NO,7253.0,0.0,male,BAD
+Michigan,0.0,12.0,Bad,business,2292.0,0.0,0,4,male single,none,2,car,42,stores,own,2,high qualif/self emp/mgmt,1,yes,NO,2292.0,0.0,male,BAD
+Missouri,0.0,18.0,Good,new car,1597.0,0.0,2,3,male single,none,2,no known property,40,none,unknown,1,unknown,2,none,YES,1597.0,0.0,male,BAD
+Missouri,-5613.36,24.0,Moderate,new car,1381.0,0.0,0,4,female div/dep/mar,unknown,2,life insurance,35,none,own,1,skilled,1,none,NO,-4232.36,-4.061765557163531,female,GOOD
+Mississippi,0.0,36.0,Bad,used car,2315.0,0.0,4,2,male single,none,2,life insurance,35,none,own,2,skilled,2,yes,NO,2315.0,0.0,male,BAD
+North Carolina,-1850.94,12.0,Good,new car,2579.0,37.56,1,4,male single,none,1,real estate,33,unknown,own,1,unskilled resident,2,none,NO,765.6199999999999,-0.7028604651162791,male,BAD
+New Jersey,-4803.59,18.0,Moderate,education,8471.0,0.0,0,1,female div/dep/mar,unknown,2,car,23,none,rent,2,skilled,1,unknown,YES,3667.41,-0.5669959867799811,female,BAD
+New Jersey,0.0,21.0,Good,new car,2782.0,0.0,3,1,female div/dep/mar,none,2,car,31,bank,own,1,high qualif/self emp/mgmt,1,none,NO,2782.0,0.0,female,GOOD
+New Jersey,75.95,18.0,Good,new car,1042.0,0.0,2,4,female div/dep/mar,none,-1,life insurance,33,unknown,own,1,skilled,1,none,NO,1117.95,0.07281879194630873,female,GOOD
+New Jersey,0.0,15.0,Good,new car,3186.0,0.0,0,2,female div/dep/mar,none,3,car,20,none,rent,1,skilled,1,none,YES,3186.0,0.0,female,GOOD
+Nevada,141.44,12.0,Good,used car,2028.0,0.0,2,4,male single,none,2,car,33,unknown,own,1,skilled,1,none,YES,2169.44,0.06970921636274026,male,GOOD
+New York,24.74,12.0,Bad,new car,2315.0,7.07,3,2,male single,none,3,real estate,47,none,own,2,unknown,2,none,NO,2346.81,0.013734887737478411,male,GOOD
+New York,0.0,18.0,Moderate,furniture/equipment,1591.0,0.0,3,4,male single,none,3,real estate,34,none,own,2,high qualif/self emp/mgmt,1,none,NO,1591.0,0.0,male,GOOD
+Ohio,30.0,12.0,Good,furniture/equipment,2762.0,0.0,0,1,female div/dep/mar,none,2,life insurance,25,bank,own,1,skilled,1,yes,YES,2792.0,0.010857763300760043,female,BAD
+Ohio,183.33,18.0,Good,used car,2779.0,87.39,2,1,unknown,none,3,car,21,unknown,rent,1,skilled,1,unknown,YES,3049.7200000000003,0.09738129496402878,unknown,GOOD
+Oregon,0.0,28.0,Bad,radio/tv,2743.0,0.0,4,4,male single,none,2,car,29,none,unknown,2,skilled,1,none,YES,2743.0,0.0,male,GOOD
+Pennsylvania,0.0,18.0,Moderate,radio/tv,1149.0,0.0,0,4,male single,none,3,real estate,46,unknown,own,2,skilled,1,none,NO,1149.0,0.0,male,BAD
+Pennsylvania,0.0,9.0,Good,other,1313.0,0.0,4,1,male single,none,4,car,20,none,own,1,unknown,1,none,YES,1313.0,0.0,male,BAD
+South Carolina,-3788.1,18.0,Bad,repairs,1190.0,13.37,0,2,female div/dep/mar,none,4,no known property,55,none,for free,3,unemp/unskilled non res,2,none,YES,-2584.73,-3.169378673383711,female,GOOD
+South Carolina,0.0,5.0,Good,other,2315.0,0.0,3,1,male single,none,-1,real estate,74,none,own,1,unskilled resident,1,none,NO,2315.0,0.0,male,BAD
+Tennessee,168.65,24.0,Good,other,11328.0,56.29,2,2,male single,co applicant,3,car,29,bank,own,2,high qualif/self emp/mgmt,1,yes,NO,11552.94,0.019855238767764145,male,GOOD
+Tennessee,-2941.81,6.0,Bad,furniture/equipment,1872.0,47.8,0,4,male single,none,4,no known property,36,none,for free,3,high qualif/self emp/mgmt,1,yes,NO,-1022.0099999999998,-1.545120128136679,male,GOOD
+Texas,0.0,24.0,Bad,repairs,2058.0,0.0,2,4,male div/sep,unknown,2,real estate,33,none,own,2,skilled,1,yes,NO,2058.0,0.0,male,GOOD
+Texas,-9463.67,9.0,Good,furniture/equipment,2136.0,0.0,2,3,male single,unknown,2,real estate,25,none,own,1,skilled,1,none,NO,-7327.67,-4.428483855872718,male,GOOD
+Texas,1.11,12.0,Good,radio/tv,1484.0,0.0,0,2,male mar/wid,unknown,1,real estate,25,none,own,1,skilled,1,yes,NO,1485.11,0.0007474747474747475,male,BAD
+Texas,0.0,6.0,Good,repairs,660.0,0.0,3,2,male mar/wid,none,4,real estate,23,none,rent,1,unskilled resident,1,none,YES,660.0,0.0,male,BAD
+Texas,0.0,24.0,Bad,new car,1287.0,0.0,4,4,female div/dep/mar,none,4,real estate,37,none,own,2,skilled,1,yes,NO,1287.0,0.0,female,GOOD
+Virginia,-862.49,42.0,Bad,repairs,3394.0,96.37,0,4,male single,co applicant,4,car,65,none,own,2,unemp/unskilled non res,1,none,YES,2627.88,-0.22566126656848307,male,BAD
+Virginia,8529.36,12.0,Good,business,609.0,65.35,1,4,female div/dep/mar,none,-1,real estate,26,none,own,1,unemp/unskilled non res,1,none,YES,9203.710000000001,14.089688524590166,female,BAD
+Wisconsin,0.0,12.0,Good,new car,1884.0,0.0,4,4,unknown,none,4,car,39,none,own,1,high qualif/self emp/mgmt,1,unknown,YES,1884.0,0.0,unknown,GOOD
+Arizona,-3497.13,12.0,Good,furniture/equipment,2315.0,62.94,0,2,female div/dep/mar,co applicant,3,no known property,30,none,own,1,skilled,1,none,YES,-1119.19,-1.4828108808290155,female,BAD
+California,105.82,20.0,Moderate,other,2629.0,51.43,2,2,unknown,none,3,car,29,bank,own,2,skilled,1,yes,NO,2786.25,0.05979087452471483,unknown,GOOD
+California,0.0,12.0,Good,education,719.0,0.0,4,4,male single,none,4,car,41,bank,own,1,unskilled resident,2,none,NO,719.0,0.0,male,BAD
+California,197.33,48.0,Bad,furniture/equipment,5096.0,66.53,2,2,female div/dep/mar,none,3,car,30,none,own,1,high qualif/self emp/mgmt,1,yes,YES,5359.86,0.05176770649401609,female,BAD
+California,0.0,9.0,Bad,education,1244.0,0.0,4,4,female div/dep/mar,none,4,life insurance,33,none,rent,2,unskilled resident,1,none,NO,1244.0,0.0,female,GOOD
+California,-616.99,36.0,Good,new car,1842.0,39.36,1,4,female div/dep/mar,none,4,car,34,none,own,1,skilled,1,yes,YES,1264.37,-0.31341833966359195,female,GOOD
+California,44.66,7.0,Good,other,2576.0,70.0,2,2,unknown,guarantor,2,real estate,35,none,own,1,skilled,1,none,NO,2690.66,0.04449359720605355,unknown,BAD
+District of Columbia,4343.18,12.0,Good,furniture/equipment,1424.0,0.0,4,3,female div/dep/mar,none,4,real estate,33,none,own,1,high qualif/self emp/mgmt,1,unknown,YES,5767.18,3.047845614035088,female,GOOD
+Georgia,61.71,18.0,Moderate,repairs,1512.0,5269.98,2,3,unknown,none,3,life insurance,61,stores,unknown,2,skilled,1,none,NO,6843.69,3.523919365499008,unknown,GOOD
+Georgia,0.0,36.0,Bad,used car,11054.0,0.0,2,-1,male single,none,2,car,30,unknown,own,1,high qualif/self emp/mgmt,1,yes,YES,11054.0,0.0,male,BAD
+Georgia,0.0,18.0,Good,radio/tv,518.0,0.0,2,3,female div/dep/mar,none,1,real estate,29,none,own,1,skilled,1,none,YES,518.0,0.0,female,GOOD
+Illinois,0.0,12.0,Moderate,furniture/equipment,2759.0,0.0,4,2,male single,none,4,life insurance,34,none,own,2,skilled,1,none,YES,2759.0,0.0,male,GOOD
+Indiana,0.0,24.0,Good,used car,2670.0,0.0,4,4,male single,none,4,car,35,unknown,unknown,1,high qualif/self emp/mgmt,1,yes,NO,2670.0,0.0,male,GOOD
+Louisiana,-8908.17,24.0,Good,new car,4817.0,50.51,3,2,male single,co applicant,3,life insurance,31,none,own,1,skilled,1,yes,NO,-4040.66,-1.8384516396845163,male,GOOD
+Maryland,0.0,24.0,Moderate,used car,2679.0,0.0,1,4,unknown,none,1,no known property,29,none,own,1,high qualif/self emp/mgmt,1,yes,YES,2679.0,0.0,unknown,BAD
+Michigan,-6832.38,11.0,Bad,new car,2315.0,0.0,2,2,male single,none,2,real estate,33,none,rent,2,skilled,2,none,YES,-4517.38,-2.950077720207254,male,BAD
+Missouri,-6919.2,12.0,Good,used car,3386.0,33.9,4,-1,male single,none,4,no known property,35,none,for free,1,skilled,1,yes,NO,-3499.3,-2.0328609388839682,male,BAD
+Missouri,-4746.34,6.0,Good,other,343.0,39.12,1,-1,unknown,none,1,real estate,27,none,own,1,skilled,1,unknown,YES,-4364.22,-13.683779069767443,unknown,GOOD
+Mississippi,0.0,18.0,Good,radio/tv,4594.0,0.0,1,3,male single,none,2,car,32,none,own,1,skilled,1,yes,YES,4594.0,0.0,male,BAD
+North Carolina,-2858.08,36.0,Good,furniture/equipment,3620.0,9.41,2,1,male single,guarantor,2,life insurance,37,none,own,1,skilled,2,none,YES,771.3299999999999,-0.7867080916873792,male,BAD
+New Jersey,-8901.73,15.0,Good,new car,2315.0,0.0,1,2,male single,none,3,real estate,36,none,own,-1,skilled,1,none,YES,-6586.73,-3.8435794473229703,male,GOOD
+New Jersey,113.17,12.0,Good,furniture/equipment,3017.0,0.0,1,3,female div/dep/mar,none,1,real estate,34,none,rent,1,high qualif/self emp/mgmt,1,none,YES,3130.17,0.037498343273691184,female,GOOD
+Nevada,195.88,12.0,Good,retraining,2315.0,0.0,4,4,male single,none,4,life insurance,38,none,own,2,skilled,1,none,YES,2510.88,0.0845768566493955,male,GOOD
+New York,0.0,18.0,Good,business,1950.0,0.0,3,4,male single,none,1,car,34,stores,own,2,skilled,1,yes,NO,1950.0,0.0,male,GOOD
+New York,-3581.55,24.0,Good,used car,2924.0,25.66,2,3,male single,unknown,4,no known property,63,bank,unknown,-1,unknown,2,yes,NO,-631.8900000000003,-1.215688888888889,male,BAD
+Oregon,-2336.07,24.0,Moderate,radio/tv,1659.0,92.06,1,4,female div/dep/mar,none,2,car,29,none,rent,1,unskilled resident,1,yes,NO,-585.0100000000002,-1.3518132530120484,female,BAD
+Pennsylvania,0.0,48.0,Moderate,radio/tv,7238.0,0.0,4,3,male single,none,3,car,32,unknown,own,2,unknown,2,none,YES,7238.0,0.0,male,GOOD
+Tennessee,0.0,18.0,Moderate,business,2764.0,0.0,2,2,female div/dep/mar,none,2,car,26,none,own,-1,skilled,1,yes,YES,2764.0,0.0,female,GOOD
+Tennessee,0.0,24.0,Moderate,other,4679.0,0.0,3,-1,male single,none,3,car,35,none,own,2,unskilled resident,1,yes,YES,4679.0,0.0,male,GOOD
+Texas,46.31,24.0,Good,radio/tv,2315.0,324.97,1,3,male mar/wid,none,2,car,22,none,rent,1,skilled,1,yes,YES,2686.28,0.16031088082901557,male,GOOD
+Texas,-9963.11,18.0,Good,education,448.0,37.26,1,4,unknown,none,4,life insurance,23,unknown,own,1,skilled,1,unknown,NO,-9477.85,-22.106570155902006,unknown,GOOD
+Texas,0.0,18.0,Good,new car,654.0,0.0,2,4,male single,unknown,3,car,28,none,own,1,unskilled resident,1,none,NO,654.0,0.0,male,GOOD
+Texas,0.0,6.0,Good,retraining,1238.0,0.0,0,4,unknown,none,-1,life insurance,36,none,own,1,high qualif/self emp/mgmt,2,yes,NO,1238.0,0.0,unknown,BAD
+Wisconsin,0.0,18.0,Bad,radio/tv,1245.0,0.0,2,4,male mar/wid,none,-1,car,33,none,unknown,1,skilled,1,none,NO,1245.0,0.0,male,GOOD
+Arizona,-4938.47,18.0,Moderate,furniture/equipment,3114.0,28.84,1,1,female div/dep/mar,unknown,4,life insurance,26,none,unknown,1,skilled,1,none,YES,-1795.63,-1.5761252006420545,female,BAD
+California,0.0,39.0,Good,used car,2569.0,0.0,2,4,male single,none,4,car,33,none,own,1,skilled,1,none,YES,2569.0,0.0,male,GOOD
+California,1525.11,24.0,Good,radio/tv,5152.0,12.95,3,4,male single,none,-1,car,25,bank,own,1,skilled,1,none,YES,6690.0599999999995,0.2984785561808655,male,BAD
+California,-1277.22,15.0,Bad,furniture/equipment,1478.0,0.0,4,4,male single,unknown,4,car,33,none,own,2,skilled,2,yes,YES,200.77999999999997,-0.8635699797160243,male,BAD
+California,28.6,12.0,Moderate,radio/tv,3573.0,0.0,2,1,female div/dep/mar,none,-1,real estate,23,none,own,1,unskilled resident,1,none,YES,3601.6,0.00800223838836038,female,BAD
+Georgia,35.33,24.0,Good,new car,1201.0,98.3,1,4,male single,none,1,life insurance,26,none,unknown,1,skilled,1,none,YES,1334.63,0.1111730449251248,male,BAD
+Illinois,-429.47,30.0,Good,furniture/equipment,3622.0,3227.17,0,4,unknown,unknown,4,no known property,57,none,rent,2,skilled,1,yes,NO,6419.7,0.7722053546784432,unknown,GOOD
+Indiana,0.0,15.0,Moderate,furniture/equipment,960.0,0.0,3,3,female div/dep/mar,none,2,life insurance,30,none,own,2,skilled,1,none,YES,960.0,0.0,female,BAD
+Louisiana,0.0,12.0,Bad,new car,1163.0,0.0,2,4,male single,unknown,4,real estate,44,none,own,1,skilled,1,unknown,YES,1163.0,0.0,male,GOOD
+Maryland,6.78,6.0,Moderate,new car,1209.0,78.37,0,4,male single,none,4,life insurance,47,none,own,1,high qualif/self emp/mgmt,1,yes,NO,1294.15,0.07037190082644629,male,GOOD
+Michigan,0.0,12.0,Good,other,3077.0,0.0,2,2,unknown,none,4,car,52,none,own,1,skilled,1,yes,YES,3077.0,0.0,unknown,GOOD
+Missouri,0.0,18.0,Moderate,other,3757.0,0.0,0,4,female div/dep/mar,co applicant,-1,no known property,62,none,for free,1,skilled,1,yes,NO,3757.0,0.0,female,GOOD
+New Jersey,0.0,10.0,Good,other,1418.0,0.0,2,3,male single,none,-1,real estate,35,none,rent,1,unskilled resident,1,unknown,YES,1418.0,0.0,male,BAD
+New Jersey,0.0,6.0,Good,other,3518.0,0.0,2,2,male single,guarantor,3,life insurance,26,none,rent,1,skilled,1,none,NO,3518.0,0.0,male,BAD
+New York,156.83,18.0,Moderate,business,8318.0,84.15,4,2,female div/dep/mar,none,4,no known property,33,none,for free,2,high qualif/self emp/mgmt,1,yes,NO,8558.98,0.028967423969227073,female,BAD
+Pennsylvania,0.0,6.0,Bad,radio/tv,1237.0,0.0,0,1,female div/dep/mar,none,1,life insurance,27,none,own,2,skilled,1,none,NO,1237.0,0.0,female,GOOD
+Tennessee,19.96,6.0,Good,radio/tv,368.0,0.0,0,4,unknown,none,4,life insurance,38,none,own,1,skilled,1,none,YES,387.96,0.05409214092140922,unknown,GOOD
+Texas,-9227.53,12.0,Bad,new car,2122.0,55.13,2,3,male single,none,2,real estate,33,none,rent,2,unskilled resident,2,none,NO,-7050.4000000000015,-4.320489872821479,male,GOOD
+Texas,-7638.04,24.0,Good,furniture/equipment,2996.0,0.0,2,2,male mar/wid,unknown,4,car,20,none,own,1,skilled,1,none,NO,-4642.04,-2.548561895228562,male,BAD
+Texas,180.86,18.0,Good,furniture/equipment,9034.0,242.99,1,4,male single,co applicant,1,no known property,29,none,rent,1,high qualif/self emp/mgmt,1,yes,YES,9457.85,0.0469120088544549,male,BAD
+Texas,0.0,24.0,Bad,furniture/equipment,1585.0,0.0,3,4,male single,none,-1,life insurance,40,none,own,2,skilled,1,none,NO,1585.0,0.0,male,GOOD
+Arizona,85.67,18.0,Good,radio/tv,2315.0,14.86,4,4,male mar/wid,guarantor,2,real estate,32,unknown,own,1,unskilled resident,1,none,YES,2415.53,0.04340673575129534,male,BAD
+California,3311.7,6.0,Bad,other,1323.0,442.18,4,2,male div/sep,none,4,car,28,unknown,own,2,skilled,2,yes,YES,5076.879999999999,2.835256797583081,male,GOOD
+California,-5229.05,24.0,Moderate,new car,3123.0,17.05,0,4,female div/dep/mar,none,1,life insurance,27,none,own,1,skilled,1,none,YES,-2089.0,-1.6683738796414853,female,GOOD
+California,-5239.0,36.0,Good,used car,5493.0,0.0,4,2,male single,none,4,no known property,42,none,for free,-1,skilled,2,none,NO,254.0,-0.9535857298871496,male,GOOD
+Georgia,6307.46,9.0,Moderate,radio/tv,2315.0,238.87,0,-1,male div/sep,none,4,no known property,49,none,own,1,skilled,1,none,NO,8861.33,2.8265673575129533,male,BAD
+Illinois,58.57,24.0,Bad,radio/tv,1216.0,354.18,1,4,male single,none,4,no known property,38,bank,own,2,skilled,2,none,NO,1628.75,0.3391536565324569,male,BAD
+Indiana,-7648.53,24.0,Good,new car,1207.0,35.15,0,4,unknown,none,4,life insurance,24,none,rent,-1,skilled,1,none,YES,-6406.38,-6.302466887417219,unknown,GOOD
+Louisiana,0.0,10.0,Good,new car,1309.0,0.0,2,4,male single,guarantor,4,life insurance,27,none,own,1,unskilled resident,1,none,NO,1309.0,0.0,male,GOOD
+Michigan,6026.68,15.0,Bad,used car,2360.0,651.95,2,2,male single,none,2,car,36,none,own,1,skilled,1,yes,NO,9038.630000000001,2.8287293519695047,male,GOOD
+Missouri,131.74,15.0,Good,new car,2315.0,207.23,0,1,male single,none,2,life insurance,34,unknown,own,1,high qualif/self emp/mgmt,2,yes,NO,2653.9700000000003,0.14636010362694302,male,BAD
+New Jersey,0.0,24.0,Good,radio/tv,2315.0,0.0,2,4,unknown,none,2,life insurance,28,unknown,unknown,1,unknown,1,none,NO,2315.0,0.0,unknown,BAD
+New Jersey,0.0,39.0,Good,other,8588.0,0.0,4,4,male single,none,2,car,45,none,own,1,unknown,1,yes,NO,8588.0,0.0,male,GOOD
+Nevada,-113.48,12.0,Good,new car,759.0,0.0,3,4,male single,none,2,real estate,26,none,own,1,skilled,1,none,YES,645.52,-0.1493157894736842,male,BAD
+New York,0.0,36.0,Good,used car,4686.0,0.0,2,2,unknown,none,2,no known property,33,none,for free,-1,high qualif/self emp/mgmt,1,yes,NO,4686.0,0.0,unknown,BAD
+Pennsylvania,7770.45,15.0,Good,business,2687.0,49.54,0,2,male single,none,4,life insurance,26,unknown,rent,1,unknown,1,unknown,YES,10506.99,2.9092224702380953,male,BAD
+Tennessee,139.31,12.0,Moderate,radio/tv,585.0,55.52,2,4,male mar/wid,co applicant,4,real estate,20,none,rent,2,skilled,1,unknown,YES,779.83,0.33247440273037543,male,GOOD
+Texas,0.0,24.0,Good,new car,2315.0,0.0,1,4,male single,none,1,life insurance,54,none,own,1,skilled,1,none,YES,2315.0,0.0,male,GOOD
+Texas,-1828.56,6.0,Bad,new car,609.0,0.0,3,4,female div/dep/mar,none,3,life insurance,37,none,own,2,skilled,1,none,NO,-1219.56,-2.997639344262295,female,BAD
+Texas,-8733.45,6.0,Bad,new car,1361.0,36.33,1,2,male single,none,4,real estate,40,none,unknown,1,unskilled resident,2,none,YES,-7336.120000000001,-6.385550660792952,male,GOOD
+Arizona,0.0,36.0,Bad,furniture/equipment,7127.0,0.0,1,2,female div/dep/mar,none,4,life insurance,23,unknown,rent,2,skilled,1,yes,NO,7127.0,0.0,female,BAD
+California,-2118.37,6.0,Good,new car,1203.0,432.97,4,3,male single,none,2,life insurance,43,none,own,1,skilled,1,yes,NO,-482.39999999999986,-1.3998338870431892,male,GOOD
+California,0.0,6.0,Bad,other,700.0,0.0,4,4,male single,none,4,no known property,36,none,for free,2,skilled,1,none,YES,700.0,0.0,male,GOOD
+California,0.0,24.0,Bad,repairs,2315.0,0.0,4,3,male single,unknown,4,no known property,44,none,for free,2,skilled,1,none,YES,2315.0,0.0,male,GOOD
+Georgia,-8455.84,18.0,Good,radio/tv,3190.0,45.05,0,2,female div/dep/mar,none,2,real estate,24,none,own,1,skilled,1,none,YES,-5220.790000000001,-2.63578502036979,female,BAD
+Illinois,-8255.57,48.0,Moderate,furniture/equipment,7119.0,97.02,2,3,male single,none,4,no known property,33,none,for free,-1,skilled,2,none,YES,-1039.5499999999993,-1.1458637640449436,male,GOOD
+Indiana,0.0,24.0,Good,other,3488.0,0.0,3,3,female div/dep/mar,none,4,car,33,none,own,1,skilled,1,none,NO,3488.0,0.0,female,BAD
+Louisiana,1.57,18.0,Good,radio/tv,1113.0,47.41,2,4,unknown,guarantor,4,real estate,26,none,own,1,unskilled resident,1,none,YES,1161.98,0.04396768402154398,unknown,BAD
+Maryland,190.77,26.0,Good,used car,7966.0,6.71,1,2,male single,none,3,no known property,30,none,own,2,skilled,1,none,YES,8163.48,0.024787247395506466,male,GOOD
+Michigan,0.0,15.0,Bad,education,1532.0,0.0,2,4,female div/dep/mar,none,3,car,31,unknown,own,1,unknown,1,none,YES,1532.0,0.0,female,BAD
+Missouri,0.0,4.0,Bad,radio/tv,1503.0,0.0,3,2,male single,none,-1,real estate,42,none,own,2,unknown,2,none,NO,1503.0,0.0,male,GOOD
+Nevada,-1149.77,6.0,Good,new car,662.0,32.76,1,3,male single,none,4,real estate,41,none,own,1,unknown,2,yes,YES,-455.01,-1.6847812971342382,male,GOOD
+New York,17.19,36.0,Good,education,2273.0,6.47,3,3,male single,none,1,no known property,32,none,own,2,skilled,2,none,NO,2296.66,0.01040457343887423,male,GOOD
+Pennsylvania,97.6,15.0,Good,new car,2631.0,183.61,0,2,female div/dep/mar,none,-1,car,28,none,rent,2,skilled,1,yes,YES,2912.21,0.10684270516717327,female,BAD
+Tennessee,0.0,12.0,Moderate,used car,1503.0,0.0,2,4,male mar/wid,none,4,real estate,41,none,rent,1,skilled,1,none,YES,1503.0,0.0,male,GOOD
+Texas,0.0,24.0,Good,radio/tv,1311.0,0.0,3,4,male mar/wid,none,3,life insurance,26,none,own,1,skilled,1,yes,YES,1311.0,0.0,male,GOOD
+Texas,0.0,24.0,Good,radio/tv,3105.0,0.0,1,4,male single,none,2,car,25,none,own,2,skilled,1,none,NO,3105.0,0.0,male,BAD
+Texas,6101.43,21.0,Bad,education,2319.0,1.47,1,2,male div/sep,none,1,no known property,33,none,rent,1,skilled,1,none,NO,8421.900000000001,2.6305603448275865,male,BAD
+Texas,-114.64,6.0,Good,new car,1374.0,0.0,0,-1,female div/dep/mar,none,-1,life insurance,75,unknown,own,1,high qualif/self emp/mgmt,1,unknown,NO,1259.36,-0.08337454545454545,female,BAD
+California,125.78,18.0,Bad,furniture/equipment,3612.0,28.3,4,3,female div/dep/mar,none,4,life insurance,33,none,unknown,1,skilled,1,yes,YES,3766.08,0.04264600055355661,female,GOOD
+California,-8788.57,48.0,Moderate,new car,7763.0,30.91,4,4,male single,none,4,no known property,42,bank,for free,1,high qualif/self emp/mgmt,1,none,YES,-994.6599999999999,-1.127982998454405,male,BAD
+Georgia,2754.09,18.0,Good,furniture/equipment,3049.0,30.99,1,1,female div/dep/mar,none,1,life insurance,45,stores,own,1,unskilled resident,1,none,YES,5834.08,0.9131409836065574,female,BAD
+Illinois,137.2,12.0,Good,radio/tv,1534.0,4.99,1,1,male mar/wid,none,1,real estate,23,none,rent,-1,skilled,1,none,NO,1676.19,0.09263192182410424,male,GOOD
+Indiana,0.0,24.0,Moderate,new car,2032.0,0.0,4,4,male single,none,4,no known property,60,none,for free,2,unknown,1,yes,NO,2032.0,0.0,male,GOOD
+Louisiana,-4007.13,30.0,Good,furniture/equipment,6350.0,0.0,4,4,male single,none,4,life insurance,31,none,own,1,skilled,1,none,NO,2342.87,-0.6309447331128957,male,GOOD
+Maryland,9351.05,18.0,Good,furniture/equipment,2864.0,18.37,2,2,male single,none,1,no known property,34,none,own,1,unskilled resident,2,none,NO,12233.42,3.270303664921466,male,BAD
+Michigan,0.0,12.0,Bad,new car,1255.0,0.0,4,4,male single,none,4,real estate,61,none,own,2,unskilled resident,1,unknown,NO,1255.0,0.0,male,BAD
+Missouri,-643.65,24.0,Moderate,new car,1333.0,27.22,0,4,male single,none,2,real estate,43,none,for free,2,skilled,2,none,YES,716.57,-0.4620914542728635,male,GOOD
+New Jersey,0.0,18.0,Bad,new car,2022.0,0.0,2,4,female div/dep/mar,none,4,car,37,none,own,1,skilled,1,yes,YES,2022.0,0.0,female,BAD
+Nevada,0.0,24.0,Good,radio/tv,1552.0,0.0,3,-1,male single,unknown,1,car,32,bank,own,1,skilled,2,none,NO,1552.0,0.0,male,BAD
+New York,0.0,12.0,Good,radio/tv,626.0,0.0,2,4,female div/dep/mar,none,-1,real estate,24,bank,own,1,unskilled resident,1,none,YES,626.0,0.0,female,BAD
+Pennsylvania,0.0,48.0,Bad,used car,8858.0,0.0,3,2,male single,none,1,no known property,35,none,for free,2,unknown,1,yes,NO,8858.0,0.0,male,GOOD
+Texas,0.0,12.0,Bad,other,996.0,0.0,3,4,female div/dep/mar,none,4,real estate,23,none,unknown,2,skilled,1,none,NO,996.0,0.0,female,GOOD
+Texas,0.0,6.0,Good,radio/tv,1750.0,0.0,4,2,male single,none,4,life insurance,45,bank,own,1,unskilled resident,2,none,YES,1750.0,0.0,male,GOOD
+Texas,-8206.97,48.0,Good,radio/tv,2315.0,36.37,3,1,male mar/wid,guarantor,1,real estate,33,none,own,2,skilled,1,yes,YES,-5855.599999999999,-3.527892918825561,male,BAD
+California,187.52,12.0,Bad,other,1995.0,214.45,1,4,male single,none,1,car,27,unknown,own,1,skilled,1,none,YES,2396.9700000000003,0.2013877755511022,male,GOOD
+California,104.1,9.0,Good,education,1199.0,90.98,3,4,female div/dep/mar,none,4,life insurance,67,none,own,2,high qualif/self emp/mgmt,1,yes,YES,1394.08,0.16256666666666666,female,BAD
+Illinois,32.01,12.0,Moderate,radio/tv,1331.0,3.87,1,2,male single,none,1,car,22,stores,own,1,skilled,1,none,YES,1366.88,0.026936936936936932,male,BAD
+Indiana,4.96,18.0,Moderate,new car,2278.0,245.49,0,3,female div/dep/mar,none,3,car,28,none,own,2,skilled,1,none,YES,2528.45,0.10989469065379553,female,GOOD
+Louisiana,0.0,21.0,Moderate,new car,2315.0,0.0,2,1,female div/dep/mar,none,4,life insurance,29,bank,own,2,skilled,1,unknown,NO,2315.0,0.0,female,GOOD
+Maryland,-7703.31,24.0,Good,furniture/equipment,3552.0,34.27,3,3,male single,none,4,no known property,27,bank,own,1,skilled,1,none,YES,-4117.04,-2.158468899521531,male,GOOD
+Michigan,150.22,18.0,Bad,furniture/equipment,1928.0,98.59,1,-1,male single,none,-1,real estate,31,none,own,2,unskilled resident,1,none,NO,2176.81,0.1289839294971488,male,GOOD
+Missouri,-6115.25,24.0,Moderate,used car,2964.0,0.0,4,4,male single,none,-1,no known property,49,bank,for free,1,skilled,2,yes,YES,-3151.25,-2.06247892074199,male,GOOD
+New Jersey,-565.62,24.0,Moderate,other,1546.0,34.47,3,4,male single,guarantor,4,car,24,bank,rent,1,unknown,1,none,YES,1014.85,-0.3433419521654816,male,GOOD
+Nevada,2165.21,6.0,Moderate,radio/tv,683.0,76.88,1,2,female div/dep/mar,none,1,life insurance,29,bank,own,1,skilled,1,none,NO,2925.09,3.2779093567251465,female,GOOD
+New York,16.83,36.0,Good,new car,12389.0,0.0,2,1,male single,none,4,no known property,37,none,for free,1,skilled,1,yes,NO,12405.83,0.0013583535108958836,male,BAD
+Pennsylvania,45.62,18.0,Moderate,business,4712.0,0.0,2,4,male single,unknown,2,life insurance,37,unknown,own,2,high qualif/self emp/mgmt,1,yes,NO,4757.62,0.009679609590494376,male,GOOD
+Texas,105.1,24.0,Moderate,radio/tv,1553.0,427.25,3,3,female div/dep/mar,none,2,life insurance,23,none,rent,2,skilled,1,yes,YES,2085.35,0.34256756756756757,female,GOOD
+Texas,-4731.97,12.0,Good,new car,1372.0,73.59,0,2,male div/sep,unknown,-1,no known property,36,none,own,1,skilled,1,none,NO,-3286.38,-3.392847778587036,male,GOOD
+Texas,0.0,24.0,Bad,radio/tv,2315.0,0.0,4,2,male single,none,2,car,34,none,own,1,skilled,1,none,NO,2315.0,0.0,male,GOOD
+California,141.77,48.0,Good,other,3979.0,0.0,3,4,male single,unknown,1,car,41,none,own,2,skilled,2,yes,YES,4120.77,0.03562060301507538,male,GOOD
+Illinois,-8505.01,48.0,Good,radio/tv,6758.0,79.62,2,3,female div/dep/mar,none,2,car,31,none,own,1,skilled,1,yes,NO,-1667.3899999999994,-1.2465438674360112,female,GOOD
+Maryland,-1076.42,18.0,Good,furniture/equipment,3234.0,32.53,0,4,unknown,unknown,4,real estate,23,none,rent,1,unskilled resident,1,yes,NO,2190.1099999999997,-0.3226862442040186,unknown,GOOD
+Michigan,0.0,30.0,Moderate,radio/tv,5954.0,0.0,3,-1,male single,co applicant,2,car,38,none,own,1,skilled,1,unknown,YES,5954.0,0.0,male,GOOD
+Missouri,0.0,18.0,Good,used car,5433.0,0.0,0,2,female div/dep/mar,none,-1,life insurance,26,none,rent,1,high qualif/self emp/mgmt,1,yes,NO,5433.0,0.0,female,GOOD
+Nevada,-7798.75,18.0,Good,other,806.0,56.13,2,4,female div/dep/mar,none,4,life insurance,33,none,unknown,1,unknown,1,none,NO,-6936.62,-9.594324659231722,female,GOOD
+New York,34.86,9.0,Good,radio/tv,1082.0,75.33,4,4,male single,none,4,no known property,33,none,own,2,unskilled resident,1,none,NO,1192.19,0.10174515235457063,male,BAD
+Pennsylvania,0.0,15.0,Bad,furniture/equipment,2788.0,0.0,3,2,female div/dep/mar,co applicant,3,no known property,24,bank,own,2,skilled,1,none,YES,2788.0,0.0,female,GOOD
+Texas,177.2,12.0,Good,radio/tv,2930.0,85.34,3,2,female div/dep/mar,none,1,real estate,27,none,own,1,skilled,1,none,NO,3192.54,0.08957352439440462,female,BAD
+Texas,0.0,24.0,Bad,education,1927.0,0.0,2,3,female div/dep/mar,none,2,car,33,none,unknown,2,skilled,1,yes,YES,1927.0,0.0,female,GOOD
+Texas,198.94,36.0,Bad,new car,2820.0,19.45,1,-1,male div/sep,none,-1,no known property,27,none,own,2,skilled,1,none,YES,3038.39,0.07741580999645516,male,GOOD
+California,0.0,24.0,Good,other,937.0,0.0,1,4,male mar/wid,none,-1,car,33,none,own,2,unskilled resident,1,none,NO,937.0,0.0,male,BAD
+Illinois,15.62,18.0,Bad,new car,1056.0,14.8,4,3,male single,guarantor,3,real estate,30,bank,own,2,skilled,1,unknown,YES,1086.42,0.028779564806054873,male,GOOD
+Maryland,11.12,12.0,Bad,new car,3124.0,52.67,0,1,male single,none,3,real estate,49,bank,own,2,unknown,2,none,NO,3187.79,0.0204128,male,BAD
+Michigan,0.0,9.0,Good,furniture/equipment,1388.0,0.0,2,4,female div/dep/mar,none,2,real estate,26,none,rent,1,skilled,1,none,YES,1388.0,0.0,female,GOOD
+Missouri,158.08,36.0,Good,repairs,2384.0,59.98,1,4,male single,none,1,no known property,33,none,rent,1,unskilled resident,1,none,NO,2602.06,0.09142976939203354,male,GOOD
+Nevada,0.0,12.0,Good,new car,2133.0,0.0,4,4,female div/dep/mar,none,4,no known property,52,none,for free,1,high qualif/self emp/mgmt,1,yes,NO,2133.0,0.0,female,BAD
+New York,-7660.79,18.0,Good,furniture/equipment,2039.0,66.73,2,1,female div/dep/mar,none,4,no known property,20,bank,rent,1,skilled,1,none,YES,-5555.06,-3.722578431372549,female,BAD
+Pennsylvania,-2109.83,9.0,Bad,new car,2799.0,52.78,2,2,male single,none,2,real estate,36,none,rent,2,skilled,2,none,YES,741.9500000000003,-0.7346607142857142,male,GOOD
+Texas,-8493.58,12.0,Good,furniture/equipment,1289.0,33.14,2,4,male single,unknown,1,life insurance,21,none,own,1,unskilled resident,1,none,NO,-7171.4400000000005,-6.558480620155039,male,BAD
+Texas,-4419.02,18.0,Good,domestic appliance,1217.0,0.0,2,4,male mar/wid,none,-1,real estate,47,none,own,1,unskilled resident,1,yes,NO,-3202.0200000000004,-3.6280952380952383,male,BAD
+California,-7550.63,12.0,Bad,furniture/equipment,2246.0,2.68,4,-1,male single,none,3,life insurance,60,none,own,2,skilled,1,none,YES,-5301.95,-3.3591232754784155,male,GOOD
+Illinois,-7837.91,12.0,Bad,radio/tv,2315.0,72.73,3,4,female div/dep/mar,none,3,real estate,58,none,own,4,unskilled resident,1,yes,NO,-5450.18,-3.352841105354059,female,BAD
+Michigan,23.86,18.0,Moderate,new car,1965.0,0.0,2,4,unknown,none,4,car,33,none,unknown,2,skilled,1,yes,NO,1988.86,0.012136317395727365,unknown,GOOD
+Missouri,0.0,21.0,Good,business,2315.0,0.0,4,4,female div/dep/mar,none,4,real estate,36,bank,own,1,unskilled resident,1,unknown,NO,2315.0,0.0,female,GOOD
+New York,51.5,24.0,Good,new car,2718.0,64.05,2,3,female div/dep/mar,none,4,life insurance,20,none,unknown,-1,unskilled resident,1,yes,YES,2833.55,0.04249724163295329,female,BAD
+Pennsylvania,-6474.5,24.0,Good,other,1358.0,0.0,4,-1,male single,none,3,car,40,stores,own,1,high qualif/self emp/mgmt,1,yes,YES,-5116.5,-4.7641648270787345,male,GOOD
+Texas,137.68,6.0,Moderate,new car,931.0,324.58,1,1,female div/dep/mar,none,1,life insurance,32,stores,own,1,unknown,1,none,YES,1393.26,0.4959871244635193,female,GOOD
+California,-7808.18,24.0,Good,new car,1442.0,25.48,0,4,female div/dep/mar,none,-1,car,23,none,rent,2,skilled,1,none,YES,-6340.700000000001,-5.393416493416494,female,GOOD
+Illinois,100.19,24.0,Moderate,business,4241.0,13.53,2,1,male single,none,4,real estate,36,none,own,3,unskilled resident,1,yes,NO,4354.72,0.02680810938236681,male,GOOD
+Maryland,0.0,18.0,Bad,new car,2315.0,0.0,3,2,male single,none,2,life insurance,31,bank,own,2,unknown,1,none,NO,2315.0,0.0,male,BAD
+Michigan,0.0,24.0,Moderate,business,3863.0,0.0,2,1,male single,none,-1,no known property,32,none,for free,1,unknown,1,unknown,NO,3863.0,0.0,male,BAD
+Missouri,141.17,7.0,Good,other,2329.0,76.66,1,1,female div/dep/mar,guarantor,1,real estate,45,none,unknown,1,skilled,1,none,YES,2546.83,0.09348927038626609,female,GOOD
+New York,48.14,9.0,Good,other,918.0,84.97,0,4,female div/dep/mar,none,-1,life insurance,33,none,own,1,skilled,1,none,NO,1051.1100000000001,0.14484221980413495,female,BAD
+Pennsylvania,10.4,24.0,Good,education,1837.0,53.92,3,4,female div/dep/mar,none,4,no known property,34,bank,for free,1,unskilled resident,1,none,YES,1901.32,0.03499455930359086,female,GOOD
+Texas,0.0,36.0,Good,furniture/equipment,3349.0,0.0,2,4,female div/dep/mar,none,2,car,28,none,unknown,1,high qualif/self emp/mgmt,1,yes,YES,3349.0,0.0,female,GOOD
+California,1789.83,10.0,Good,furniture/equipment,1275.0,58.68,1,4,unknown,none,2,life insurance,23,none,own,1,unknown,1,none,YES,3123.51,1.4486755485893417,unknown,GOOD
+Illinois,-4763.99,24.0,Good,furniture/equipment,2315.0,776.87,2,-1,male single,none,4,real estate,22,stores,own,1,skilled,1,yes,YES,-1672.12,-1.7215544041450777,male,GOOD
+Michigan,0.0,24.0,Bad,business,4526.0,0.0,2,3,male single,unknown,2,real estate,74,none,own,1,unknown,1,yes,YES,4526.0,0.0,male,GOOD
+Missouri,168.77,36.0,Good,other,2671.0,0.0,0,4,female div/dep/mar,unknown,4,no known property,50,unknown,for free,1,skilled,1,unknown,YES,2839.77,0.06316242514970061,female,GOOD
+New York,0.0,18.0,Good,radio/tv,2315.0,0.0,1,4,male single,none,1,real estate,33,none,own,1,skilled,1,none,NO,2315.0,0.0,male,BAD
+Pennsylvania,0.0,15.0,Good,used car,1300.0,0.0,4,4,male single,none,4,no known property,45,bank,for free,1,skilled,2,none,NO,1300.0,0.0,male,GOOD
+Texas,-6772.88,12.0,Good,domestic appliance,741.0,280.59,0,-1,female div/dep/mar,none,3,life insurance,22,none,unknown,1,skilled,1,none,NO,-5751.29,-8.749716981132076,female,GOOD
+Texas,3206.06,18.0,Good,new car,1240.0,191.82,0,1,female div/dep/mar,none,4,no known property,33,unknown,for free,1,unskilled resident,2,none,YES,4637.88,2.7380177276390008,female,GOOD
+California,-1041.19,21.0,Good,radio/tv,3357.0,8629.45,1,4,female div/dep/mar,none,2,car,29,bank,unknown,1,skilled,1,none,YES,10945.26,2.259755807027993,female,GOOD
+Illinois,-2735.83,24.0,Good,used car,3632.0,58.25,2,1,female div/dep/mar,guarantor,4,car,22,bank,rent,1,unknown,1,none,NO,954.4200000000001,-0.7370162400220204,female,GOOD
+Indiana,0.0,18.0,Moderate,furniture/equipment,1808.0,0.0,3,4,female div/dep/mar,none,1,real estate,33,none,own,1,skilled,1,none,YES,1808.0,0.0,female,BAD
+Maryland,141.49,48.0,Moderate,business,12204.0,0.0,2,2,male single,none,2,car,48,unknown,own,1,high qualif/self emp/mgmt,1,unknown,NO,12345.49,0.011592789840229415,male,GOOD
+Michigan,162.45,60.0,Moderate,radio/tv,2315.0,0.0,2,2,unknown,none,2,no known property,27,none,for free,1,high qualif/self emp/mgmt,1,none,YES,2477.45,0.07014248704663212,unknown,BAD
+Missouri,-3041.24,6.0,Bad,new car,3676.0,29.16,2,1,unknown,none,3,real estate,37,none,rent,3,skilled,2,none,NO,663.9200000000001,-0.8191677998368235,unknown,GOOD
+New York,132.49,30.0,Good,furniture/equipment,3441.0,0.0,2,-1,female div/dep/mar,co applicant,4,car,21,none,rent,1,skilled,1,none,NO,3573.49,0.03849215572341662,female,GOOD
+Pennsylvania,0.0,12.0,Good,new car,640.0,0.0,2,-1,male div/sep,none,2,real estate,49,none,own,1,unskilled resident,1,none,YES,640.0,0.0,male,BAD
+Texas,19.98,21.0,Bad,business,3652.0,51.81,3,2,male single,none,3,life insurance,27,unknown,own,2,skilled,1,none,YES,3723.79,0.01965234054202026,male,GOOD
+California,0.0,18.0,Bad,new car,1530.0,0.0,2,3,male single,none,2,life insurance,32,bank,own,2,skilled,1,none,NO,1530.0,0.0,male,GOOD
+Illinois,0.0,48.0,Good,business,3914.0,0.0,2,4,male div/sep,none,2,real estate,38,bank,own,1,skilled,1,none,YES,3914.0,0.0,male,BAD
+Michigan,-5290.04,12.0,Good,furniture/equipment,2315.0,60.63,1,4,female div/dep/mar,none,1,car,22,none,unknown,1,skilled,1,none,NO,-2914.41,-2.257949050086356,female,GOOD
+Missouri,-663.09,18.0,Good,radio/tv,2600.0,20.07,2,4,male single,none,4,no known property,65,none,for free,2,skilled,1,none,NO,1956.98,-0.24722029988465974,male,GOOD
+New York,0.0,15.0,Good,radio/tv,1979.0,0.0,4,4,male single,unknown,2,car,35,none,own,1,skilled,1,none,YES,1979.0,0.0,male,BAD
+Pennsylvania,7470.59,6.0,Moderate,furniture/equipment,2315.0,28.02,2,2,unknown,none,2,real estate,41,none,unknown,1,skilled,1,unknown,YES,9813.61,3.237741796200346,unknown,BAD
+Texas,0.0,9.0,Good,new car,1437.0,0.0,3,2,male single,none,3,no known property,29,none,own,1,unknown,1,none,YES,1437.0,0.0,male,BAD
+Alabama,0.0,42.0,Bad,furniture/equipment,4042.0,0.0,2,4,male single,none,4,real estate,36,none,own,2,skilled,1,yes,NO,4042.0,0.0,male,BAD
+California,0.0,9.0,Good,education,3832.0,0.0,4,1,male single,none,4,real estate,64,none,own,1,unskilled resident,1,unknown,NO,3832.0,0.0,male,BAD
+Illinois,-1681.76,18.0,Good,radio/tv,3660.0,89.73,2,2,female div/dep/mar,none,4,car,28,none,own,1,skilled,1,none,YES,2067.9700000000003,-0.434862059546572,female,BAD
+Michigan,-5831.23,18.0,Good,furniture/equipment,2315.0,77.99,2,4,male single,unknown,3,car,44,unknown,own,-1,skilled,1,none,YES,-3438.24,-2.4841278065630394,male,GOOD
+Missouri,41.2,15.0,Good,radio/tv,2315.0,0.0,1,4,male single,none,-1,life insurance,23,none,own,1,skilled,1,none,YES,2356.2,0.01778929188255613,male,BAD
+New York,0.0,9.0,Good,furniture/equipment,1980.0,0.0,1,2,female div/dep/mar,co applicant,2,car,19,none,rent,2,skilled,1,none,NO,1980.0,0.0,female,GOOD
+Texas,184.6,24.0,Good,new car,1355.0,30.24,1,3,female div/dep/mar,none,-1,car,25,none,own,1,unskilled resident,1,yes,YES,1569.84,0.15843657817109144,female,BAD
+California,0.0,12.0,Good,education,1393.0,0.0,4,4,male single,none,4,life insurance,47,bank,unknown,3,skilled,2,yes,YES,1393.0,0.0,male,BAD
+Florida,0.0,24.0,Good,radio/tv,1376.0,0.0,3,4,female div/dep/mar,none,1,no known property,33,none,own,1,skilled,1,none,YES,1376.0,0.0,female,BAD
+Illinois,0.0,60.0,Moderate,radio/tv,15653.0,0.0,3,2,unknown,none,4,no known property,21,none,own,2,skilled,1,yes,NO,15653.0,0.0,unknown,BAD
+Michigan,0.0,12.0,Good,radio/tv,1493.0,0.0,1,-1,female div/dep/mar,none,3,car,33,none,own,1,skilled,2,none,YES,1493.0,0.0,female,BAD
+New York,-583.41,42.0,Moderate,radio/tv,4370.0,96.22,3,3,male single,none,2,life insurance,26,bank,own,2,skilled,2,yes,YES,3882.81,-0.11145962022420497,male,BAD
+Texas,-2290.21,18.0,Good,education,750.0,65.14,0,4,female div/dep/mar,none,1,real estate,27,none,own,1,unemp/unskilled non res,1,unknown,YES,-1475.0700000000002,-2.9628095872170443,female,GOOD
+Illinois,0.0,15.0,Good,education,4623.0,0.0,2,3,male single,none,2,life insurance,40,none,own,1,high qualif/self emp/mgmt,1,yes,YES,4623.0,0.0,male,GOOD
+Michigan,0.0,18.0,Bad,radio/tv,1851.0,0.0,3,4,male mar/wid,guarantor,2,car,33,none,own,2,skilled,1,yes,NO,1851.0,0.0,male,GOOD
+New York,-4262.11,18.0,Bad,radio/tv,1880.0,86.87,0,4,male mar/wid,none,-1,life insurance,32,none,own,2,high qualif/self emp/mgmt,1,yes,YES,-2295.24,-2.2196916533758637,male,BAD
+Texas,0.0,36.0,Moderate,other,7980.0,0.0,1,4,male single,none,4,car,27,none,rent,2,skilled,1,yes,YES,7980.0,0.0,male,GOOD
+California,-9608.79,30.0,Moderate,other,4583.0,89.41,2,2,male div/sep,guarantor,-1,real estate,32,none,unknown,2,skilled,1,none,YES,-4936.380000000001,-2.0766535776614314,male,GOOD
+Illinois,0.0,12.0,Good,new car,1386.0,0.0,2,2,female div/dep/mar,none,2,life insurance,33,none,own,1,skilled,1,unknown,YES,1386.0,0.0,female,GOOD
+Michigan,5218.31,24.0,Good,new car,2315.0,99.04,3,4,male single,none,3,no known property,38,bank,for free,-1,unknown,2,none,NO,7632.35,2.295919689119171,male,GOOD
+New York,-9112.68,12.0,Good,education,684.0,98.28,2,4,male single,none,4,no known property,40,none,rent,1,unskilled resident,2,none,NO,-8330.4,-13.15970802919708,male,BAD
+New York,-2145.27,48.0,Good,education,7476.0,31.97,3,4,male single,none,1,no known property,50,none,for free,1,unknown,1,yes,YES,5362.7,-0.2826400962953056,male,GOOD
+Ohio,67.5,12.0,Good,furniture/equipment,1922.0,94.12,2,4,male single,none,2,life insurance,37,none,own,1,unskilled resident,1,none,NO,2083.62,0.08404576183047321,male,BAD
+Texas,-5275.22,24.0,Good,other,2303.0,75.09,4,4,male single,co applicant,1,real estate,45,none,own,1,skilled,1,none,YES,-2897.13,-2.2570008680555556,male,GOOD
+California,99.84,36.0,Moderate,new car,8086.0,125.55,4,-1,male single,none,4,car,42,none,own,4,high qualif/self emp/mgmt,1,yes,YES,8311.39,0.027870656609373066,male,BAD
+Illinois,0.0,24.0,Bad,used car,2346.0,0.0,3,4,male single,unknown,3,car,35,none,unknown,2,unknown,1,yes,NO,2346.0,0.0,male,GOOD
+Michigan,0.0,14.0,Good,other,3973.0,0.0,0,1,male single,none,4,no known property,33,none,for free,1,skilled,1,none,YES,3973.0,0.0,male,GOOD
+Michigan,79.58,12.0,Good,new car,888.0,10.02,4,4,male single,none,4,car,41,bank,own,1,unskilled resident,2,none,YES,977.6,0.10078740157480315,male,GOOD
+New York,0.0,48.0,Good,other,10222.0,0.0,3,4,male single,none,3,car,37,stores,own,1,skilled,1,yes,YES,10222.0,0.0,male,GOOD
+New York,43.97,30.0,Moderate,business,4221.0,80.29,0,2,female div/dep/mar,unknown,1,car,28,none,own,2,skilled,1,none,YES,4345.26,0.029431549028896258,female,BAD
+Ohio,0.0,18.0,Bad,furniture/equipment,6361.0,0.0,4,2,male single,none,1,no known property,41,none,own,1,skilled,1,yes,NO,6361.0,0.0,male,GOOD
+Texas,5584.53,12.0,Good,radio/tv,1297.0,15.37,2,3,male mar/wid,none,4,real estate,23,none,rent,1,skilled,1,none,YES,6896.9,4.314252696456086,male,GOOD
+California,-6047.48,12.0,Good,new car,900.0,0.0,2,4,male mar/wid,none,2,car,23,none,own,1,skilled,1,unknown,NO,-5147.48,-6.71196448390677,male,GOOD
+Illinois,0.0,21.0,Good,furniture/equipment,2241.0,0.0,4,4,male single,none,2,no known property,33,none,own,2,skilled,1,none,NO,2241.0,0.0,male,BAD
+Michigan,186.02,6.0,Moderate,furniture/equipment,1050.0,90.78,0,4,male single,none,1,life insurance,35,stores,own,2,high qualif/self emp/mgmt,1,yes,NO,1326.8,0.2633682207421503,male,BAD
+Texas,2609.44,6.0,Bad,education,2315.0,8.9,2,2,female div/dep/mar,none,-1,life insurance,50,none,own,1,unskilled resident,1,none,YES,4933.34,1.1305440414507772,female,GOOD
+Illinois,0.0,24.0,Bad,other,2315.0,0.0,0,4,male single,co applicant,-1,no known property,33,bank,own,-1,high qualif/self emp/mgmt,1,yes,YES,2315.0,0.0,male,BAD
+Michigan,152.49,30.0,Good,furniture/equipment,3496.0,8297.56,2,4,male single,none,2,no known property,34,stores,own,1,skilled,2,yes,NO,11946.05,2.4163711752931083,male,GOOD
+Texas,0.0,48.0,Good,business,3609.0,0.0,2,1,female div/dep/mar,none,-1,real estate,33,stores,own,1,skilled,1,none,YES,3609.0,0.0,female,GOOD
+Alabama,-746.1,12.0,Bad,new car,4843.0,14.57,4,3,male single,co applicant,4,life insurance,43,none,rent,-1,skilled,1,yes,YES,4111.47,-0.1510177539223782,male,BAD
+Illinois,5885.96,30.0,Bad,radio/tv,3017.0,3.8,4,-1,male single,unknown,4,life insurance,47,none,own,1,skilled,1,none,NO,8906.76,1.9515440689198145,male,BAD
+Michigan,0.0,24.0,Bad,business,4139.0,0.0,2,3,male single,none,3,life insurance,27,none,own,-1,unskilled resident,1,yes,NO,4139.0,0.0,male,BAD
+Texas,0.0,36.0,Good,business,5742.0,0.0,3,-1,male single,unknown,-1,car,33,none,own,2,skilled,1,unknown,YES,5742.0,0.0,male,BAD
+Illinois,0.0,60.0,Good,new car,10366.0,0.0,4,2,male single,none,4,life insurance,42,none,own,1,unknown,1,yes,NO,10366.0,0.0,male,GOOD
+Texas,0.0,6.0,Bad,new car,2080.0,0.0,2,1,male mar/wid,none,2,car,24,unknown,own,-1,skilled,1,none,NO,2080.0,0.0,male,BAD
+Illinois,0.0,21.0,Moderate,business,2580.0,0.0,1,4,male single,none,2,no known property,41,bank,own,1,unskilled resident,1,unknown,NO,2580.0,0.0,male,BAD
+Texas,0.0,30.0,Bad,radio/tv,4530.0,0.0,0,4,female div/dep/mar,none,4,car,26,none,unknown,1,high qualif/self emp/mgmt,1,yes,YES,4530.0,0.0,female,BAD
+Alabama,0.0,24.0,Bad,furniture/equipment,5150.0,0.0,4,4,unknown,none,4,car,33,none,own,1,skilled,1,yes,YES,5150.0,0.0,unknown,GOOD
+Alabama,31.31,72.0,Good,radio/tv,5595.0,309.29,2,2,male mar/wid,none,2,car,24,none,own,1,skilled,1,none,YES,5935.6,0.06086490350250179,male,GOOD
+Alabama,-5102.86,24.0,Good,radio/tv,2384.0,93.62,0,4,male single,none,4,real estate,64,bank,rent,-1,unskilled resident,1,none,YES,-2625.24,-2.1003102725366873,male,GOOD
+Alabama,0.0,18.0,Good,radio/tv,1453.0,0.0,1,3,female div/dep/mar,none,1,no known property,33,none,own,1,skilled,1,unknown,YES,1453.0,0.0,female,GOOD
+Alabama,0.0,6.0,Good,education,1538.0,0.0,1,1,female div/dep/mar,none,2,no known property,56,none,own,1,unknown,1,none,YES,1538.0,0.0,female,GOOD
+Alabama,0.0,12.0,Good,radio/tv,2279.0,0.0,2,4,male single,unknown,4,no known property,37,none,for free,1,skilled,1,unknown,YES,2279.0,0.0,male,GOOD
+Alabama,0.0,15.0,Moderate,radio/tv,1478.0,0.0,0,-1,male mar/wid,none,3,real estate,33,bank,own,2,skilled,1,none,NO,1478.0,0.0,male,BAD
+Alabama,0.0,24.0,Bad,radio/tv,5103.0,0.0,1,-1,male mar/wid,unknown,3,no known property,47,none,for free,3,skilled,1,yes,NO,5103.0,0.0,male,BAD
+Alabama,118.46,36.0,Moderate,business,9857.0,159.43,3,1,male single,none,3,life insurance,31,unknown,own,2,unskilled resident,2,yes,NO,10134.89,0.028189287888009736,male,GOOD
+Alabama,0.0,60.0,Good,new car,6527.0,0.0,2,4,male single,unknown,4,no known property,34,none,for free,1,skilled,1,yes,YES,6527.0,0.0,male,BAD
+Alabama,4535.68,10.0,Bad,radio/tv,1347.0,0.0,3,4,male single,none,2,life insurance,27,none,unknown,2,skilled,1,yes,YES,5882.68,3.3647477744807124,male,BAD
+Alabama,165.23,36.0,Moderate,new car,2862.0,189.81,4,4,male single,none,3,no known property,30,none,for free,1,skilled,1,none,YES,3217.04,0.12400977995110023,male,GOOD
+Alabama,0.0,9.0,Good,radio/tv,2753.0,0.0,4,3,unknown,co applicant,4,no known property,35,none,own,1,skilled,1,unknown,NO,2753.0,0.0,unknown,GOOD
+Arkansas,-925.22,12.0,Good,new car,3651.0,3414.88,2,1,male single,none,3,life insurance,31,none,own,1,unknown,2,none,NO,6140.66,0.6817250821467689,male,GOOD
+Arkansas,0.0,15.0,Bad,furniture/equipment,975.0,0.0,2,2,male div/sep,none,3,life insurance,25,none,unknown,2,skilled,1,none,YES,975.0,0.0,male,GOOD
+Arkansas,99.58,15.0,Good,repairs,2631.0,271.2,2,-1,female div/dep/mar,none,2,real estate,25,none,own,1,unknown,1,none,YES,3001.7799999999997,0.1408738601823708,female,GOOD
+Arkansas,78.73,24.0,Good,radio/tv,2896.0,184.01,1,2,male single,none,1,car,29,none,own,1,unknown,1,none,NO,3158.74,0.09069382119433897,male,GOOD
+Arkansas,-1364.07,6.0,Bad,new car,4716.0,0.0,1,1,male single,unknown,3,real estate,44,none,own,2,unskilled resident,2,none,NO,3351.9300000000003,-0.2891816832732669,male,GOOD
+Arkansas,0.0,24.0,Good,radio/tv,2284.0,0.0,3,4,male single,none,2,car,28,none,own,1,skilled,1,yes,NO,2284.0,0.0,male,GOOD
+Arkansas,0.0,6.0,Good,used car,2315.0,0.0,2,2,male single,none,4,life insurance,50,none,rent,1,skilled,1,none,YES,2315.0,0.0,male,GOOD
+Arkansas,24.28,12.0,Good,radio/tv,1103.0,0.0,3,4,male single,guarantor,3,real estate,33,none,own,2,skilled,1,unknown,NO,1127.28,0.021992753623188407,male,BAD
+Arkansas,0.0,18.0,Bad,new car,926.0,0.0,0,-1,female div/dep/mar,none,2,life insurance,38,unknown,unknown,1,unemp/unskilled non res,1,unknown,NO,926.0,0.0,female,GOOD
+Arkansas,0.0,18.0,Bad,radio/tv,2315.0,0.0,0,4,unknown,none,2,car,24,none,own,2,unknown,1,none,YES,2315.0,0.0,unknown,GOOD
+Arkansas,2644.05,15.0,Moderate,education,1905.0,94.84,0,4,male single,none,-1,car,40,none,rent,1,high qualif/self emp/mgmt,1,unknown,YES,4643.89,1.4369832109129068,male,GOOD
+Arkansas,0.0,12.0,Good,furniture/equipment,1123.0,0.0,2,-1,female div/dep/mar,none,4,car,29,none,rent,1,unskilled resident,1,none,YES,1123.0,0.0,female,GOOD
+Arizona,0.0,48.0,Bad,used car,6331.0,0.0,4,4,male single,none,4,no known property,46,none,for free,2,skilled,1,yes,NO,6331.0,0.0,male,GOOD
+Arizona,2392.34,24.0,Good,radio/tv,1377.0,287.97,4,4,female div/dep/mar,none,2,no known property,47,none,for free,1,skilled,1,yes,YES,4057.3100000000004,1.9450725689404937,female,GOOD
+Arizona,124.56,30.0,Moderate,business,2503.0,429.73,4,4,male single,none,2,life insurance,41,stores,own,2,skilled,1,none,NO,3057.29,0.22136182108626196,male,BAD
+Arizona,175.12,27.0,Good,business,2528.0,96.82,1,4,female div/dep/mar,none,1,life insurance,32,unknown,own,1,skilled,2,yes,YES,2799.94,0.10752866745749308,female,BAD
+Arizona,0.0,15.0,Good,new car,5324.0,0.0,4,1,female div/dep/mar,none,4,no known property,33,none,for free,1,skilled,1,none,YES,5324.0,0.0,female,GOOD
+Arizona,43.03,48.0,Good,new car,2315.0,254.32,3,-1,male single,none,2,life insurance,24,none,own,1,skilled,1,none,YES,2612.35,0.1283894645941278,male,BAD
+Arizona,187.67,18.0,Moderate,other,2969.0,9.09,1,4,female div/dep/mar,none,3,life insurance,25,none,rent,2,skilled,1,none,NO,3165.76,0.06624915824915825,female,GOOD
+Arizona,59.61,9.0,Good,radio/tv,1206.0,22.92,4,4,female div/dep/mar,none,4,real estate,25,none,own,1,skilled,1,none,YES,1288.53,0.06837613918806959,female,BAD
+Arizona,0.0,18.0,Good,radio/tv,2118.0,0.0,2,2,male single,none,2,real estate,37,unknown,unknown,1,unskilled resident,2,none,NO,2118.0,0.0,male,GOOD
+Arizona,0.0,18.0,Bad,radio/tv,629.0,0.0,4,4,male single,none,3,life insurance,33,bank,own,2,high qualif/self emp/mgmt,1,yes,NO,629.0,0.0,male,GOOD
+California,0.0,6.0,Good,education,1198.0,0.0,4,4,female div/dep/mar,none,4,no known property,35,none,for free,1,skilled,1,none,YES,1198.0,0.0,female,BAD
+California,0.0,21.0,Good,used car,2476.0,0.0,4,4,male single,none,4,real estate,46,none,own,1,high qualif/self emp/mgmt,1,yes,NO,2476.0,0.0,male,BAD
+California,-7949.53,9.0,Bad,other,1138.0,65.06,0,4,male single,none,4,real estate,25,none,own,2,unskilled resident,1,unknown,NO,-6746.469999999999,-6.922273924495171,male,GOOD
+California,189.81,60.0,Good,new car,14027.0,1.59,3,4,male single,none,2,no known property,27,none,own,1,high qualif/self emp/mgmt,1,unknown,YES,14218.4,0.013644140290846879,male,GOOD
+California,0.0,30.0,Bad,used car,7596.0,0.0,4,1,male single,none,4,car,63,none,own,-1,skilled,1,none,NO,7596.0,0.0,male,BAD
+California,0.0,30.0,Bad,radio/tv,3077.0,0.0,4,3,male single,unknown,2,car,40,none,unknown,2,skilled,2,yes,NO,3077.0,0.0,male,GOOD
+California,0.0,18.0,Good,radio/tv,1505.0,0.0,2,4,unknown,unknown,2,no known property,32,none,for free,1,high qualif/self emp/mgmt,1,yes,NO,1505.0,0.0,unknown,GOOD
+California,8048.88,24.0,Bad,radio/tv,3148.0,0.0,2,-1,male single,none,2,no known property,33,none,own,2,skilled,1,yes,NO,11196.880000000001,2.5560114322006986,male,BAD
+California,163.16,20.0,Moderate,used car,6148.0,364.78,4,-1,male mar/wid,none,-1,car,31,bank,own,2,skilled,1,unknown,YES,6675.94,0.08585786306716538,male,BAD
+California,7880.65,9.0,Moderate,radio/tv,1337.0,66.11,0,4,male single,none,2,car,34,none,unknown,2,high qualif/self emp/mgmt,1,yes,NO,9283.759999999998,5.939282511210762,male,BAD
+California,0.0,6.0,Good,other,433.0,0.0,1,-1,female div/dep/mar,none,2,life insurance,24,bank,rent,1,skilled,2,none,NO,433.0,0.0,female,BAD
+California,-7075.13,12.0,Moderate,new car,1228.0,10.4,0,-1,female div/dep/mar,none,2,no known property,24,none,own,1,unknown,1,none,YES,-5836.7300000000005,-5.748356387306754,female,GOOD
+California,106.93,18.0,Good,radio/tv,790.0,893.64,2,4,female div/dep/mar,none,3,real estate,66,none,own,1,unskilled resident,1,none,NO,1790.57,1.2649431099873576,female,GOOD
+California,0.0,27.0,Good,new car,2570.0,0.0,0,3,female div/dep/mar,none,3,real estate,21,none,unknown,1,skilled,1,unknown,NO,2570.0,0.0,female,BAD
+California,0.0,6.0,Moderate,new car,250.0,0.0,2,-1,female div/dep/mar,none,2,real estate,33,bank,own,2,unskilled resident,1,none,YES,250.0,0.0,female,GOOD
+California,0.0,15.0,Bad,radio/tv,1316.0,0.0,2,2,male mar/wid,none,2,life insurance,47,none,own,2,unskilled resident,1,none,YES,1316.0,0.0,male,GOOD
+California,-1726.33,18.0,Good,radio/tv,1882.0,39.45,2,4,female div/dep/mar,none,-1,car,25,bank,rent,-1,skilled,1,none,YES,195.12000000000012,-0.8958470525756771,female,BAD
+California,71.62,48.0,Good,business,6416.0,99.84,4,-1,female div/dep/mar,none,3,no known property,33,none,rent,-1,skilled,1,none,YES,6587.46,0.026719650927224562,female,GOOD
+California,3063.5,24.0,Bad,other,1275.0,3355.15,0,2,male div/sep,none,4,real estate,36,none,own,2,skilled,1,yes,NO,7693.65,5.0302899686520375,male,GOOD
+California,47.73,24.0,Moderate,radio/tv,6403.0,0.0,1,1,male single,none,2,car,33,none,own,1,skilled,1,none,YES,6450.73,0.00745315427857589,male,GOOD
+California,-1458.47,18.0,Moderate,radio/tv,1987.0,47.43,2,2,male single,none,4,real estate,33,none,rent,1,unskilled resident,2,none,YES,575.96,-0.7097786720321931,male,BAD
+California,33.27,8.0,Good,radio/tv,2315.0,43.74,3,4,female div/dep/mar,guarantor,2,real estate,44,none,own,1,unskilled resident,1,none,YES,2392.01,0.03325129533678757,female,GOOD
+California,0.0,18.0,Good,used car,2315.0,0.0,2,2,unknown,none,4,car,28,none,unknown,1,skilled,1,yes,NO,2315.0,0.0,unknown,BAD
+California,0.0,4.0,Bad,new car,3380.0,0.0,3,1,female div/dep/mar,none,1,real estate,37,none,own,1,unknown,1,none,YES,3380.0,0.0,female,GOOD
+California,71.0,36.0,Good,domestic appliance,3990.0,0.0,1,-1,female div/dep/mar,unknown,2,no known property,29,unknown,own,1,unemp/unskilled non res,1,none,YES,4061.0,0.017790027562014532,female,BAD
+California,37.8,24.0,Good,used car,11560.0,91.89,2,1,female div/dep/mar,none,4,car,23,none,unknown,2,high qualif/self emp/mgmt,1,none,YES,11689.69,0.011217887725975262,female,GOOD
+California,-4024.01,18.0,Good,new car,4380.0,411.17,0,3,male single,none,4,car,35,none,unknown,1,unknown,2,yes,YES,767.1599999999999,-0.8246610362930838,male,BAD
+California,0.0,6.0,Bad,new car,2315.0,0.0,3,1,male single,unknown,3,no known property,33,none,own,2,high qualif/self emp/mgmt,2,yes,NO,2315.0,0.0,male,GOOD
+California,126.63,30.0,Moderate,business,4280.0,374.88,2,4,female div/dep/mar,none,-1,car,26,none,rent,2,unskilled resident,1,unknown,NO,4781.51,0.1171478626489138,female,GOOD
+California,-210.65,24.0,Good,new car,2325.0,355.29,3,2,male single,none,3,no known property,32,bank,own,1,skilled,1,unknown,NO,2469.64,0.06218400687876183,male,GOOD
+California,138.02,10.0,Good,radio/tv,2315.0,60.77,2,4,male single,none,4,no known property,23,stores,unknown,1,unskilled resident,1,unknown,YES,2513.79,0.08583333333333334,male,GOOD
+California,0.0,21.0,Good,radio/tv,3160.0,0.0,4,4,male single,none,3,life insurance,41,none,own,1,skilled,1,yes,NO,3160.0,0.0,male,BAD
+California,-5175.66,24.0,Good,furniture/equipment,2483.0,899.82,2,-1,male single,none,4,real estate,22,stores,own,1,skilled,1,yes,NO,-1792.8400000000001,-1.721352657004831,male,BAD
+California,-9114.34,39.0,Bad,furniture/equipment,14179.0,0.0,3,-1,male single,none,4,life insurance,30,unknown,own,2,high qualif/self emp/mgmt,1,yes,YES,5064.66,-0.6427602256699577,male,BAD
+California,-1569.65,18.0,Bad,business,1797.0,51.04,1,3,male single,none,1,life insurance,28,bank,own,2,unskilled resident,1,none,NO,278.3899999999999,-0.8446106785317019,male,GOOD
+California,-206.0,15.0,Good,new car,2511.0,0.0,0,1,female div/dep/mar,none,4,car,23,none,unknown,1,skilled,1,none,YES,2305.0,-0.08200636942675159,female,GOOD
+California,-1128.82,18.0,Good,new car,1274.0,31.64,1,3,female div/dep/mar,none,1,real estate,37,none,own,1,unskilled resident,1,none,YES,176.82000000000016,-0.8605333333333332,female,GOOD
+California,0.0,18.0,Good,used car,5248.0,0.0,2,1,male single,none,-1,car,26,none,own,1,skilled,1,none,YES,5248.0,0.0,male,GOOD
+California,0.0,15.0,Good,used car,3029.0,0.0,0,2,male single,none,2,car,33,none,own,1,skilled,1,none,YES,3029.0,0.0,male,GOOD
+California,-1907.79,6.0,Good,furniture/equipment,2315.0,0.0,4,2,female div/dep/mar,none,1,life insurance,49,unknown,unknown,1,skilled,1,yes,YES,407.21000000000004,-0.8237435233160622,female,BAD
+California,-4959.02,18.0,Good,new car,976.0,41.22,1,1,female div/dep/mar,none,2,car,23,none,own,1,unskilled resident,1,none,NO,-3941.8,-5.033572159672467,female,GOOD
+California,169.84,12.0,Good,business,841.0,406.75,3,-1,female div/dep/mar,none,4,real estate,23,none,rent,1,unskilled resident,1,none,YES,1417.5900000000001,0.6847862232779097,female,GOOD
+California,0.0,30.0,Bad,radio/tv,5771.0,0.0,3,4,female div/dep/mar,none,2,car,25,none,unknown,2,unknown,1,none,YES,5771.0,0.0,female,BAD
+California,0.0,18.0,Moderate,repairs,1555.0,0.0,4,4,male single,none,4,no known property,55,none,for free,2,skilled,1,none,YES,1555.0,0.0,male,GOOD
+California,9099.65,6.0,Bad,new car,1299.0,98.73,2,1,male single,none,1,real estate,33,none,unknown,3,unemp/unskilled non res,2,none,YES,10497.38,7.075676923076922,male,GOOD
+California,9437.28,15.0,Bad,radio/tv,1271.0,0.0,2,3,male single,none,-1,no known property,39,none,for free,2,skilled,1,yes,YES,10708.28,7.419245283018869,male,BAD
+California,0.0,24.0,Good,new car,1393.0,0.0,2,-1,male single,guarantor,2,real estate,31,none,unknown,1,skilled,1,yes,NO,1393.0,0.0,male,GOOD
+California,-114.67,12.0,Bad,new car,691.0,15.15,4,4,male single,none,3,life insurance,35,none,unknown,2,skilled,1,none,NO,591.48,-0.1438150289017341,male,BAD
+California,0.0,15.0,Bad,new car,2315.0,0.0,4,1,unknown,unknown,4,car,59,none,own,1,skilled,1,yes,YES,2315.0,0.0,unknown,BAD
+California,-4560.48,18.0,Bad,furniture/equipment,2124.0,34.4,2,4,female div/dep/mar,none,4,real estate,24,none,rent,2,skilled,1,none,YES,-2402.08,-2.12992,female,GOOD
+California,-1694.38,12.0,Good,radio/tv,2214.0,0.0,2,4,male single,none,3,life insurance,24,none,own,1,unskilled resident,1,none,YES,519.6199999999999,-0.7649571106094809,male,GOOD
+California,0.0,21.0,Bad,new car,2315.0,0.0,0,4,male single,none,4,no known property,30,none,for free,1,high qualif/self emp/mgmt,1,yes,YES,2315.0,0.0,male,BAD
+California,0.0,24.0,Bad,other,2463.0,0.0,3,4,male mar/wid,none,3,life insurance,27,none,unknown,2,unknown,1,yes,NO,2463.0,0.0,male,BAD
+California,121.72,12.0,Moderate,radio/tv,2315.0,15.47,0,3,unknown,unknown,3,real estate,40,bank,own,2,unskilled resident,1,none,YES,2452.19,0.059235751295336786,unknown,GOOD
+California,0.0,30.0,Moderate,furniture/equipment,3108.0,0.0,1,2,male div/sep,none,4,life insurance,31,none,unknown,1,unskilled resident,1,unknown,NO,3108.0,0.0,male,BAD
+California,0.0,18.0,Good,used car,2901.0,0.0,1,1,female div/dep/mar,unknown,-1,no known property,31,none,rent,1,skilled,1,none,YES,2901.0,0.0,female,GOOD
+California,95.13,12.0,Bad,furniture/equipment,3617.0,92.79,4,-1,male single,unknown,4,no known property,28,none,rent,3,skilled,1,yes,YES,3804.92,0.05194029850746269,male,GOOD
+California,0.0,12.0,Bad,other,1655.0,0.0,4,2,male single,none,4,real estate,33,none,own,2,unskilled resident,1,yes,NO,1655.0,0.0,male,GOOD
+California,-5367.96,24.0,Good,used car,2812.0,0.0,4,2,female div/dep/mar,none,4,real estate,26,none,rent,1,skilled,1,none,YES,-2555.96,-1.9082687522218273,female,GOOD
+California,-1433.67,36.0,Moderate,education,8065.0,52.31,2,3,female div/dep/mar,none,2,no known property,25,none,own,2,high qualif/self emp/mgmt,1,yes,YES,6683.639999999999,-0.17125712868832135,female,BAD
+California,0.0,21.0,Bad,used car,3275.0,0.0,4,1,male single,none,4,car,36,none,own,1,high qualif/self emp/mgmt,1,yes,YES,3275.0,0.0,male,GOOD
+California,0.0,24.0,Bad,radio/tv,2223.0,0.0,4,4,male single,none,4,life insurance,33,unknown,own,2,skilled,1,none,NO,2223.0,0.0,male,GOOD
+California,4970.39,18.0,Bad,new car,1480.0,818.86,0,2,male single,unknown,4,no known property,33,unknown,for free,3,unemp/unskilled non res,1,none,NO,7269.25,3.9090141796083726,male,BAD
+California,-7880.14,24.0,Good,new car,2315.0,0.0,2,4,female div/dep/mar,none,-1,real estate,25,none,rent,1,skilled,1,none,YES,-5565.14,-3.402478411053541,female,GOOD
+California,0.0,36.0,Bad,new car,3535.0,0.0,3,4,unknown,none,4,car,37,none,own,2,skilled,1,yes,YES,3535.0,0.0,unknown,GOOD
+California,-5787.14,18.0,Good,radio/tv,3509.0,5.6,3,-1,female div/dep/mar,guarantor,1,real estate,25,none,own,1,skilled,1,none,NO,-2272.54,-1.647162393162393,female,BAD
+Colorado,0.0,18.0,Bad,used car,5711.0,0.0,4,4,unknown,none,-1,car,38,none,own,2,unknown,1,yes,YES,5711.0,0.0,unknown,GOOD
+Colorado,0.0,18.0,Good,repairs,3872.0,0.0,0,2,female div/dep/mar,none,4,car,67,none,own,1,skilled,1,yes,NO,3872.0,0.0,female,BAD
+Colorado,143.98,39.0,Bad,radio/tv,4933.0,27.57,3,2,male single,guarantor,2,real estate,25,none,own,2,skilled,1,none,NO,5104.55,0.034768950141872715,male,BAD
+Colorado,0.0,18.0,Bad,new car,1940.0,0.0,4,4,male single,none,4,real estate,60,none,own,1,skilled,1,yes,YES,1940.0,0.0,male,GOOD
+Connecticut,124.22,12.0,Moderate,retraining,1410.0,39.88,2,2,male single,none,2,real estate,31,none,own,1,unskilled resident,1,yes,YES,1574.1,0.11630049610205527,male,GOOD
+Connecticut,18.9,12.0,Good,new car,836.0,197.77,1,4,female div/dep/mar,none,2,life insurance,23,bank,own,1,unskilled resident,1,none,NO,1052.67,0.2588649940262844,female,BAD
+District of Columbia,92.6,20.0,Good,used car,6468.0,0.0,0,1,male div/sep,none,4,real estate,60,none,own,1,high qualif/self emp/mgmt,1,yes,NO,6560.6,0.014314422631009429,male,GOOD
+District of Columbia,20.17,18.0,Good,business,1941.0,9298.08,2,4,male single,none,2,life insurance,35,none,own,1,unskilled resident,1,yes,YES,11259.25,4.7982749742533475,male,GOOD
+Delaware,0.0,22.0,Good,radio/tv,2675.0,0.0,4,3,unknown,none,4,car,40,none,own,1,skilled,1,none,NO,2675.0,0.0,unknown,BAD
+Delaware,0.0,48.0,Moderate,used car,2315.0,0.0,0,4,male single,none,3,car,38,none,own,2,skilled,2,yes,YES,2315.0,0.0,male,BAD
+Florida,22.41,48.0,Moderate,education,2315.0,88.44,4,4,male single,none,4,no known property,50,none,for free,1,skilled,1,none,YES,2425.85,0.047862694300518135,male,GOOD
+Florida,0.0,40.0,Bad,education,5998.0,0.0,2,4,male single,unknown,3,no known property,27,bank,own,1,unknown,1,yes,YES,5998.0,0.0,male,BAD
+Florida,49.35,21.0,Good,other,1188.0,39.92,4,2,female div/dep/mar,none,4,life insurance,33,none,own,1,skilled,2,none,YES,1277.27,0.07507989907485282,female,GOOD
+Florida,0.0,24.0,Good,used car,6313.0,0.0,4,-1,male single,none,4,car,41,none,own,1,high qualif/self emp/mgmt,2,yes,NO,6313.0,0.0,male,BAD
+Florida,0.0,18.0,Bad,furniture/equipment,1221.0,0.0,2,1,male mar/wid,none,2,life insurance,27,none,own,2,skilled,1,none,YES,1221.0,0.0,male,GOOD
+Florida,5071.29,18.0,Good,furniture/equipment,2892.0,40.12,0,3,male div/sep,none,4,no known property,51,none,for free,1,skilled,1,none,NO,8003.41,1.766819910127895,male,GOOD
+Florida,0.0,24.0,Good,furniture/equipment,3062.0,0.0,4,4,male single,none,3,no known property,32,none,rent,1,skilled,1,yes,YES,3062.0,0.0,male,BAD
+Florida,0.0,9.0,Moderate,furniture/equipment,2301.0,0.0,1,2,unknown,none,4,life insurance,33,none,rent,1,skilled,1,none,NO,2301.0,0.0,unknown,BAD
+Florida,-3171.02,18.0,Good,used car,2315.0,0.0,4,1,male single,none,4,life insurance,51,unknown,for free,1,skilled,2,yes,YES,-856.02,-1.3691796200345423,male,BAD
+Florida,0.0,12.0,Bad,furniture/equipment,1258.0,0.0,1,-1,female div/dep/mar,none,4,life insurance,22,none,rent,2,unskilled resident,1,unknown,NO,1258.0,0.0,female,GOOD
+Florida,0.0,18.0,Moderate,new car,717.0,0.0,4,4,male mar/wid,none,4,car,54,none,own,2,skilled,1,yes,YES,717.0,0.0,male,GOOD
+Florida,67.27,9.0,Good,new car,2315.0,0.0,1,-1,male single,none,2,real estate,35,none,own,-1,unemp/unskilled non res,1,none,YES,2382.27,0.029045768566493952,male,GOOD
+Florida,0.0,24.0,Bad,education,2315.0,0.0,4,4,unknown,none,4,no known property,33,none,for free,2,skilled,2,none,YES,2315.0,0.0,unknown,BAD
+Florida,193.43,18.0,Bad,radio/tv,1795.0,34.86,4,3,female div/dep/mar,guarantor,4,real estate,48,bank,rent,-1,unskilled resident,1,yes,NO,2023.29,0.12711024498886414,female,GOOD
+Florida,-8219.36,20.0,Bad,furniture/equipment,4272.0,94.81,4,1,unknown,none,4,life insurance,24,unknown,own,2,skilled,1,unknown,NO,-3852.55,-1.9013690615492629,unknown,BAD
+Florida,0.0,12.0,Moderate,other,976.0,0.0,4,4,male single,unknown,4,car,35,none,own,2,skilled,1,none,NO,976.0,0.0,male,BAD
+Florida,44.41,12.0,Good,new car,7472.0,0.0,0,1,female div/dep/mar,none,2,real estate,33,none,rent,1,unemp/unskilled non res,1,none,YES,7516.41,0.005942727151077211,female,GOOD
+Florida,-7911.06,36.0,Moderate,new car,9271.0,10.91,3,2,male single,unknown,1,car,24,none,own,1,skilled,1,unknown,NO,1370.8499999999995,-0.8520437877480588,male,GOOD
+Florida,3.64,6.0,Good,radio/tv,590.0,69.14,1,3,unknown,none,3,real estate,26,none,own,1,unskilled resident,1,none,YES,662.78,0.12314720812182742,unknown,GOOD
+Florida,0.0,12.0,Bad,radio/tv,930.0,0.0,4,4,male single,none,4,real estate,65,unknown,own,4,skilled,1,none,NO,930.0,0.0,male,BAD
+Florida,0.0,42.0,Good,used car,9283.0,0.0,0,1,male single,none,2,no known property,55,bank,for free,1,high qualif/self emp/mgmt,1,yes,YES,9283.0,0.0,male,GOOD
+Florida,0.0,15.0,Moderate,new car,1778.0,0.0,1,2,female div/dep/mar,none,1,real estate,26,none,rent,2,unemp/unskilled non res,1,unknown,YES,1778.0,0.0,female,BAD
+Florida,69.88,8.0,Good,business,907.0,6.83,1,3,male mar/wid,none,2,real estate,26,none,own,1,skilled,1,unknown,NO,983.71,0.08448237885462555,male,GOOD
+Florida,98.29,6.0,Good,radio/tv,484.0,82.59,3,3,male mar/wid,guarantor,3,real estate,28,bank,own,1,unskilled resident,1,none,NO,664.88,0.3729484536082474,male,BAD
+Florida,-4383.35,36.0,Bad,used car,9629.0,80.0,3,4,male single,none,4,car,24,none,own,2,unknown,1,yes,NO,5325.65,-0.4468691588785047,male,GOOD
+Florida,-6144.69,48.0,Good,domestic appliance,3051.0,61.85,2,3,male single,none,-1,car,54,none,own,1,skilled,1,none,NO,-3031.8399999999992,-1.993066841415465,male,BAD
+Florida,-5706.25,48.0,Good,new car,3931.0,99.46,3,-1,male single,unknown,-1,no known property,46,none,for free,1,skilled,2,none,NO,-1675.79,-1.425938453713123,male,GOOD
+Florida,28.13,36.0,Moderate,new car,7432.0,17.52,2,-1,female div/dep/mar,none,2,life insurance,54,unknown,rent,1,skilled,1,none,YES,7477.65,0.006141531010359209,female,BAD
+Florida,0.0,6.0,Good,domestic appliance,1338.0,0.0,2,1,male div/sep,none,4,real estate,62,none,own,1,skilled,1,none,NO,1338.0,0.0,male,BAD
+Florida,0.0,6.0,Moderate,other,1554.0,0.0,0,-1,female div/dep/mar,none,2,car,24,none,unknown,2,skilled,1,yes,YES,1554.0,0.0,female,BAD
+Florida,0.0,36.0,Good,other,15857.0,0.0,0,2,male div/sep,co applicant,3,car,43,none,own,-1,high qualif/self emp/mgmt,1,none,NO,15857.0,0.0,male,GOOD
+Florida,-581.77,18.0,Good,radio/tv,1345.0,54.46,2,-1,male mar/wid,none,3,real estate,26,bank,unknown,1,unknown,1,unknown,YES,817.69,-0.3917607726597325,male,BAD
+Florida,0.0,12.0,Good,other,1101.0,0.0,0,3,male mar/wid,none,2,real estate,27,none,own,-1,skilled,1,yes,NO,1101.0,0.0,male,GOOD
+Florida,0.0,12.0,Good,radio/tv,3016.0,0.0,2,3,male mar/wid,none,1,car,24,none,own,1,skilled,1,none,YES,3016.0,0.0,male,GOOD
+Florida,-8804.85,36.0,Good,furniture/equipment,2712.0,21.59,4,2,male single,none,2,life insurance,41,bank,own,1,skilled,2,unknown,YES,-6071.26,-3.2374714338370807,male,GOOD
+Florida,-7039.13,8.0,Bad,new car,731.0,45.93,4,4,male single,none,4,real estate,33,none,own,2,unknown,1,none,NO,-6262.2,-9.553551912568306,male,BAD
+Florida,0.0,18.0,Bad,furniture/equipment,3780.0,0.0,1,3,male div/sep,none,2,car,35,none,own,2,high qualif/self emp/mgmt,1,yes,NO,3780.0,0.0,male,GOOD
+Florida,-6845.84,21.0,Bad,new car,1602.0,64.4,4,4,male mar/wid,none,3,car,30,none,own,2,skilled,1,yes,NO,-5179.4400000000005,-4.230467872738616,male,GOOD
+Florida,-4028.09,18.0,Bad,new car,3966.0,89.91,0,1,female div/dep/mar,none,4,real estate,33,unknown,rent,3,skilled,1,yes,NO,27.81999999999971,-0.9927350642803127,female,GOOD
+Florida,0.0,18.0,Moderate,business,4165.0,0.0,2,2,male single,none,2,car,36,stores,unknown,2,skilled,2,none,NO,4165.0,0.0,male,GOOD
+Florida,-2327.2,36.0,Good,used car,8335.0,0.0,4,3,male single,none,4,no known property,47,none,for free,1,skilled,1,unknown,YES,6007.8,-0.2791746641074856,male,GOOD
+Georgia,45.9,48.0,Moderate,business,6681.0,0.0,2,4,male single,none,4,no known property,38,none,for free,1,skilled,2,yes,YES,6726.9,0.006869200838072433,male,BAD
+Georgia,0.0,24.0,Moderate,business,2375.0,0.0,2,4,male single,none,2,car,33,unknown,own,2,skilled,2,yes,YES,2375.0,0.0,male,BAD
+Georgia,-9116.85,18.0,Good,new car,1216.0,0.0,1,4,female div/dep/mar,none,3,car,23,none,rent,1,skilled,1,unknown,YES,-7900.85,-7.491248972884142,female,GOOD
+Georgia,-6919.96,45.0,Moderate,business,11816.0,80.7,4,2,male single,unknown,4,car,29,unknown,rent,2,skilled,1,none,YES,4976.74,-0.5787644918337987,male,GOOD
+Georgia,94.26,24.0,Good,radio/tv,2315.0,0.0,4,2,female div/dep/mar,none,-1,car,42,none,own,1,skilled,1,unknown,YES,2409.26,0.04069948186528498,female,GOOD
+Georgia,5440.88,15.0,Good,radio/tv,2327.0,94.96,1,2,female div/dep/mar,none,3,real estate,25,none,own,1,unskilled resident,1,none,NO,7862.84,2.377938144329897,female,GOOD
+Georgia,-6123.97,12.0,Moderate,new car,1082.0,0.0,2,4,male single,none,4,no known property,48,bank,own,2,unknown,1,none,YES,-5041.97,-5.654635272391506,male,GOOD
+Georgia,0.0,12.0,Good,other,886.0,0.0,2,4,female div/dep/mar,unknown,2,car,21,unknown,own,-1,skilled,1,none,YES,886.0,0.0,female,GOOD
+Georgia,0.0,4.0,Good,furniture/equipment,601.0,0.0,1,1,female div/dep/mar,unknown,3,real estate,23,unknown,rent,1,unskilled resident,2,none,NO,601.0,0.0,female,BAD
+Georgia,-8713.84,18.0,Bad,used car,2315.0,71.17,4,4,male single,none,4,life insurance,63,none,own,2,skilled,1,yes,NO,-6327.67,-3.731722797927461,male,BAD
+Georgia,0.0,24.0,Bad,radio/tv,2611.0,0.0,4,4,male mar/wid,co applicant,-1,real estate,46,none,own,2,skilled,1,none,NO,2611.0,0.0,male,GOOD
+Georgia,-2075.66,36.0,Good,furniture/equipment,5179.0,28.73,3,4,male single,none,2,life insurance,29,none,own,1,skilled,1,none,NO,3132.07,-0.3951602316602316,male,GOOD
+Georgia,0.0,21.0,Moderate,used car,2993.0,0.0,2,3,male single,none,2,real estate,28,stores,own,2,unskilled resident,1,none,YES,2993.0,0.0,male,GOOD
+Georgia,0.0,18.0,Good,repairs,1943.0,0.0,0,4,female div/dep/mar,none,4,real estate,23,none,unknown,1,skilled,1,none,YES,1943.0,0.0,female,GOOD
+Georgia,0.0,24.0,Good,business,1559.0,0.0,3,4,male single,none,4,car,50,bank,unknown,1,skilled,1,yes,NO,1559.0,0.0,male,GOOD
+Georgia,0.0,18.0,Good,furniture/equipment,3422.0,0.0,4,4,male single,none,4,life insurance,47,bank,own,-1,skilled,2,unknown,YES,3422.0,0.0,male,GOOD
+Georgia,164.54,21.0,Moderate,furniture/equipment,3976.0,0.0,3,2,unknown,none,3,no known property,35,none,own,1,skilled,1,yes,NO,4140.54,0.041372894141312545,unknown,GOOD
+Georgia,0.0,18.0,Good,new car,6761.0,0.0,2,2,male single,none,4,car,68,none,rent,2,skilled,1,unknown,YES,6761.0,0.0,male,GOOD
+Georgia,0.0,18.0,Moderate,new car,1249.0,0.0,1,-1,male mar/wid,none,2,real estate,28,none,own,1,skilled,1,none,YES,1249.0,0.0,male,BAD
+Georgia,-5400.65,9.0,Good,radio/tv,1364.0,27.79,3,-1,male single,none,4,real estate,59,none,own,1,skilled,1,unknown,NO,-4008.8599999999997,-3.936161172161172,male,GOOD
+Hawaii,-9276.51,12.0,Good,other,709.0,16.33,4,4,male single,none,4,real estate,57,stores,own,1,unskilled resident,1,none,YES,-8551.18,-13.042507042253522,male,GOOD
+Iowa,-2942.19,20.0,Bad,new car,2235.0,1.49,2,4,male mar/wid,guarantor,2,life insurance,33,bank,rent,2,skilled,1,none,NO,-705.7000000000003,-1.3151610017889088,male,GOOD
+Iowa,0.0,24.0,Bad,used car,4042.0,0.0,3,3,male single,none,4,life insurance,43,none,own,2,skilled,1,yes,NO,4042.0,0.0,male,GOOD
+Iowa,0.0,15.0,Bad,radio/tv,1471.0,0.0,2,4,male single,none,4,no known property,35,none,for free,2,skilled,1,yes,YES,1471.0,0.0,male,BAD
+Iowa,-4157.57,18.0,Good,other,1442.0,94.88,3,4,male single,none,4,no known property,32,none,for free,2,unskilled resident,2,none,NO,-2620.6899999999996,-2.815446985446985,male,GOOD
+Iowa,0.0,36.0,Moderate,new car,10875.0,0.0,4,2,male single,none,2,car,45,unknown,own,2,skilled,2,yes,NO,10875.0,0.0,male,BAD
+Iowa,0.0,24.0,Good,new car,1474.0,0.0,1,4,male mar/wid,none,-1,real estate,33,none,own,1,skilled,1,yes,NO,1474.0,0.0,male,GOOD
+Iowa,0.0,18.0,Good,retraining,894.0,0.0,3,4,female div/dep/mar,none,3,life insurance,40,none,own,1,skilled,1,yes,YES,894.0,0.0,female,BAD
+Idaho,0.0,18.0,Bad,furniture/equipment,3343.0,0.0,2,4,unknown,none,2,no known property,33,unknown,for free,1,skilled,1,yes,YES,3343.0,0.0,unknown,GOOD
+Idaho,-4513.12,15.0,Good,new car,3959.0,18.68,2,3,female div/dep/mar,none,2,no known property,29,none,own,1,skilled,1,yes,NO,-535.4399999999996,-1.134959595959596,female,BAD
+Illinois,0.0,9.0,Good,new car,3577.0,0.0,2,1,male single,guarantor,2,real estate,26,none,rent,1,skilled,2,none,NO,3577.0,0.0,male,BAD
+Illinois,0.0,24.0,Bad,other,5804.0,0.0,2,4,male single,none,2,real estate,33,none,own,2,skilled,1,none,YES,5804.0,0.0,male,BAD
+Illinois,0.0,18.0,Moderate,business,2169.0,0.0,2,4,male mar/wid,none,2,car,33,none,own,1,skilled,1,unknown,NO,2169.0,0.0,male,GOOD
+Illinois,-2638.38,24.0,Good,radio/tv,2439.0,0.0,1,-1,female div/dep/mar,none,-1,real estate,35,none,own,1,unknown,1,yes,YES,-199.3800000000001,-1.0813032786885246,female,GOOD
+Illinois,0.0,27.0,Bad,furniture/equipment,4526.0,0.0,1,4,male single,none,2,real estate,32,stores,own,2,unskilled resident,2,yes,NO,4526.0,0.0,male,BAD
+Illinois,0.0,10.0,Good,furniture/equipment,2210.0,0.0,0,2,male single,unknown,2,real estate,25,unknown,unknown,1,unskilled resident,1,none,NO,2210.0,0.0,male,GOOD
+Illinois,0.0,15.0,Moderate,furniture/equipment,2221.0,0.0,2,2,female div/dep/mar,none,4,car,20,none,rent,1,skilled,1,none,NO,2221.0,0.0,female,BAD
+Illinois,-8906.05,18.0,Good,radio/tv,2389.0,88.27,1,4,unknown,none,1,car,27,stores,own,1,skilled,1,unknown,YES,-6428.779999999999,-3.6894476987447695,unknown,BAD
+Illinois,0.0,12.0,Bad,furniture/equipment,3331.0,0.0,4,2,male single,none,4,life insurance,42,stores,own,1,skilled,1,none,YES,3331.0,0.0,male,BAD
+Illinois,0.0,36.0,Good,business,7409.0,0.0,4,3,male single,none,2,no known property,37,none,own,2,skilled,1,none,YES,7409.0,0.0,male,GOOD
+Illinois,-542.44,12.0,Good,furniture/equipment,652.0,94.47,4,4,female div/dep/mar,none,4,life insurance,24,none,unknown,1,skilled,1,none,YES,204.02999999999997,-0.6860183767228178,female,BAD
+Illinois,0.0,36.0,Moderate,furniture/equipment,2315.0,0.0,3,2,female div/dep/mar,none,4,car,40,none,unknown,2,skilled,1,yes,NO,2315.0,0.0,female,BAD
+Illinois,6044.46,6.0,Bad,new car,1343.0,18.82,4,1,male single,none,4,real estate,46,none,own,2,skilled,2,none,NO,7406.28,4.511369047619048,male,BAD
+Illinois,-34.79,24.0,Bad,business,2315.0,146.38,3,-1,male single,none,-1,real estate,26,none,own,2,skilled,1,yes,YES,2426.59,0.04818221070811744,male,GOOD
+Illinois,0.0,15.0,Good,domestic appliance,874.0,0.0,1,4,female div/dep/mar,none,1,real estate,24,none,own,1,skilled,1,none,NO,874.0,0.0,female,GOOD
+Illinois,-7372.45,12.0,Good,furniture/equipment,2315.0,0.0,2,2,male single,co applicant,2,life insurance,29,none,own,1,unskilled resident,2,none,YES,-5057.45,-3.183268566493955,male,BAD
+Illinois,51.27,11.0,Bad,new car,1322.0,7453.33,2,4,female div/dep/mar,none,-1,car,40,none,unknown,2,skilled,1,none,NO,8826.6,5.672411186696901,female,GOOD
+Illinois,-974.0,18.0,Good,radio/tv,1940.0,65.2,1,3,male single,co applicant,4,no known property,36,bank,for free,1,high qualif/self emp/mgmt,1,yes,NO,1031.2,-0.46821226172076247,male,BAD
+Illinois,0.0,36.0,Good,radio/tv,3595.0,0.0,4,4,male single,none,2,car,28,none,own,1,skilled,1,none,NO,3595.0,0.0,male,GOOD
+Illinois,-8311.39,9.0,Good,new car,1422.0,84.41,1,3,male single,none,2,no known property,27,none,for free,-1,unknown,1,yes,YES,-6804.98,-5.781433591004919,male,GOOD
+Illinois,0.0,30.0,Bad,radio/tv,2315.0,0.0,3,2,male single,none,3,life insurance,36,none,own,2,skilled,1,none,NO,2315.0,0.0,male,GOOD
+Illinois,0.0,24.0,Good,used car,7814.0,0.0,3,3,male single,none,3,car,38,none,own,1,unknown,1,yes,YES,7814.0,0.0,male,GOOD
+Illinois,0.0,24.0,Good,used car,9277.0,0.0,2,2,male div/sep,none,4,no known property,48,none,for free,1,skilled,1,yes,YES,9277.0,0.0,male,GOOD
+Illinois,0.0,30.0,Bad,new car,2181.0,0.0,4,4,male single,none,4,real estate,36,none,own,2,skilled,1,unknown,NO,2181.0,0.0,male,BAD
+Illinois,0.0,18.0,Bad,radio/tv,1098.0,0.0,0,4,female div/dep/mar,none,4,car,65,none,own,-1,unemp/unskilled non res,1,unknown,YES,1098.0,0.0,female,GOOD
+Illinois,39.31,24.0,Good,other,4057.0,16.75,3,3,male div/sep,none,3,car,33,none,own,-1,skilled,1,yes,NO,4113.06,0.01381468703794973,male,BAD
+Illinois,-5589.96,12.0,Good,other,795.0,12.55,1,4,female div/dep/mar,none,4,life insurance,53,none,own,1,skilled,1,none,YES,-4782.41,-7.00679648241206,female,BAD
+Illinois,140.73,24.0,Bad,other,2825.0,0.0,0,4,male single,none,3,no known property,34,none,own,2,skilled,2,yes,YES,2965.73,0.04979830148619957,male,BAD
+Indiana,0.0,18.0,Good,other,15672.0,0.0,2,2,male single,unknown,2,car,23,none,own,1,skilled,1,yes,YES,15672.0,0.0,male,BAD
+Indiana,0.0,36.0,Bad,new car,6614.0,0.0,4,4,male single,none,4,car,34,none,own,2,high qualif/self emp/mgmt,1,yes,YES,6614.0,0.0,male,GOOD
+Indiana,0.0,28.0,Good,other,7824.0,0.0,1,3,male single,guarantor,4,real estate,40,bank,rent,2,skilled,2,yes,YES,7824.0,0.0,male,GOOD
+Indiana,-7869.21,27.0,Bad,business,2442.0,78.37,4,4,male single,none,4,car,43,stores,own,-1,high qualif/self emp/mgmt,2,yes,YES,-5348.84,-3.189046254604994,male,GOOD
+Indiana,0.0,15.0,Bad,radio/tv,1829.0,0.0,4,4,male single,none,-1,car,33,none,unknown,2,skilled,1,yes,NO,1829.0,0.0,male,BAD
+Indiana,-9686.49,12.0,Bad,new car,2171.0,80.14,2,4,male single,none,4,life insurance,38,bank,own,2,unskilled resident,1,none,YES,-7435.35,-4.422813075506446,male,BAD
+Indiana,71.39,36.0,Bad,used car,5800.0,44.36,2,3,male single,none,4,car,34,none,own,2,skilled,1,yes,YES,5915.75,0.01995345630063782,male,BAD
+Indiana,0.0,18.0,Bad,radio/tv,1169.0,0.0,2,4,unknown,none,3,life insurance,29,none,own,2,skilled,1,yes,YES,1169.0,0.0,unknown,BAD
+Indiana,0.0,36.0,Moderate,used car,8947.0,0.0,0,3,male single,none,-1,car,31,stores,own,-1,high qualif/self emp/mgmt,2,yes,NO,8947.0,0.0,male,GOOD
+Indiana,-3213.79,21.0,Moderate,radio/tv,2606.0,25.37,1,4,female div/dep/mar,unknown,4,no known property,28,none,rent,1,high qualif/self emp/mgmt,1,yes,NO,-582.4200000000001,-1.2230226313770618,female,BAD
+Indiana,0.0,12.0,Bad,other,2315.0,0.0,0,3,female div/dep/mar,none,2,life insurance,35,none,unknown,1,skilled,1,none,YES,2315.0,0.0,female,GOOD
+Indiana,0.0,15.0,Good,other,2186.0,0.0,3,1,unknown,none,4,real estate,33,bank,rent,1,unskilled resident,1,none,YES,2186.0,0.0,unknown,BAD
+Indiana,-5178.11,18.0,Good,furniture/equipment,4153.0,65.95,2,2,unknown,co applicant,3,car,42,none,unknown,1,skilled,1,none,NO,-959.1599999999999,-1.2306596051998073,unknown,GOOD
+Indiana,-9384.89,18.0,Bad,new car,2625.0,25.0,4,2,male single,guarantor,4,life insurance,43,bank,rent,1,unknown,1,yes,NO,-6734.889999999999,-3.564314546839299,male,GOOD
+Indiana,0.0,20.0,Bad,new car,3485.0,0.0,1,2,male div/sep,none,4,real estate,44,none,own,2,skilled,1,yes,NO,3485.0,0.0,male,BAD
+Kansas,0.0,18.0,Bad,used car,2315.0,0.0,4,2,male single,none,4,no known property,42,unknown,unknown,2,skilled,1,none,YES,2315.0,0.0,male,GOOD
+Kansas,0.0,15.0,Good,radio/tv,1386.0,0.0,2,4,male mar/wid,unknown,2,real estate,40,none,rent,-1,skilled,1,yes,NO,1386.0,0.0,male,GOOD
+Kansas,0.0,24.0,Good,radio/tv,2315.0,0.0,4,4,male single,none,1,real estate,36,none,own,1,high qualif/self emp/mgmt,1,yes,YES,2315.0,0.0,male,BAD
+Kansas,-4424.42,18.0,Moderate,radio/tv,1107.0,65.46,2,2,male single,none,2,real estate,20,none,rent,1,high qualif/self emp/mgmt,2,unknown,NO,-3251.96,-3.9340794223826716,male,GOOD
+Kentucky,-8003.56,21.0,Good,new car,3763.0,0.0,3,2,male single,co applicant,2,real estate,24,none,own,1,unskilled resident,1,none,NO,-4240.56,-2.1263443145589798,male,GOOD
+Kentucky,124.56,36.0,Good,education,3711.0,0.0,2,2,male mar/wid,none,2,car,27,none,own,1,skilled,1,none,YES,3835.56,0.03355603448275862,male,GOOD
+Kentucky,0.0,15.0,Moderate,used car,3594.0,0.0,1,1,female div/dep/mar,none,2,life insurance,33,none,own,2,unskilled resident,1,none,NO,3594.0,0.0,female,GOOD
+Kentucky,152.88,9.0,Good,new car,3195.0,0.0,2,1,female div/dep/mar,none,2,real estate,33,none,own,1,unskilled resident,1,none,NO,3347.88,0.04783479349186483,female,BAD
+Kentucky,0.0,36.0,Moderate,radio/tv,4454.0,0.0,2,4,female div/dep/mar,none,4,real estate,34,none,own,2,skilled,1,none,NO,4454.0,0.0,female,BAD
+Kentucky,53.13,18.0,Bad,furniture/equipment,4736.0,73.55,1,2,unknown,none,4,car,25,bank,unknown,1,unskilled resident,1,none,YES,4862.68,0.026742664133417776,unknown,GOOD
+Kentucky,136.67,30.0,Moderate,radio/tv,2991.0,0.0,4,-1,female div/dep/mar,none,4,car,25,none,own,1,skilled,1,none,YES,3127.67,0.045678475935828876,female,BAD
+Kentucky,0.0,11.0,Good,business,2142.0,0.0,4,1,male div/sep,none,2,real estate,28,none,unknown,1,unknown,1,yes,YES,2142.0,0.0,male,GOOD
+Kentucky,0.0,24.0,Good,business,3161.0,0.0,2,4,male single,none,2,no known property,31,none,rent,1,skilled,1,yes,YES,3161.0,0.0,male,BAD
+Kentucky,0.0,48.0,Moderate,other,18424.0,0.0,2,1,female div/dep/mar,none,2,life insurance,32,bank,own,1,high qualif/self emp/mgmt,1,yes,YES,18424.0,0.0,female,GOOD
+Kentucky,0.0,18.0,Good,used car,2848.0,0.0,2,1,male single,co applicant,2,real estate,32,none,own,1,skilled,2,none,NO,2848.0,0.0,male,BAD
+Kentucky,-2248.12,6.0,Good,new car,14896.0,47.22,4,1,male single,none,4,no known property,68,bank,own,1,high qualif/self emp/mgmt,1,unknown,NO,12695.1,-0.14774115593743709,male,GOOD
+Kentucky,-9881.63,24.0,Good,furniture/equipment,2359.0,465.33,0,-1,male div/sep,none,1,life insurance,33,none,own,1,skilled,1,none,YES,-7057.299999999999,-3.9899576271186437,male,GOOD
+Kentucky,-5723.26,24.0,Good,furniture/equipment,3345.0,58.66,4,4,unknown,none,2,life insurance,39,none,rent,1,high qualif/self emp/mgmt,1,yes,YES,-2319.6000000000004,-1.6929468021518232,unknown,GOOD
+Kentucky,0.0,18.0,Bad,furniture/equipment,1817.0,0.0,2,4,female div/dep/mar,none,2,no known property,28,none,own,2,unknown,1,none,NO,1817.0,0.0,female,BAD
+Kentucky,0.0,18.0,Moderate,radio/tv,12749.0,0.0,3,4,male single,none,1,car,37,none,own,1,unknown,1,yes,NO,12749.0,0.0,male,BAD
+Kentucky,-5558.63,9.0,Good,radio/tv,1366.0,8.58,1,3,female div/dep/mar,none,4,life insurance,22,none,rent,1,skilled,1,none,YES,-4184.05,-4.060021945866862,female,GOOD
+Kentucky,50.65,12.0,Good,new car,2002.0,78.56,3,3,unknown,none,4,life insurance,30,none,rent,1,skilled,2,yes,NO,2131.21,0.06450823764353471,unknown,BAD
+Kentucky,-860.04,24.0,Good,furniture/equipment,6872.0,0.0,1,2,male div/sep,none,1,life insurance,33,bank,own,1,skilled,1,yes,NO,6011.96,-0.12513312963771278,male,BAD
+Kentucky,-493.93,12.0,Good,other,697.0,41.84,1,4,male single,unknown,2,car,46,bank,own,2,skilled,1,yes,YES,244.90999999999997,-0.6476934097421204,male,BAD
+Kentucky,-139.76,18.0,Bad,furniture/equipment,1049.0,44.33,1,4,unknown,none,4,life insurance,21,none,rent,1,skilled,1,none,YES,953.57,-0.09088571428571428,unknown,GOOD
+Kentucky,-6957.68,18.0,Good,used car,10297.0,96.63,3,4,male single,none,4,no known property,39,stores,for free,-1,skilled,2,yes,YES,3435.95,-0.6662507282967567,male,BAD
+Kentucky,0.0,18.0,Good,radio/tv,1867.0,0.0,4,-1,male single,none,4,car,58,none,own,-1,skilled,1,yes,YES,1867.0,0.0,male,GOOD
+Kentucky,-6014.9,12.0,Moderate,new car,2315.0,77.78,2,4,male single,none,2,real estate,43,none,own,2,unknown,2,none,NO,-3622.12,-2.563523316062176,male,GOOD
+Kentucky,-6433.26,24.0,Good,furniture/equipment,2315.0,49.11,1,4,male single,co applicant,1,life insurance,24,unknown,unknown,1,unskilled resident,1,none,NO,-4069.1500000000005,-2.756541450777202,male,BAD
+Kentucky,76.55,9.0,Good,radio/tv,1670.0,11.79,1,4,female div/dep/mar,none,2,car,22,none,own,1,skilled,1,unknown,YES,1758.34,0.05286654697785757,female,BAD
+Kentucky,0.0,9.0,Bad,new car,1224.0,0.0,2,3,male single,none,1,real estate,30,none,own,2,skilled,1,none,YES,1224.0,0.0,male,GOOD
+Louisiana,0.0,12.0,Bad,other,2315.0,0.0,4,4,male single,none,4,life insurance,42,none,own,-1,skilled,2,yes,NO,2315.0,0.0,male,GOOD
+Louisiana,-7689.68,18.0,Good,other,1498.0,54.57,2,4,female div/dep/mar,unknown,1,car,23,bank,own,1,skilled,1,none,YES,-6137.110000000001,-5.093468979319547,female,GOOD
+Louisiana,152.56,30.0,Moderate,radio/tv,1919.0,239.05,1,-1,male single,none,3,no known property,30,unknown,unknown,2,high qualif/self emp/mgmt,1,none,YES,2310.61,0.20396354166666666,male,BAD
+Louisiana,6883.16,9.0,Good,radio/tv,745.0,54.04,2,3,female div/dep/mar,none,2,no known property,28,none,unknown,1,unskilled resident,1,none,YES,7682.2,9.299195710455765,female,GOOD
+Louisiana,63.46,6.0,Good,radio/tv,2063.0,82.56,1,4,unknown,none,3,car,30,none,rent,1,high qualif/self emp/mgmt,1,yes,YES,2209.02,0.07074612403100776,unknown,GOOD
+Louisiana,150.94,60.0,Good,other,6288.0,77.15,2,4,male single,none,4,no known property,42,none,for free,1,skilled,1,none,YES,6516.09,0.03626808713626968,male,BAD
+Louisiana,0.0,24.0,Bad,used car,6842.0,0.0,2,-1,male single,none,4,life insurance,33,none,unknown,2,unknown,2,yes,YES,6842.0,0.0,male,BAD
+Louisiana,0.0,12.0,Good,new car,3527.0,0.0,1,2,male single,none,3,life insurance,33,none,own,1,high qualif/self emp/mgmt,2,yes,YES,3527.0,0.0,male,BAD
+Louisiana,0.0,10.0,Good,new car,1546.0,0.0,2,-1,unknown,none,2,real estate,31,none,own,1,unskilled resident,2,none,YES,1546.0,0.0,unknown,GOOD
+Louisiana,0.0,24.0,Moderate,furniture/equipment,929.0,0.0,3,4,male single,none,2,car,31,stores,own,1,skilled,1,unknown,NO,929.0,0.0,male,GOOD
+Louisiana,0.0,4.0,Bad,new car,1455.0,0.0,3,2,male single,none,-1,real estate,42,none,own,3,unskilled resident,2,unknown,NO,1455.0,0.0,male,GOOD
+Louisiana,-6930.31,15.0,Good,furniture/equipment,2315.0,22.67,1,4,female div/dep/mar,unknown,1,life insurance,46,none,rent,-1,skilled,1,none,YES,-4592.64,-2.982573402417962,female,GOOD
+Louisiana,68.8,48.0,Moderate,new car,8358.0,586.68,1,1,female div/dep/mar,none,1,no known property,30,none,own,2,skilled,1,none,YES,9013.48,0.07841607847828687,female,GOOD
+Louisiana,-1377.54,24.0,Good,furniture/equipment,3349.0,672.43,1,4,male single,unknown,4,no known property,30,none,for free,1,skilled,2,yes,NO,2643.89,-0.21048059701492539,male,GOOD
+Louisiana,0.0,12.0,Good,other,2859.0,0.0,0,4,male single,none,4,no known property,33,none,own,1,high qualif/self emp/mgmt,1,yes,YES,2859.0,0.0,male,GOOD
+Louisiana,0.0,18.0,Good,furniture/equipment,1533.0,0.0,1,4,male mar/wid,co applicant,1,life insurance,33,none,own,1,unskilled resident,2,none,NO,1533.0,0.0,male,GOOD
+Louisiana,0.0,24.0,Good,radio/tv,3621.0,0.0,0,2,male single,unknown,4,car,31,none,own,2,skilled,1,none,YES,3621.0,0.0,male,GOOD
+Louisiana,111.5,18.0,Bad,business,3590.0,14.04,0,3,male mar/wid,none,3,car,40,none,own,3,unemp/unskilled non res,2,yes,YES,3715.54,0.034959621275410746,male,BAD
+Louisiana,-4965.47,36.0,Moderate,business,2145.0,47.97,3,2,male single,none,1,car,24,none,own,2,unknown,1,yes,NO,-2772.5,-2.2914725069897486,male,GOOD
+Louisiana,0.0,24.0,Moderate,other,4113.0,0.0,0,-1,female div/dep/mar,none,4,no known property,28,none,rent,1,skilled,1,none,YES,4113.0,0.0,female,BAD
+Louisiana,0.0,36.0,Good,furniture/equipment,10974.0,0.0,0,-1,female div/dep/mar,none,2,car,26,none,own,2,high qualif/self emp/mgmt,1,yes,NO,10974.0,0.0,female,GOOD
+Massachusetts,-8272.23,12.0,Good,new car,1893.0,95.08,2,4,female div/dep/mar,guarantor,4,life insurance,29,none,own,-1,skilled,1,yes,YES,-6284.15,-4.317397043294615,female,GOOD
+Massachusetts,-6700.86,24.0,Bad,radio/tv,1231.0,2176.54,4,4,female div/dep/mar,none,4,life insurance,57,none,rent,2,high qualif/self emp/mgmt,1,yes,YES,-3293.3199999999997,-3.6723376623376622,female,GOOD
+Massachusetts,3586.3,30.0,Bad,radio/tv,3656.0,0.0,4,4,unknown,none,4,life insurance,49,stores,unknown,2,unskilled resident,1,none,YES,7242.3,0.9806672135630299,unknown,BAD
+Massachusetts,193.78,9.0,Bad,radio/tv,1154.0,1.28,4,2,male single,none,4,real estate,33,none,own,3,unskilled resident,1,none,NO,1349.06,0.16888311688311688,male,GOOD
+Massachusetts,-6792.8,28.0,Good,new car,4006.0,29.47,0,3,male single,none,2,car,45,none,own,1,unskilled resident,1,unknown,NO,-2757.33,-1.6878787122535563,male,BAD
+Massachusetts,169.67,24.0,Good,other,3069.0,286.74,4,4,male single,none,4,no known property,30,unknown,for free,1,skilled,1,none,YES,3525.41,0.14866775244299674,male,BAD
+Massachusetts,0.0,6.0,Moderate,radio/tv,1740.0,0.0,4,2,male mar/wid,none,2,real estate,30,none,rent,2,skilled,1,none,YES,1740.0,0.0,male,GOOD
+Massachusetts,192.9,21.0,Moderate,new car,2353.0,73.52,2,1,male div/sep,none,4,life insurance,47,none,own,2,skilled,1,none,NO,2619.42,0.11317757009345795,male,GOOD
+Massachusetts,0.0,15.0,Good,new car,3556.0,0.0,2,3,male single,none,2,no known property,29,none,own,1,skilled,1,none,NO,3556.0,0.0,male,GOOD
+Massachusetts,0.0,24.0,Good,radio/tv,2397.0,0.0,4,3,male single,none,2,car,35,unknown,own,2,skilled,1,yes,NO,2397.0,0.0,male,GOOD
+Massachusetts,0.0,6.0,Good,repairs,2315.0,0.0,0,3,male mar/wid,none,1,life insurance,22,unknown,unknown,1,unskilled resident,1,none,NO,2315.0,0.0,male,BAD
+Massachusetts,55.87,30.0,Good,radio/tv,1715.0,0.0,2,4,female div/dep/mar,none,1,car,26,none,unknown,1,skilled,1,none,YES,1770.87,0.032558275058275056,female,GOOD
+Massachusetts,132.11,27.0,Bad,radio/tv,2520.0,774.26,2,4,male single,none,2,life insurance,23,unknown,own,2,unskilled resident,1,none,YES,3426.37,0.359527965093217,male,GOOD
+Maryland,0.0,15.0,Moderate,other,3568.0,0.0,4,4,female div/dep/mar,unknown,-1,no known property,54,bank,rent,1,high qualif/self emp/mgmt,1,yes,YES,3568.0,0.0,female,GOOD
+Maryland,0.0,42.0,Good,radio/tv,7166.0,0.0,3,2,male mar/wid,none,4,life insurance,29,none,rent,1,skilled,1,yes,YES,7166.0,0.0,male,BAD
+Maryland,-9201.17,11.0,Bad,new car,3939.0,82.17,2,1,male single,none,2,real estate,40,none,own,2,unskilled resident,2,none,YES,-5180.0,-2.3144670050761422,male,BAD
+Maryland,0.0,15.0,Good,repairs,1514.0,0.0,2,-1,male single,guarantor,2,real estate,22,unknown,own,1,skilled,1,none,YES,1514.0,0.0,male,GOOD
+Maryland,0.0,24.0,Good,new car,7393.0,0.0,2,1,male single,none,4,life insurance,43,none,unknown,1,unskilled resident,2,unknown,YES,7393.0,0.0,male,GOOD
+Maryland,-3817.21,24.0,Good,new car,1193.0,7.35,0,1,female div/dep/mar,co applicant,4,no known property,29,none,rent,2,unemp/unskilled non res,1,none,YES,-2616.86,-3.1908375209380235,female,GOOD
+Maryland,-5030.05,60.0,Good,business,2315.0,0.0,4,-1,male single,co applicant,4,no known property,33,none,rent,1,skilled,1,none,YES,-2715.05,-2.171869602763385,male,BAD
+Maryland,0.0,30.0,Bad,other,2315.0,0.0,2,-1,female div/dep/mar,none,2,car,33,none,own,1,skilled,1,yes,YES,2315.0,0.0,female,BAD
+Maine,9492.3,24.0,Good,radio/tv,2315.0,732.13,2,3,female div/dep/mar,none,3,no known property,57,none,own,1,unskilled resident,1,none,NO,12539.429999999998,4.414693436960276,female,GOOD
+Michigan,161.73,6.0,Good,radio/tv,753.0,0.0,2,2,female div/dep/mar,guarantor,-1,real estate,64,none,own,1,unknown,1,none,NO,914.73,0.21449602122015915,female,GOOD
+Michigan,137.22,18.0,Moderate,business,2427.0,0.0,4,4,male single,none,2,life insurance,42,none,own,2,skilled,1,none,YES,2564.22,0.056515650741350905,male,GOOD
+Michigan,0.0,24.0,Moderate,new car,2538.0,0.0,4,4,unknown,none,4,car,47,none,own,2,unskilled resident,2,none,YES,2538.0,0.0,unknown,BAD
+Michigan,8.44,15.0,Good,new car,1264.0,119.45,2,2,male mar/wid,none,-1,life insurance,25,none,rent,1,skilled,1,none,YES,1391.89,0.10109881422924902,male,GOOD
+Michigan,84.87,30.0,Bad,furniture/equipment,8386.0,1.92,3,2,male single,none,2,life insurance,49,none,own,1,skilled,1,none,YES,8472.79,0.010348157863359962,male,GOOD
+Michigan,0.0,48.0,Good,business,4844.0,0.0,0,3,male single,unknown,2,car,33,bank,rent,1,high qualif/self emp/mgmt,1,yes,YES,4844.0,0.0,male,BAD
+Michigan,7338.22,21.0,Good,new car,2923.0,174.71,2,1,female div/dep/mar,none,1,car,28,bank,own,1,high qualif/self emp/mgmt,1,yes,NO,10435.93,2.5694015047879617,female,GOOD
+Michigan,-3300.97,36.0,Good,used car,8229.0,32.32,2,2,male single,none,2,life insurance,26,none,own,1,skilled,2,none,YES,4960.35,-0.39716281895504246,male,GOOD
+Michigan,0.0,24.0,Bad,furniture/equipment,2028.0,0.0,3,2,male single,none,2,life insurance,30,none,own,2,unskilled resident,1,none,YES,2028.0,0.0,male,GOOD
+New Mexico,-6188.9,15.0,Bad,furniture/equipment,1433.0,15.71,2,4,female div/dep/mar,none,3,life insurance,25,none,rent,2,skilled,1,none,YES,-4740.19,-4.304874476987448,female,BAD
+New Mexico,3071.02,42.0,Moderate,business,6289.0,20.05,1,2,male div/sep,none,1,life insurance,33,none,own,2,skilled,1,none,NO,9380.07,0.4914260731319555,male,GOOD
+New Mexico,0.0,13.0,Good,radio/tv,1409.0,0.0,0,2,female div/dep/mar,none,-1,real estate,64,none,own,1,skilled,1,none,YES,1409.0,0.0,female,BAD
+New Mexico,-5107.89,24.0,Good,used car,6579.0,21.65,0,4,male single,unknown,-1,no known property,29,none,for free,1,high qualif/self emp/mgmt,1,yes,NO,1492.7599999999993,-0.772984802431611,male,GOOD
+Nevada,96.89,24.0,Bad,radio/tv,2315.0,29.55,4,4,male single,none,2,life insurance,48,none,own,-1,unskilled resident,1,none,NO,2441.44,0.05459412780656304,male,GOOD
+Nevada,0.0,12.0,Bad,education,3565.0,0.0,1,2,male single,none,1,life insurance,37,none,own,2,unskilled resident,2,none,NO,3565.0,0.0,male,GOOD
+New York,0.0,15.0,Good,radio/tv,1569.0,0.0,4,4,unknown,none,4,car,34,bank,unknown,1,unskilled resident,2,none,NO,1569.0,0.0,unknown,GOOD
+New York,0.0,18.0,Good,radio/tv,1936.0,0.0,3,2,male mar/wid,none,4,car,23,none,unknown,-1,unskilled resident,1,none,YES,1936.0,0.0,male,GOOD
+New York,-9599.81,36.0,Good,furniture/equipment,3959.0,25.06,0,-1,unknown,none,3,life insurance,30,none,own,1,high qualif/self emp/mgmt,1,yes,NO,-5615.75,-2.4178661616161614,unknown,BAD
+New York,0.0,12.0,Good,new car,2390.0,0.0,4,4,male single,none,3,car,50,none,own,1,skilled,1,yes,NO,2390.0,0.0,male,GOOD
+New York,0.0,12.0,Good,furniture/equipment,1736.0,0.0,3,3,unknown,none,4,real estate,31,none,own,1,unskilled resident,1,none,NO,1736.0,0.0,unknown,BAD
+New York,-3296.07,30.0,Good,other,3857.0,88.42,2,4,male div/sep,none,4,life insurance,40,none,own,1,high qualif/self emp/mgmt,1,yes,YES,649.3499999999999,-0.8314282011404873,male,GOOD
+Ohio,0.0,18.0,Good,radio/tv,804.0,0.0,4,4,male single,unknown,4,car,38,none,own,1,skilled,1,none,NO,804.0,0.0,male,GOOD
+Ohio,-7050.13,45.0,Good,radio/tv,1845.0,66.53,2,4,male single,unknown,-1,no known property,23,none,for free,1,skilled,1,yes,YES,-5138.6,-3.783098591549296,male,GOOD
+Ohio,32.57,45.0,Bad,other,4576.0,227.77,0,3,male single,unknown,4,car,27,none,unknown,1,skilled,1,none,YES,4836.34,0.056880052436093516,male,GOOD
