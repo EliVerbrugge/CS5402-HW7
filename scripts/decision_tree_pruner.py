@@ -166,11 +166,12 @@ def prune(df, initial_error, Y1, E1, antecedents, consequent, confidence_level):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_file', help="Specify the name of the data file", default="credit_output.csv")
+    parser.add_argument('--data_file', help="Specify the name of the data file", default="..\data\credit_output_final_binned.csv")
     parser.add_argument('--rules_file', help="Specify the name of the rules file", default="rules.txt")
     parser.add_argument("--rule", help="Specify a custom rule to be run and pruned", default="")
     parser.add_argument('--type', help="Specify the type of operation to be run", choices=["PRUNE", "RULES"], default="PRUNE")
     args = parser.parse_args()
+    
     # Modify this to run tests at a different alpha
     confidence_level = 0.75
 
