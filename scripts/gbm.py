@@ -57,14 +57,21 @@ def evaluate_model(model, X, y):
     return scores
 
 def run_alg(model, f):
-        return f(y_test, model.predict(X_test))
+    # This is normally run while in interpretted mode because we
+    # needed to look at individual models. Might not run correctly
+    # at regular runtime because of use of y_test and X_test
+    return f(y_test, model.predict(X_test))
 
 def summary(model):
+    # This is normally run while in interpretted mode because we
+    # needed to look at individual models. Might not run correctly
+    # at regular runtime because of use of y_test and X_test
     print(f"Accuracy: {round(run_alg(model, metrics.accuracy_score), 4)}")
     print(f"Precision: {round(run_alg(model, metrics.precision_score), 4)}")
     print(f"Recall: {round(run_alg(model, metrics.recall_score), 4)}")
     print(f"ROC AUC: {round(run_alg(model, metrics.roc_auc_score), 4)}")
     print(f"F-measure: {round(run_alg(model, metrics.f1_score), 4)}")
+    print(f"Kappa: {round(run_alg(model, metrics.cohen_kappa_score), 4)}")
     print("Confusion matrix")
     print(run_alg(model, metrics.confusion_matrix))
 
