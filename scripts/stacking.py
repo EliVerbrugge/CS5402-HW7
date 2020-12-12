@@ -92,6 +92,9 @@ for label, model in models.items():
     results.append(scores)
     print("Accuracy: %0.2f (+/- %0.2f) [%s]" % (scores.mean(), scores.std(),label))
 
+scores = evaluate_model(sclf, X, y)
+results.append(scores)
+print("Accuracy: %0.2f (+/- %0.2f) [%s]" % (scores.mean(), scores.std(),'Stacking'))
 
 print("\nSummary of stacking classifier\n")
 
