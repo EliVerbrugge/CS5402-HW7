@@ -1,0 +1,255 @@
+savings <= 0
+|   proportion <= 0: GOOD (108.0/34.0)
+|   proportion > 0
+|   |   other_parties = none
+|   |   |   own_telephone = yes
+|   |   |   |   residence_since <= -1
+|   |   |   |   |   checking_amt <= 4: GOOD (22.0/2.0)
+|   |   |   |   |   checking_amt > 4: BAD (4.0/1.0)
+|   |   |   |   residence_since > -1
+|   |   |   |   |   num_dependents <= 1
+|   |   |   |   |   |   gender = male
+|   |   |   |   |   |   |   purpose = radio/tv
+|   |   |   |   |   |   |   |   total <= 5
+|   |   |   |   |   |   |   |   |   residence_since <= 3: GOOD (11.0/2.0)
+|   |   |   |   |   |   |   |   |   residence_since > 3: BAD (4.0/1.0)
+|   |   |   |   |   |   |   |   total > 5: BAD (9.0)
+|   |   |   |   |   |   |   purpose = education
+|   |   |   |   |   |   |   |   duration <= 4: GOOD (2.0)
+|   |   |   |   |   |   |   |   duration > 4: BAD (3.0/1.0)
+|   |   |   |   |   |   |   purpose = furniture/equipment: BAD (14.0/3.0)
+|   |   |   |   |   |   |   purpose = other: GOOD (13.0/3.0)
+|   |   |   |   |   |   |   purpose = used car
+|   |   |   |   |   |   |   |   personal_status = male single
+|   |   |   |   |   |   |   |   |   proportion <= 1
+|   |   |   |   |   |   |   |   |   |   total <= 5: BAD (2.0)
+|   |   |   |   |   |   |   |   |   |   total > 5: GOOD (11.0/2.0)
+|   |   |   |   |   |   |   |   |   proportion > 1: BAD (4.0)
+|   |   |   |   |   |   |   |   personal_status = female div/dep/mar: GOOD (0.0)
+|   |   |   |   |   |   |   |   personal_status = male div/sep: GOOD (2.0)
+|   |   |   |   |   |   |   |   personal_status = male mar/wid: GOOD (2.0)
+|   |   |   |   |   |   |   |   personal_status = unknown: GOOD (0.0)
+|   |   |   |   |   |   |   purpose = new car
+|   |   |   |   |   |   |   |   installment_commitment <= 1: BAD (3.0)
+|   |   |   |   |   |   |   |   installment_commitment > 1
+|   |   |   |   |   |   |   |   |   employment <= 1: BAD (4.0/1.0)
+|   |   |   |   |   |   |   |   |   employment > 1: GOOD (10.0)
+|   |   |   |   |   |   |   purpose = business: GOOD (17.0/6.0)
+|   |   |   |   |   |   |   purpose = domestic appliance: GOOD (1.0)
+|   |   |   |   |   |   |   purpose = repairs: GOOD (0.0)
+|   |   |   |   |   |   |   purpose = retraining: GOOD (1.0)
+|   |   |   |   |   |   gender = female
+|   |   |   |   |   |   |   housing = own
+|   |   |   |   |   |   |   |   foreign_worker = NO: GOOD (11.0/3.0)
+|   |   |   |   |   |   |   |   foreign_worker = YES
+|   |   |   |   |   |   |   |   |   existing_credits <= -1: GOOD (2.0)
+|   |   |   |   |   |   |   |   |   existing_credits > -1: BAD (19.0/5.0)
+|   |   |   |   |   |   |   housing = unknown
+|   |   |   |   |   |   |   |   age <= 1: BAD (2.0)
+|   |   |   |   |   |   |   |   age > 1
+|   |   |   |   |   |   |   |   |   installment_commitment <= 2: BAD (2.0)
+|   |   |   |   |   |   |   |   |   installment_commitment > 2: GOOD (4.0/1.0)
+|   |   |   |   |   |   |   housing = for free: BAD (4.0)
+|   |   |   |   |   |   |   housing = rent
+|   |   |   |   |   |   |   |   checking_amt <= 1: GOOD (3.0/1.0)
+|   |   |   |   |   |   |   |   checking_amt > 1: BAD (5.0)
+|   |   |   |   |   |   gender = unknown
+|   |   |   |   |   |   |   proportion <= 1
+|   |   |   |   |   |   |   |   purpose = radio/tv: BAD (2.0)
+|   |   |   |   |   |   |   |   purpose = education: BAD (0.0)
+|   |   |   |   |   |   |   |   purpose = furniture/equipment: GOOD (4.0)
+|   |   |   |   |   |   |   |   purpose = other: GOOD (3.0/1.0)
+|   |   |   |   |   |   |   |   purpose = used car: BAD (3.0)
+|   |   |   |   |   |   |   |   purpose = new car: GOOD (1.0)
+|   |   |   |   |   |   |   |   purpose = business: BAD (1.0)
+|   |   |   |   |   |   |   |   purpose = domestic appliance: BAD (0.0)
+|   |   |   |   |   |   |   |   purpose = repairs: BAD (0.0)
+|   |   |   |   |   |   |   |   purpose = retraining: BAD (0.0)
+|   |   |   |   |   |   |   proportion > 1: GOOD (6.0)
+|   |   |   |   |   num_dependents > 1: BAD (30.0/9.0)
+|   |   |   own_telephone = none
+|   |   |   |   credit_history = Bad
+|   |   |   |   |   other_payment_plans = none
+|   |   |   |   |   |   num_dependents <= 1: GOOD (58.0/12.0)
+|   |   |   |   |   |   num_dependents > 1
+|   |   |   |   |   |   |   employment <= 3: GOOD (8.0/2.0)
+|   |   |   |   |   |   |   employment > 3: BAD (4.0)
+|   |   |   |   |   other_payment_plans = unknown
+|   |   |   |   |   |   existing_credits <= 1: BAD (2.0)
+|   |   |   |   |   |   existing_credits > 1: GOOD (8.0/1.0)
+|   |   |   |   |   other_payment_plans = bank
+|   |   |   |   |   |   job = skilled: BAD (3.0/1.0)
+|   |   |   |   |   |   job = unskilled resident: GOOD (6.0)
+|   |   |   |   |   |   job = high qualif/self emp/mgmt: BAD (1.0)
+|   |   |   |   |   |   job = unknown: BAD (2.0)
+|   |   |   |   |   |   job = unemp/unskilled non res: GOOD (0.0)
+|   |   |   |   |   other_payment_plans = stores: BAD (3.0)
+|   |   |   |   credit_history = Good
+|   |   |   |   |   residence_since <= -1
+|   |   |   |   |   |   other_payment_plans = none: BAD (14.0/2.0)
+|   |   |   |   |   |   other_payment_plans = unknown: GOOD (3.0/1.0)
+|   |   |   |   |   |   other_payment_plans = bank: BAD (3.0)
+|   |   |   |   |   |   other_payment_plans = stores: GOOD (2.0)
+|   |   |   |   |   residence_since > -1
+|   |   |   |   |   |   existing_credits <= -1: GOOD (14.0/2.0)
+|   |   |   |   |   |   existing_credits > -1
+|   |   |   |   |   |   |   employment <= 0
+|   |   |   |   |   |   |   |   age <= 1
+|   |   |   |   |   |   |   |   |   duration <= 1: BAD (2.0)
+|   |   |   |   |   |   |   |   |   duration > 1: GOOD (3.0)
+|   |   |   |   |   |   |   |   age > 1: GOOD (9.0)
+|   |   |   |   |   |   |   employment > 0
+|   |   |   |   |   |   |   |   purpose = radio/tv
+|   |   |   |   |   |   |   |   |   job = skilled
+|   |   |   |   |   |   |   |   |   |   housing = own
+|   |   |   |   |   |   |   |   |   |   |   total <= 2: GOOD (3.0)
+|   |   |   |   |   |   |   |   |   |   |   total > 2: BAD (18.0/5.0)
+|   |   |   |   |   |   |   |   |   |   housing = unknown: BAD (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   housing = for free: GOOD (1.0)
+|   |   |   |   |   |   |   |   |   |   housing = rent: GOOD (3.0/1.0)
+|   |   |   |   |   |   |   |   |   job = unskilled resident: GOOD (9.0/1.0)
+|   |   |   |   |   |   |   |   |   job = high qualif/self emp/mgmt: GOOD (0.0)
+|   |   |   |   |   |   |   |   |   job = unknown: BAD (2.0)
+|   |   |   |   |   |   |   |   |   job = unemp/unskilled non res: GOOD (0.0)
+|   |   |   |   |   |   |   |   purpose = education
+|   |   |   |   |   |   |   |   |   employment <= 3: GOOD (4.0)
+|   |   |   |   |   |   |   |   |   employment > 3: BAD (2.0)
+|   |   |   |   |   |   |   |   purpose = furniture/equipment
+|   |   |   |   |   |   |   |   |   property_magnitude = real estate: GOOD (4.0/1.0)
+|   |   |   |   |   |   |   |   |   property_magnitude = no known property: BAD (4.0)
+|   |   |   |   |   |   |   |   |   property_magnitude = life insurance
+|   |   |   |   |   |   |   |   |   |   total <= 4: BAD (2.0)
+|   |   |   |   |   |   |   |   |   |   total > 4: GOOD (5.0/1.0)
+|   |   |   |   |   |   |   |   |   property_magnitude = car: GOOD (4.0)
+|   |   |   |   |   |   |   |   purpose = other
+|   |   |   |   |   |   |   |   |   proportion <= 1: BAD (7.0/1.0)
+|   |   |   |   |   |   |   |   |   proportion > 1: GOOD (5.0/1.0)
+|   |   |   |   |   |   |   |   purpose = used car: GOOD (8.0)
+|   |   |   |   |   |   |   |   purpose = new car
+|   |   |   |   |   |   |   |   |   housing = own
+|   |   |   |   |   |   |   |   |   |   other_payment_plans = none
+|   |   |   |   |   |   |   |   |   |   |   employment <= 2: GOOD (8.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   employment > 2: BAD (3.0)
+|   |   |   |   |   |   |   |   |   |   other_payment_plans = unknown: BAD (1.0)
+|   |   |   |   |   |   |   |   |   |   other_payment_plans = bank: GOOD (2.0)
+|   |   |   |   |   |   |   |   |   |   other_payment_plans = stores: GOOD (1.0)
+|   |   |   |   |   |   |   |   |   housing = unknown: BAD (2.0)
+|   |   |   |   |   |   |   |   |   housing = for free: GOOD (1.0)
+|   |   |   |   |   |   |   |   |   housing = rent: BAD (2.0)
+|   |   |   |   |   |   |   |   purpose = business
+|   |   |   |   |   |   |   |   |   employment <= 2: BAD (3.0/1.0)
+|   |   |   |   |   |   |   |   |   employment > 2: GOOD (2.0)
+|   |   |   |   |   |   |   |   purpose = domestic appliance: BAD (2.0/1.0)
+|   |   |   |   |   |   |   |   purpose = repairs: BAD (3.0/1.0)
+|   |   |   |   |   |   |   |   purpose = retraining: BAD (2.0/1.0)
+|   |   |   |   credit_history = Moderate
+|   |   |   |   |   gender = male
+|   |   |   |   |   |   age <= 1: BAD (3.0)
+|   |   |   |   |   |   age > 1: GOOD (41.0/13.0)
+|   |   |   |   |   gender = female
+|   |   |   |   |   |   employment <= 1: GOOD (7.0/1.0)
+|   |   |   |   |   |   employment > 1
+|   |   |   |   |   |   |   duration <= 0: GOOD (3.0/1.0)
+|   |   |   |   |   |   |   duration > 0: BAD (9.0)
+|   |   |   |   |   gender = unknown: BAD (5.0)
+|   |   |   own_telephone = unknown
+|   |   |   |   num_dependents <= 1
+|   |   |   |   |   job = skilled
+|   |   |   |   |   |   credit_amount <= 2: GOOD (8.0/1.0)
+|   |   |   |   |   |   credit_amount > 2
+|   |   |   |   |   |   |   foreign_worker = NO: BAD (9.0/2.0)
+|   |   |   |   |   |   |   foreign_worker = YES
+|   |   |   |   |   |   |   |   duration <= 3
+|   |   |   |   |   |   |   |   |   employment <= 2: GOOD (6.0/2.0)
+|   |   |   |   |   |   |   |   |   employment > 2: BAD (2.0)
+|   |   |   |   |   |   |   |   duration > 3: GOOD (6.0)
+|   |   |   |   |   job = unskilled resident
+|   |   |   |   |   |   gender = male
+|   |   |   |   |   |   |   age <= 2
+|   |   |   |   |   |   |   |   installment_commitment <= 3: BAD (2.0)
+|   |   |   |   |   |   |   |   installment_commitment > 3: GOOD (2.0)
+|   |   |   |   |   |   |   age > 2: BAD (5.0)
+|   |   |   |   |   |   gender = female: GOOD (2.0)
+|   |   |   |   |   |   gender = unknown: BAD (0.0)
+|   |   |   |   |   job = high qualif/self emp/mgmt
+|   |   |   |   |   |   installment_commitment <= 1: BAD (4.0/1.0)
+|   |   |   |   |   |   installment_commitment > 1: GOOD (6.0)
+|   |   |   |   |   job = unknown: BAD (3.0)
+|   |   |   |   |   job = unemp/unskilled non res: GOOD (3.0/1.0)
+|   |   |   |   num_dependents > 1: GOOD (6.0)
+|   |   other_parties = unknown
+|   |   |   total <= 8
+|   |   |   |   property_magnitude = real estate
+|   |   |   |   |   gender = male
+|   |   |   |   |   |   residence_since <= 1: BAD (4.0/1.0)
+|   |   |   |   |   |   residence_since > 1: GOOD (14.0/2.0)
+|   |   |   |   |   gender = female: BAD (4.0/1.0)
+|   |   |   |   |   gender = unknown: GOOD (3.0)
+|   |   |   |   property_magnitude = no known property
+|   |   |   |   |   credit_amount <= 7: GOOD (18.0/5.0)
+|   |   |   |   |   credit_amount > 7: BAD (4.0/1.0)
+|   |   |   |   property_magnitude = life insurance: GOOD (11.0/1.0)
+|   |   |   |   property_magnitude = car
+|   |   |   |   |   other_payment_plans = none
+|   |   |   |   |   |   housing = own
+|   |   |   |   |   |   |   credit_history = Bad: BAD (3.0)
+|   |   |   |   |   |   |   credit_history = Good
+|   |   |   |   |   |   |   |   installment_commitment <= -1: BAD (2.0)
+|   |   |   |   |   |   |   |   installment_commitment > -1: GOOD (8.0/1.0)
+|   |   |   |   |   |   |   credit_history = Moderate: BAD (5.0/1.0)
+|   |   |   |   |   |   housing = unknown: GOOD (4.0)
+|   |   |   |   |   |   housing = for free: BAD (1.0)
+|   |   |   |   |   |   housing = rent: BAD (2.0)
+|   |   |   |   |   other_payment_plans = unknown: GOOD (2.0)
+|   |   |   |   |   other_payment_plans = bank: BAD (4.0)
+|   |   |   |   |   other_payment_plans = stores: BAD (0.0)
+|   |   |   total > 8: BAD (5.0)
+|   |   other_parties = guarantor
+|   |   |   duration <= 6
+|   |   |   |   credit_history = Bad: GOOD (7.0/1.0)
+|   |   |   |   credit_history = Good
+|   |   |   |   |   personal_status = male single: GOOD (11.0/4.0)
+|   |   |   |   |   personal_status = female div/dep/mar
+|   |   |   |   |   |   age <= 2
+|   |   |   |   |   |   |   residence_since <= 3: BAD (2.0)
+|   |   |   |   |   |   |   residence_since > 3: GOOD (2.0)
+|   |   |   |   |   |   age > 2: GOOD (3.0)
+|   |   |   |   |   personal_status = male div/sep: GOOD (0.0)
+|   |   |   |   |   personal_status = male mar/wid: BAD (3.0)
+|   |   |   |   |   personal_status = unknown: BAD (2.0)
+|   |   |   |   credit_history = Moderate: GOOD (2.0)
+|   |   |   duration > 6: BAD (4.0)
+|   |   other_parties = co applicant
+|   |   |   other_payment_plans = none: GOOD (21.0/4.0)
+|   |   |   other_payment_plans = unknown: BAD (1.0)
+|   |   |   other_payment_plans = bank
+|   |   |   |   installment_commitment <= 2: GOOD (3.0)
+|   |   |   |   installment_commitment > 2: BAD (2.0)
+|   |   |   other_payment_plans = stores: BAD (1.0)
+savings > 0
+|   other_parties = none
+|   |   gender = male
+|   |   |   existing_credits <= 1
+|   |   |   |   residence_since <= 3
+|   |   |   |   |   installment_commitment <= 1
+|   |   |   |   |   |   checking_amt <= 3: GOOD (2.0)
+|   |   |   |   |   |   checking_amt > 3: BAD (3.0)
+|   |   |   |   |   installment_commitment > 1: GOOD (19.0/1.0)
+|   |   |   |   residence_since > 3: BAD (10.0/4.0)
+|   |   |   existing_credits > 1
+|   |   |   |   personal_status = male single
+|   |   |   |   |   age <= 2
+|   |   |   |   |   |   employment <= 2: BAD (4.0/1.0)
+|   |   |   |   |   |   employment > 2: GOOD (3.0)
+|   |   |   |   |   age > 2: BAD (3.0)
+|   |   |   |   personal_status = female div/dep/mar: BAD (0.0)
+|   |   |   |   personal_status = male div/sep: GOOD (2.0)
+|   |   |   |   personal_status = male mar/wid: BAD (3.0)
+|   |   |   |   personal_status = unknown: BAD (0.0)
+|   |   gender = female: GOOD (26.0/4.0)
+|   |   gender = unknown: GOOD (6.0/1.0)
+|   other_parties = unknown
+|   |   checking_amt <= 4: GOOD (4.0)
+|   |   checking_amt > 4: BAD (2.0)
+|   other_parties = guarantor: BAD (1.0)
+|   other_parties = co applicant: BAD (2.0)
